@@ -42,5 +42,3 @@ Developed advanced analytical measures to calculate key business metrics:
 - Managed project timelines and delegated technical tasks.
 - Coordinated cross-functional work between ETL, Data Modeling, and DAX phases.
 - Compiled the final Handover Documentation and presentation materials.
-- Coordinated cross-functional work between ETL, Data Modeling, and DAX phases.
-- Compiled the final Handover Documentation and presentation materials.
