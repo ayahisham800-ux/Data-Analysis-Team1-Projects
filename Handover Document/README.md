@@ -38,7 +38,8 @@ Developed advanced analytical measures to calculate key business metrics:
 - Designed the overall layout, theme, and user experience (UX) framework for the dashboard pages.
 - Prepared the structural canvas to host the final data visualizations and executive summaries.
 
-### 5. Project Management (Aya Hisham)
+### 5. Project Management & Data Governance (Aya Hisham)
 - Managed project timelines and delegated technical tasks.
 - Coordinated cross-functional work between ETL, Data Modeling, and DAX phases.
 - Compiled the final Handover Documentation and presentation materials.
+- **Data Security:** Implemented Row-Level Security (RLS) within the data model to restrict access based on geographical regions (Central, East, North, South, West).
