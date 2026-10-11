@@ -28,12 +28,13 @@ This project provides an end-to-end business intelligence solution using Power B
   - `DIM_Order_Status`, `DIM_Return_Flag`
 
 ### 3. DAX Measures (Aya Anwar)
-Developed advanced analytical measures to calculate key business metrics:
-- **Sales & Profitability:** `Total Sales`, `Total Profit`, `Profit Margin %`, `Average Profit`, `Average Order Value`.
-- **Volume Metrics:** `Total Orders`, `Total Quantity`, `Total Customers`.
-- **Operational Metrics:** `Return Rate %`, `Returned Orders`, `Average Customer Satisfaction`.
-- **Time Intelligence:** `Sales YTD`.
 
+Developed advanced analytical measures to calculate key business metrics:
+
+- **Sales & Profitability:** Total Sales, Total Profit, Profit Margin %, Average Profit, Average Order Value.
+- **Volume Metrics:** Total Orders, Total Quantity, Total Customers.
+- **Operational Metrics:** Return Rate %, Returned Orders, Average Customer Satisfaction.
+- **Time Intelligence & Advanced DAX:** Sales YTD, YoY Growth, Running Total, Top N Products Rank.
 ### 4. Dashboard UI/UX Design (Shorouk)
 - Designed the overall layout, theme, and user experience (UX) framework for the dashboard pages.
 - Prepared the structural canvas to host the final data visualizations and executive summaries.
