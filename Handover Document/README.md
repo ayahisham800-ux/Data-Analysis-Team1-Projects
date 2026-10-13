@@ -35,10 +35,14 @@ Developed advanced analytical measures to calculate key business metrics:
 - **Volume Metrics:** Total Orders, Total Quantity, Total Customers.
 - **Operational Metrics:** Return Rate %, Returned Orders, Average Customer Satisfaction.
 - **Time Intelligence & Advanced DAX:** Sales YTD, YoY Growth, Running Total, Top N Products Rank.
-### 4. Dashboard UI/UX Design (Shorouk)
-- Designed the overall layout, theme, and user experience (UX) framework for the dashboard pages.
-- Prepared the structural canvas to host the final data visualizations and executive summaries.
 
+### 4. Dashboard UI/UX Design & Data Visualization (Shorouk)
+
+- **UI/UX & Interface Design:** Designed a modern, interactive Power BI interface utilizing "Glassmorphism" design principles and custom cover pages to enhance user experience.
+- **Color Theme Standardization:** Implemented a unified, accessible monochromatic color palette (Pastel/Purple tones) to ensure visual consistency and reduce cognitive load.
+- **Dynamic Visualizations:** Built multi-page analytical reports (Sales, Operations, Customers) integrating advanced visuals such as Decomposition Trees, Ribbon Charts, and Waterfall charts.
+- **Report Navigation:** Created seamless page navigation using buttons and bookmarks for intuitive data exploration across different business levels.
+  
 ### 5. Project Management & Data Governance (Aya Hisham)
 - Managed project timelines and delegated technical tasks.
 - Coordinated cross-functional work between ETL, Data Modeling, and DAX phases.
