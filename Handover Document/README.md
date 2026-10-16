@@ -44,7 +44,11 @@ Developed advanced analytical measures to calculate key business metrics:
 - **Report Navigation:** Created seamless page navigation using buttons and bookmarks for intuitive data exploration across different business levels.
   
 ### 5. Project Management & Data Governance (Aya Hisham)
-- Managed project timelines and delegated technical tasks.
-- Coordinated cross-functional work between ETL, Data Modeling, and DAX phases.
-- Compiled the final Handover Documentation and presentation materials.
-- **Data Security:** Implemented Row-Level Security (RLS) within the data model to restrict access based on geographical regions (Central, East, North, South, West).
+
+* Managed project timelines and delegated technical tasks.
+* Coordinated cross-functional work between ETL, Data Modeling, and DAX phases.
+* Compiled the final Handover Documentation and presentation materials.
+* **Data Security:** Implemented Row-Level Security (RLS) within the data model to restrict access based on geographical regions (Central, East, North, South, West).
+* **App Deployment:** Published the interactive report to Power BI Service and distributed it via a Power BI App. "https://app.powerbi.com/Redirect?action=OpenApp&appId=664b4c86-afd5-40c2-ab13-04f4ff71f9bd&ctid=291a3013-319f-4cf9-9e78-071b3f2d4944&experience=power-bi"
+  > *Note: App access is currently set to 'Entire Organization' for evaluation purposes. In a real-world scenario, it would be restricted to specific stakeholders.*
+* **Gateway & Refresh:** Configured the On-premises Data Gateway. 
