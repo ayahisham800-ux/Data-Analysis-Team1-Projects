@@ -49,7 +49,7 @@ Developed advanced analytical measures to calculate key business metrics:
 * Coordinated cross-functional work between ETL, Data Modeling, and DAX phases.
 * Compiled the final Handover Documentation and presentation materials.
 * **Data Security:** Implemented Row-Level Security (RLS) within the data model to restrict access based on geographical regions (Central, East, North, South, West).
-* **App Deployment:** Published the interactive report to Power BI Service and distributed it via a Power BI App. "https://app.powerbi.com/Redirect?action=OpenApp&appId=664b4c86-afd5-40c2-ab13-04f4ff71f9bd&ctid=291a3013-319f-4cf9-9e78-071b3f2d4944&experience=power-bi"
+* **App Deployment:** Published the interactive report to Power BI Service and distributed it via a Power BI App. "https://app.powerbi.com/Redirect?action=OpenApp&appId=0d783bf3-ce5a-407e-9dd6-c53dca6b8fda&ctid=291a3013-319f-4cf9-9e78-071b3f2d4944&experience=power-bi"
   > *Note: App access is currently set to 'Entire Organization' for evaluation purposes. In a real-world scenario, it would be restricted to specific stakeholders.*
 * **Gateway & Refresh:** Configured the On-premises Data Gateway.
  > *Note: Scheduled refresh is temporarily static due to multiple local machine paths in the team's data source.*
