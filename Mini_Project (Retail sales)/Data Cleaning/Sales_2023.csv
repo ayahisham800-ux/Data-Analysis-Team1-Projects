@@ -1,0 +1,851 @@
+﻿order_id,order_date,customer_id,customer_name,age,gender,region,city,product_category,product_name,quantity,unit_price,discount_pct,sales_amount,profit,shipping_cost,payment_method,customer_satisfaction,return_flag,order_status,days_to_ship
+ORD-02911,6/10/2023,CUST23285,Aditya Sharma,43,Female,North,Amritsar,Clothing,Saree,1,1356.6,0.01,2140.41,717.27,82.68,UPI,1,FALSE,Delivered,4
+ORD-02532,1/4/2023,CUST73360,Deepa Joshi,53,Male,South,Kochi,Clothing,T-Shirt,9,590.14,,4824.04,2277.4,79.19,EMI,1,FALSE,Delivered,4
+ORD-03257,6/11/2023,CUST88256,Shreya Singh,15,Male,East,Guwahati,Electronics,Tablet,8,73558.44,0.4,315130.44,53808.65,82.71,UPI,3,FALSE,Delivered,6
+ORD-02727,3/28/2023,CUST68233,Rahul Joshi,22,Female,Central,Nagpur,Books,Comic Book,6,1467.54,0.29,7477.88,3606.99,50.88,UPI,,FALSE,Delivered,4
+ORD-02986,7/17/2023,CUST62795,Arjun Chatterjee,30,Male,South,Bangalore,Books,Self-Help Book,,478.05,0.02,621.35,290.9,63.7,Cash on Delivery,2,FALSE,Delivered,7
+ORD-02684,3/10/2023,CUST32875,Kavya Patel,41,Male,South,Kochi,Beauty,Hair Oil,3,1290.21,0.12,3690.09,1777.76,64.97,Cash on Delivery,3,FALSE,Delivered,5
+ORD-02565,1/17/2023,CUST71120,Ritu Nair,35,Male,North,Amritsar,Furniture,Sofa,3,31242.32,0.01,92924.36,27403.47,52.73,Debit Card,3,TRUE,Returned,4
+ORD-02868,5/31/2023,CUST17518,Sanjay Shah,42,Female,Central,Indore,Furniture,Wardrobe,6,20242.36,0.04,191398.26,59116.34,83.75,Credit Card,2,FALSE,Delivered,9
+ORD-02867,5/31/2023,CUST70575,Aditya Reddy,49,Female,North,Amritsar,Sports,Cricket Bat,8,3917.74,0.27,36596.17,11271.87,60.71,Cash on Delivery,,FALSE,Delivered,8
+ORD-03357,12/23/2023,CUST53286,Kavya Verma,34,Male,East,Patna,Beauty,Face Cream,5,2497.1,0.37,6596.23,2649.2,61.27,Cash on Delivery,1,FALSE,Shipped,5
+ORD-03033,8/5/2023,CUST52453,Vikram Shah,34,Other,North,Amritsar,Groceries,Sugar,7,315.62,0.28,2026.01,104.43,72.63,Credit Card,5,FALSE,Delivered,7
+ORD-02831,5/17/2023,CUST55922,Aditya Pillai,51,Female,West,Ahmedabad,Beauty,Lipstick,1,697.15,0.18,867.37,335.66,48.84,Debit Card,3,FALSE,Pending,10
+ORD-03081,8/22/2023,CUST01739,Rohan Nair,42,Female,North,Amritsar,Books,Fiction Novel,4,889.6,0.36,3597.1,1076.91,58.16,Credit Card,3,TRUE,Returned,3
+ORD-03248,11/4/2023,CUST43818,Arjun Bhat,30,Male,South,Kochi,Clothing,Saree,7,2102.17,0.13,11565.64,3358.13,62.02,Net Banking,,FALSE,Shipped,8
+ORD-02850,5/26/2023,CUST30753,Deepa Chatterjee,28,Male,North,Chandigarh,Furniture,Bookshelf,,5493.74,0.2,6967.21,1809.32,49,Credit Card,1,FALSE,Delivered,5
+ORD-03177,10/5/2023,CUST99258,Ananya Joshi,45,Other,Central,Raipur,Furniture,Sofa,2,7616.64,0.34,11304.13,3661.21,29.23,Net Banking,4,FALSE,Delivered,1
+ORD-03092,8/29/2023,CUST21970,Rahul Verma,,Other,East,Bhubaneswar,Electronics,Headphones,3,15632.25,0.34,44298.79,4132.26,65.5,UPI,5,FALSE,Delivered,1
+ORD-03281,11/17/2023,CUST21469,Shreya Nair,43,Other,North,Amritsar,Sports,Football,4,3010.43,0.27,8396.79,1584.03,51.24,Cash on Delivery,3,FALSE,Delivered,
+ORD-02876,6/2/2023,CUST23195,Aditya Sharma,34,f,West,Surat,Furniture,Wardrobe,3,31229.73,0.32,100210.97,34252.99,53.79,EMI,5,FALSE,Pending,3
+ORD-02900,6/7/2023,CUST23268,Deepa Das,31,Female,South,Chennai,Books,Self-Help Book,1,715.84,0.24,937.54,470.99,59.5,Credit Card,2,FALSE,Delivered,4
+ORD-02956,7/4/2023,CUST64061,Rohan Pillai,10,Other,South,Chennai,Clothing,T-Shirt,9,1340.2,0.38,12757.93,3852.39,105.03,Cash on Delivery,3,FALSE,Cancelled,4
+ORD-03084,8/25/2023,CUST97761,Rahul Verma,25,Female,East,Bhubaneswar,Books,Self-Help Book,10,755.47,0.04,10570.33,4011.83,94.06,Credit Card,,FALSE,Cancelled,5
+ORD-02843,5/24/2023,CUST04791,Rahul Verma,24,Other,West,Mumbai,Books,Self-Help Book,8,579.77,0.36,3954.73,2230.94,42.6,Debit Card,3,FALSE,Delivered,7
+ORD-02773,4/16/2023,CUST69945,Rahul Das,36,Male,West,Surat,Electronics,Laptop,8,27632.84,0.08,295286.41,33436.12,20.29,Net Banking,3,FALSE,Delivered,7
+ORD-02873,6/1/2023,CUST07917,Nikhil Nair,34,Male,East,Guwahati,Sports,Football,6,5611.57,0.2,37888.42,6107.6,97.42,Credit Card,5,FALSE,Delivered,2
+ORD-03342,12/16/2023,CUST26677,Rahul Chatterjee,45,Female,Central,Raipur,Groceries,Tea,9,312.53,0.35,1437,155.73,48.28,Cash on Delivery,4,FALSE,Shipped,5
+ORD-02805,5/1/2023,CUST85937,Deepa Verma,31,Male,South,Hyderabad,Clothing,Saree,7,3482.32,0.35,26908.32,8716.81,68.92,UPI,4,FALSE,Delivered,7
+ORD-02963,7/7/2023,CUST21979,Sanjay Singh,54,Male,North,Chandigarh,Sports,Cricket Bat,1,9949.47,0.06,13501.36,3908.34,42.57,UPI,,FALSE,Delivered,5
+ORD-02836,5/19/2023,CUST76017,Arjun Chatterjee,37,Female,Central,Bhopal,Furniture,Bookshelf,10,7630.7,0.21,99978.26,21558.18,46.42,Cash on Delivery,5,FALSE,Cancelled,8
+ORD-02778,4/17/2023,CUST21931,Kavya Mehta,,Female,West,Surat,Books,Textbook,8,337.73,0.38,2495.05,1142.99,48.99,Cash on Delivery,5,TRUE,Returned,6
+ORD-03309,12/1/2023,CUST44030,Aditya Iyer,,M,West,Mumbai,Clothing,Jeans,3,3608.42,0.29,6927.13,1997.74,54.98,Cash on Delivery,5,FALSE,Delivered,9
+ORD-03365,12/29/2023,CUST03410,Sunita Das,,Female,East,Patna,Electronics,Smartphone,9,30674.09,0.39,159421.61,15597.31,76.43,Cash on Delivery,,FALSE,Delivered,2
+ORD-02723,3/27/2023,CUST08867,Nisha Kapoor,12,Other,Central,Raipur,Electronics,Tablet,2,69342.57,0.08,154630.39,18946.95,47.74,Net Banking,2,FALSE,Delivered,6
+ORD-03163,10/1/2023,CUST87976,Amit Singh,29,Male,North,Chandigarh,Sports,Cricket Bat,3,14810.59,0.08,44578.62,10260.62,65.69,Cash on Delivery,3,FALSE,Delivered,5
+ORD-02771,4/14/2023,CUST00213,Ritu Reddy,47,Male,East,Kolkata,Beauty,Sunscreen,8,415.72,0.01,4769.26,1796.21,54.55,EMI,3,FALSE,delivered,5
+ORD-03330,11/12/2023,CUST18271,Pooja Chatterjee,,Male,West,Pune,Clothing,Jeans,3,1850.1,0.03,4811.57,1286.23,78.13,EMI,2,FALSE,Delivered,10
+ORD-03149,9/27/2023,CUST52921,Vikram Nair,18,Female,East,Patna,Clothing,Dress,10,2309.23,0.02,28827.02,8270.8,94.75,Cash on Delivery,,FALSE,Delivered,5
+ORD-03376,12/31/2023,CUST86469,Aarav Mehta,43,Other,South,Hyderabad,Beauty,Lipstick,7,1828.2,0.21,9118.63,3919.89,72.63,Credit Card,4,FALSE,Delivered,1
+ORD-03094,8/30/2023,CUST98803,Vikram Joshi,42,Male,South,Kochi,Furniture,Bed Frame,6,21712.77,0.14,157859.91,48496.37,62.68,EMI,2,FALSE,Cancelled,9
+ORD-02680,3/6/2023,CUST75386,Rohan Mishra,14,Male,East,Guwahati,Electronics,Headphones,3,65257.11,0.2,196362.97,27495.56,51.41,UPI,1,TRUE,Returned,4
+ORD-03310,12/2/2023,CUST44114,Aditya Mehta,36,Female,North,Ludhiana,Sports,Cricket Bat,,11000.34,0.04,9272.71,1339.4,62.5,Net Banking,1,FALSE,Cancelled,2
+ORD-02746,4/3/2023,CUST71887,Nisha Kapoor,30,Other,East,Bhubaneswar,Books,Textbook,10,1221.02,0.17,15191.82,5083.3,86.46,EMI,5,FALSE,Pending,4
+ORD-02871,5/31/2023,CUST88518,Aditya Bose,58,Female,South,Hyderabad,Electronics,Headphones,5,26851.1,0.03,218111.79,24902.1,72.55,UPI,2,FALSE,Delivered,2
+ORD-03298,11/26/2023,CUST82100,Pooja Kapoor,-5,Female,West,Surat,Sports,Football,3,11118.32,0.3,22974.82,4866.53,53.21,Net Banking,4,TRUE,Returned,9
+ORD-02945,6/30/2023,CUST19434,Aarav Das,28,Other,East,Guwahati,Furniture,Bed Frame,9,12800.64,0.3,120310.49,28867.05,77.17,Cash on Delivery,5,FALSE,Delivered,7
+ORD-02931,6/23/2023,CUST81737,Ananya Joshi,36,Other,West,Surat,Beauty,Shampoo,8,1976.85,0.3,17609.1,8544.51,81.44,Debit Card,4,FALSE,Delivered,6
+ORD-02861,5/29/2023,CUST53780,Meera Joshi,28,Female,North,Chandigarh,Furniture,Bed Frame,4,25915.33,0.11,132743.41,29427.55,58.32,Debit Card,5,FALSE,Delivered,10
+ORD-03172,10/4/2023,CUST73615,Sanjay Gupta,45,Male,West,Surat,Groceries,Dal (1kg),4,309.85,0.04,1375.7,128.93,73.63,UPI,4,TRUE,Returned,5
+ORD-02825,5/12/2023,CUST40911,Ritu Gupta,51,Other,Central,Raipur,Groceries,Rice (5kg),1,380.33,0.2,506.19,44.82,61.88,UPI,,FALSE,Delivered,
+ORD-03191,10/13/2023,CUST15190,Aditya Shah,37,MALE,South,Hyderabad,Beauty,Shampoo,4,817.47,0.24,2848.99,1431.62,61.6,Debit Card,5,FALSE,Cancelled,2
+ORD-02779,4/18/2023,CUST66673,Pooja Mehta,32,Female,East,Bhubaneswar,Beauty,Face Cream,1,588.9,0.03,804.15,359.5,76.29,Net Banking,5,FALSE,Delivered,5
+ORD-03282,11/18/2023,CUST30266,Deepa Bose,34,F,West,Surat,Sports,Yoga Mat,3,14108.02,0.12,36649.85,6203.2,56.58,EMI,2,FALSE,Delivered,10
+ORD-03259,11/8/2023,CUST28855,Kavya Kumar,26,Female,South,Chennai,Groceries,Cooking Oil,9,165.39,0.22,1080.19,98.81,71.09,Cash on Delivery,3,FALSE,Delivered,6
+ORD-02972,7/10/2023,CUST95419,Deepa Joshi,37,Male,West,Pune,Beauty,Face Cream,9,108.24,0.18,1201.96,569.48,55.36,UPI,4,FALSE,Delivered,5
+ORD-02618,2/10/2023,CUST54344,Nisha Reddy,41,Female,North,Delhi,Clothing,Saree,5,2531.54,,13540.41,5111.11,49.22,Net Banking,3,FALSE,Shipped,4
+ORD-02742,4/1/2023,CUST34359,Shreya Kumar,27,Male,West,Pune,Furniture,Bookshelf,7,23696.15,0.33,157416.69,50425.99,51.3,Cash on Delivery,,FALSE,Pending,1
+ORD-02757,4/8/2023,CUST97559,Sunita Kumar,49,Male,West,Ahmedabad,Sports,Dumbbells,4,2360.4,0.36,9045.13,1640.8,46.73,Credit Card,2,FALSE,Delivered,2
+ORD-02734,3/30/2023,CUST69340,Sanjay Kapoor,31,Male,South,Chennai,Books,Fiction Novel,10,432.2,0.22,4097.63,1857.23,69.1,Net Banking,,FALSE,Delivered,5
+ORD-03275,11/16/2023,CUST06690,Sunita Iyer,28,Other,West,Ahmedabad,Clothing,Saree,8,1471.86,0.27,8376.83,3013.79,87.43,Credit Card,,FALSE,Delivered,7
+ORD-03200,10/16/2023,CUST43688,Amit Iyer,49,Other,North,Delhi,Groceries,Tea,1,97.17,0.14,86.02,8.27,46.49,EMI,1,FALSE,Delivered,5
+ORD-02834,5/18/2023,CUST80957,Pooja Gupta,31,Other,North,Delhi,Electronics,Smartphone,2,73267.64,0.32,142488.63,20643.55,69.99,Credit Card,2,FALSE,Delivered,6
+ORD-02550,1/12/2023,CUST69130,Sunita Pillai,48,Other,North,Amritsar,Sports,Yoga Mat,6,13916.75,0.25,54342.29,12305.07,38.89,UPI,4,FALSE,Pending,
+ORD-03042,8/9/2023,CUST48817,Karan Singh,25,Male,North,Amritsar,Clothing,Saree,2,3266.34,0,9066.91,3755.8,51.58,Cash on Delivery,5,FALSE,Delivered,1
+ORD-02663,2/27/2023,CUST82371,Kavya Nair,49,M,East,Patna,Groceries,Dal (1kg),4,230.58,0.17,768.3,50.26,81.52,UPI,1,FALSE,Delivered,1
+ORD-03029,8/4/2023,CUST15879,Kavya Pillai,24,Other,North,Delhi,Groceries,Flour,6,184.04,0.32,1193.08,80.93,70.55,Credit Card,5,FALSE,Delivered,1
+ORD-02801,4/29/2023,CUST13741,Meera Verma,30,Female,East,Guwahati,Beauty,Hair Oil,7,1050.38,0.06,8746.39,3436.69,85.61,Debit Card,3,FALSE,Delivered,5
+ORD-03014,7/29/2023,CUST35539,Karan Reddy,31,Female,South,Kochi,Sports,Dumbbells,,8903.55,0.12,11991.16,1852.66,64.95,Debit Card,,TRUE,Returned,7
+ORD-02947,7/1/2023,CUST85761,Aditya Chatterjee,44,Other,South,Kochi,Furniture,Bookshelf,2,26714.83,0.23,63871.89,16676.94,67.21,UPI,5,FALSE,delivered,7
+ORD-02635,2/15/2023,CUST74282,Ritu Das,47,Male,South,Hyderabad,Beauty,Perfume,9,1698.6,0.25,12379.8,4098.15,63.7,EMI,,FALSE,Delivered,1
+ORD-02774,4/16/2023,CUST92472,Deepa Gupta,33,Male,East,Patna,Sports,Dumbbells,7,12799.72,0.11,114501.45,25731.03,74.55,Net Banking,2,FALSE,Delivered,2
+ORD-03017,7/30/2023,CUST11433,Aditya Shah,49,Other,North,Chandigarh,Groceries,Dal (1kg),,380.49,0.36,368.28,36.06,27.57,EMI,5,FALSE,delivered,1
+ORD-03207,10/19/2023,CUST72297,Nisha Bhat,53,Female,South,Bangalore,Furniture,Bed Frame,5,2374.77,0.28,9688.23,2614.25,83.81,UPI,1,FALSE,Delivered,6
+ORD-02607,2/6/2023,CUST31900,Amit Rao,39,Other,South,Bangalore,Sports,Yoga Mat,8,5590.43,0.19,37398.22,4824.74,69.42,Credit Card,4,FALSE,Delivered,2
+ORD-02529,1/3/2023,CUST61216,Nikhil Joshi,34,Male,West,Pune,Furniture,Bed Frame,2,9783.06,0.12,15984.43,3578.22,43.71,Cash on Delivery,2,TRUE,Returned,5
+ORD-03018,7/30/2023,CUST13941,Ritu Sharma,34,Other,South,Hyderabad,Electronics,Camera,4,66643.15,0.14,325899.4,40690.87,51.43,Cash on Delivery,1,FALSE,Delivered,3
+ORD-02870,5/31/2023,CUST15861,Priya Mishra,27,Other,West,Surat,Books,Fiction Novel,2,790.19,0.12,2524.52,1241.47,75.5,UPI,2,FALSE,Delivered,1
+ORD-02807,5/3/2023,CUST59711,Rohan Mishra,29,Female,East,Bhubaneswar,Clothing,Kurta,10,630.78,,10612,3459.74,83.61,Credit Card,4,FALSE,Delivered,8
+ORD-03297,11/26/2023,CUST29713,Rahul Gupta,37,Male,West,Mumbai,Books,Cook Book,10,666.25,0.07,5098.4,1728.64,55.61,UPI,3,FALSE,Delivered,8
+ORD-03217,10/22/2023,CUST14537,Pooja Joshi,41,Other,North,Amritsar,Beauty,Hair Oil,10,850.71,0.4,5762.75,2735.24,38.04,Cash on Delivery,4,FALSE,Delivered,6
+ORD-02921,6/17/2023,CUST51781,Karan Singh,26,Male,North,Delhi,Groceries,Rice (5kg),5,200.85,0.36,1116.38,71.67,58.1,EMI,2,FALSE,Delivered,1
+ORD-02748,4/5/2023,CUST72583,Sunita Bose,41,Female,West,Surat,Groceries,Tea,9,467.6,0.02,5992.24,654.29,37.13,EMI,4,FALSE,Delivered,7
+ORD-02610,2/6/2023,CUST96115,Sanjay Rao,39,Male,South,Kochi,Books,Self-Help Book,10,947.87,0.24,7234.13,3527.5,84.4,Credit Card,4,FALSE,Delivered,4
+ORD-02705,3/17/2023,CUST85785,Meera Rao,41,Female,West,Surat,Beauty,Perfume,2,888.49,0.08,2115.74,795.3,42.25,Debit Card,1,FALSE,Pending,8
+ORD-02690,3/13/2023,CUST42802,Sanjay Rao,25,m,South,Hyderabad,Sports,Cycle,4,7081.6,0.31,25039.19,6611.41,89.06,Debit Card,,TRUE,Returned,10
+ORD-02923,6/18/2023,CUST62956,Pooja Mishra,15,Male,North,Ludhiana,Books,Cook Book,9,916.14,0.36,8220.04,2666.27,63.91,Cash on Delivery,4,FALSE,Cancelled,7
+ORD-03126,9/11/2023,CUST84742,Sunita Patel,42,Other,South,Bangalore,Sports,Cricket Bat,7,7005.09,,55004.13,13825.48,39.04,Net Banking,3,FALSE,Delivered,3
+ORD-03006,7/24/2023,CUST96839,Amit Sharma,38,F,Central,Raipur,Books,Cook Book,10,680.67,0.28,7920.13,4381.82,60.91,Credit Card,,FALSE,Delivered,4
+ORD-03035,8/5/2023,CUST76199,Meera Pillai,60,Other,West,Ahmedabad,Sports,Tennis Racket,3,6247.18,0.23,19652.06,5128.89,52.48,Credit Card,4,FALSE,Delivered,7
+ORD-03088,8/26/2023,CUST49151,Sunita Patel,35,Other,West,Mumbai,Electronics,Headphones,1,41296.1,0.07,53611.5,4184.23,65.67,Credit Card,5,FALSE,Delivered,5
+ORD-03211,10/20/2023,CUST59240,Ananya Mehta,47,Male,North,Ludhiana,Beauty,Shampoo,3,2099.98,0.35,4400.47,2125.89,50.77,Cash on Delivery,,TRUE,Returned,7
+ORD-02973,7/11/2023,CUST55824,Ritu Kumar,27,MALE,West,Pune,Books,Fiction Novel,1,623.96,0.21,778.16,263.81,68.14,Cash on Delivery,3,FALSE,Delivered,6
+ORD-03131,9/15/2023,CUST60904,Aditya Shah,29,Female,North,Chandigarh,Groceries,Dal (1kg),1,394.11,0.22,414.31,32.52,55.15,UPI,3,FALSE,Delivered,2
+ORD-02812,5/4/2023,CUST82471,Pooja Shah,36,Female,South,Kochi,Clothing,Saree,2,3236.58,0.04,9893.97,3171.49,71.87,Cash on Delivery,1,FALSE,Delivered,9
+ORD-03122,9/9/2023,CUST56458,Kavya Das,30,Other,East,Kolkata,Furniture,Desk,9,24481.84,0.18,236017.16,68746.18,92.95,Net Banking,3,FALSE,Pending,10
+ORD-02697,3/14/2023,CUST37138,Ritu Nair,42,Other,West,Pune,Electronics,Headphones,2,76935.79,0.01,171768.97,27234.01,63.96,Cash on Delivery,1,FALSE,Delivered,3
+ORD-02735,3/30/2023,CUST60872,Kavya Shah,38,Male,South,Chennai,Furniture,Chair,1,7329.9,0.35,6777.56,2396.72,101.29,Credit Card,5,FALSE,Shipped,10
+ORD-02707,3/18/2023,CUST97042,Ananya Mishra,28,Other,Central,Bhopal,Books,Cook Book,4,1221.11,0.25,5162.57,1875.62,43.22,EMI,5,FALSE,Delivered,5
+ORD-03054,8/14/2023,CUST26906,Nisha Iyer,39,Female,East,Patna,Electronics,Smartphone,1,34885.37,0.1,44683.38,3420.51,85.38,Credit Card,4,FALSE,Shipped,3
+ORD-02803,4/30/2023,CUST07347,Priya Mehta,28,Female,West,Mumbai,Electronics,Smartwatch,6,64360.23,0.32,385580.53,28776.57,55.31,Debit Card,1,FALSE,Delivered,1
+ORD-03231,10/29/2023,CUST88608,Nikhil Nair,50,Male,South,Hyderabad,Beauty,Sunscreen,2,1820.95,0.15,2961.7,1317.61,69.89,Net Banking,4,FALSE,Delivered,5
+ORD-02672,3/1/2023,CUST97216,Deepa Pillai,29,Female,East,Bhubaneswar,Electronics,Headphones,6,78301.55,0.24,446345.61,61437.6,87.28,EMI,4,FALSE,Delivered,7
+ORD-03327,10/12/2023,CUST05689,Ananya Bhat,30,Male,North,Ludhiana,Groceries,Cooking Oil,9,407.05,0.3,1997.66,139.6,72.88,Net Banking,4,FALSE,Cancelled,6
+ORD-02613,2/9/2023,CUST69520,Vikram Pillai,18,Male,North,Delhi,Sports,Yoga Mat,1,12495.08,0.27,9249.06,1686.4,55.06,Credit Card,5,FALSE,Delivered,9
+ORD-03008,7/26/2023,CUST03875,Arjun Patel,35,Other,North,Chandigarh,Sports,Tennis Racket,5,1956.54,0.2,10411.35,2723.2,60.98,UPI,3,FALSE,Delivered,3
+ORD-02662,27-Feb-23,CUST02913,Nisha Kumar,32,Female,East,Kolkata,Books,Fiction Novel,2,484.9,0.1,1040.24,423.7,69.41,Net Banking,1,FALSE,Delivered,10
+ORD-03373,12/30/2023,CUST23969,Rahul Mehta,27,Male,Central,Raipur,Books,Textbook,9,609.86,0.14,3554.23,1923.48,54.96,EMI,,FALSE,Shipped,1
+ORD-02686,3/11/2023,CUST63976,Vikram Verma,42,Male,South,Hyderabad,Clothing,Jacket,8,570.18,0.04,5294.75,1738.46,56.28,Credit Card,2,FALSE,Delivered,4
+ORD-02630,2/14/2023,CUST21078,Meera Kapoor,33,Female,North,Ludhiana,Electronics,Laptop,9,41854.41,0.33,247342.73,30449.06,42.16,Debit Card,2,FALSE,Delivered,8
+ORD-02838,20-May-23,CUST32623,Ananya Verma,17,Female,East,Patna,Beauty,Shampoo,8,211.05,0.17,2271.48,1315.77,75.69,Net Banking,,TRUE,Returned,3
+ORD-03034,5-Aug-23,CUST76477,Sunita Bose,33,Female,East,Guwahati,Furniture,Chair,2,27227.5,0.27,53652.43,18467.9,69.07,Net Banking,5,FALSE,Delivered,9
+ORD-02647,2/18/2023,CUST98321,Ananya Shah,30,Male,North,Delhi,Books,Cook Book,4,1488.05,0.16,5878.72,1895.88,33.95,Debit Card,3,TRUE,Returned,9
+ORD-02813,5/4/2023,CUST45426,Arjun Patel,20,Other,South,Kochi,Beauty,Lipstick,6,2373.35,0.3,15281.74,8565.14,54.97,Cash on Delivery,3,FALSE,Delivered,3
+ORD-02719,3/25/2023,CUST07357,Meera Nair,24,Female,West,Surat,Furniture,Bed Frame,6,16778.26,0.34,79749.85,20899.58,68.68,UPI,3,FALSE,Delivered,9
+ORD-03296,11/25/2023,CUST49836,Amit Bose,32,Other,Central,Raipur,Clothing,Saree,4,2037.61,0.09,7459.65,2991.98,28.18,Cash on Delivery,1,TRUE,Returned,7
+ORD-02542,1/9/2023,CUST20603,Aditya Patel,47,Other,North,Delhi,Furniture,Desk,4,16407.34,0.13,51661.63,18819.99,55.63,Cash on Delivery,3,FALSE,Delivered,7
+ORD-03352,12/20/2023,CUST97209,Karan Iyer,36,Female,South,Bangalore,Sports,Cricket Bat,5,11277.04,0.03,47607.55,14946.09,96.43,EMI,2,FALSE,Shipped,8
+ORD-02712,3/22/2023,CUST21655,Amit Reddy,29,Other,North,Chandigarh,Groceries,Sugar,8,172.53,0.22,1491.46,177.24,47.93,Credit Card,3,FALSE,delivered,4
+ORD-03079,8/22/2023,CUST74717,Ananya Bhat,24,Female,East,Patna,Sports,Cricket Bat,1,7788.48,0.16,9678.82,2560.56,67.88,EMI,4,FALSE,Shipped,3
+ORD-02847,5/25/2023,CUST62909,Aditya Bose,31,female,West,Ahmedabad,Groceries,Flour,8,399.28,0.11,5100.96,406.96,62.93,Cash on Delivery,4,FALSE,Shipped,2
+ORD-03053,8/13/2023,CUST70734,Meera Kumar,30,Female,Central,Nagpur,Furniture,Desk,10,5902.83,0.26,61642.35,21436.01,63.39,Credit Card,3,FALSE,Delivered,7
+ORD-03174,10/4/2023,CUST00106,Ananya Bhat,21,Female,Central,Indore,Books,Cook Book,9,641.84,,5619.07,2471.08,20.79,Cash on Delivery,1,FALSE,Delivered,5
+ORD-02777,4/17/2023,CUST15930,Rahul Bhat,33,Female,North,Chandigarh,Beauty,Face Cream,6,438.59,0.26,2826.56,1014.02,64.81,Net Banking,3,TRUE,Returned,9
+ORD-02846,5/25/2023,CUST56492,Ananya Gupta,35,Male,South,Kochi,Furniture,Wardrobe,10,31142.23,0.12,475250.99,133297.06,90.65,UPI,4,FALSE,Cancelled,1
+ORD-02982,7/15/2023,CUST81628,Rahul Shah,33,Other,West,Surat,Beauty,Perfume,10,2340.48,,30857.19,16769.4,65.62,EMI,2,FALSE,Delivered,9
+ORD-03339,12/16/2023,CUST29727,Amit Kumar,29,Male,South,Chennai,Furniture,Desk,9,14900.48,0.2,103163.26,31355.08,45.89,Debit Card,4,FALSE,Delivered,9
+ORD-02780,4/18/2023,CUST00961,Nisha Kumar,37,f,Central,Nagpur,Beauty,Perfume,8,899.3,0.17,8975.56,3421.59,71.55,Credit Card,2,FALSE,Delivered,3
+ORD-02643,2/17/2023,CUST02524,Amit Patel,50,Male,West,Pune,Sports,Cricket Bat,6,9703.74,0.16,52648.79,8966.19,50.19,EMI,1,FALSE,Delivered,7
+ORD-02974,7/11/2023,CUST06333,Amit Verma,44,Other,North,Amritsar,Clothing,Jacket,6,1202.81,0.08,9663.61,2700.5,84.89,Net Banking,1,TRUE,Returned,6
+ORD-02856,5/28/2023,CUST18697,Karan Verma,54,Female,North,Chandigarh,Furniture,Bed Frame,8,30782.92,0.11,356477.73,116445.94,61.27,EMI,,FALSE,Delivered,2
+ORD-02823,5/11/2023,CUST96063,Shreya Iyer,25,Other,North,Chandigarh,Electronics,Smartphone,9,6647.49,0.34,68948.2,8595.88,51.47,Cash on Delivery,4,FALSE,Delivered,8
+ORD-02914,6/13/2023,CUST62247,Aditya Rao,47,Male,South,Hyderabad,Clothing,Saree,2,1474.66,0.16,3493.62,1237.15,83,Cash on Delivery,2,FALSE,Delivered,9
+ORD-03096,8/30/2023,CUST81977,Sunita Verma,35,Female,East,Patna,Groceries,Dal (1kg),9,132.91,0.37,1379.32,95.16,84.31,Cash on Delivery,1,FALSE,Delivered,4
+ORD-03027,8/4/2023,CUST20866,Kavya Rao,26,Female,West,Pune,Sports,Yoga Mat,10,10231.86,0.33,98825.46,17642.86,40.2,Credit Card,2,FALSE,Delivered,9
+ORD-02959,7/6/2023,CUST01768,Sunita Patel,34,Female,Central,Nagpur,Electronics,Headphones,3,69702.56,0.36,204235.41,30667.19,72.01,EMI,5,FALSE,Delivered,2
+ORD-03349,12/20/2023,CUST44606,Nisha Mehta,59,Other,East,Kolkata,Beauty,Face Cream,4,1670.09,0.39,3402.85,1861.74,94.95,UPI,1,TRUE,Returned,6
+ORD-03066,8/18/2023,CUST82969,Ritu Joshi,50,Female,South,Hyderabad,Furniture,Wardrobe,7,34829.83,0.27,251225.51,87253.16,74.92,EMI,1,FALSE,Delivered,9
+ORD-03073,8/20/2023,CUST40607,Amit Kapoor,29,Male,Central,Bhopal,Sports,Tennis Racket,4,5660.42,0.24,22682.85,4781.05,52.61,UPI,5,FALSE,Shipped,6
+ORD-03243,11/2/2023,CUST21449,Rahul Bose,36,Other,Central,Nagpur,Furniture,Bed Frame,6,12617.99,0.05,66859.47,19527.7,32.57,Debit Card,4,FALSE,Delivered,9
+ORD-02799,4/28/2023,CUST04344,Rahul Bose,35,Female,South,Hyderabad,Groceries,Flour,10,310.75,0.28,2966.57,220.38,68.83,EMI,3,FALSE,Delivered,7
+ORD-03209,10/19/2023,CUST57413,Karan Patel,23,Female,Central,Indore,Sports,Cycle,3,13795.34,0.33,30187.27,7482.85,39.48,Credit Card,5,FALSE,Delivered,9
+ORD-02760,4/10/2023,CUST27593,Nikhil Shah,49,Male,West,Pune,Sports,Cycle,3,11672.79,0.26,39508.65,10514.43,77.35,EMI,2,FALSE,Shipped,2
+ORD-03091,8/29/2023,CUST39206,Amit Mehta,32,Other,South,Kochi,Furniture,Desk,6,11929.15,0.13,90019.76,15285.49,66.85,Net Banking,5,FALSE,Cancelled,4
+ORD-03367,12/29/2023,CUST44669,Sunita Mishra,33,Other,Central,Bhopal,Electronics,Smartphone,4,76576.24,0.36,154095.36,19680.31,60.02,Net Banking,5,FALSE,Delivered,2
+ORD-02694,3/14/2023,CUST76215,Ananya Reddy,49,Female,North,Chandigarh,Clothing,T-Shirt,9,3251.19,0.13,25267.42,8081.15,70.98,Debit Card,2,TRUE,Returned,9
+ORD-03260,11/9/2023,CUST04203,Ananya Patel,41,Female,Central,Bhopal,Beauty,Hair Oil,4,1738.78,0.07,5920.27,1693.39,61.38,Net Banking,1,TRUE,Returned,2
+ORD-02814,5/4/2023,CUST78368,Nisha Iyer,31,Male,East,Bhubaneswar,Clothing,Jeans,3,3314.75,0.06,15452.12,3519.97,85.4,Debit Card,2,FALSE,Delivered,8
+ORD-02795,4/26/2023,CUST45978,Nikhil Iyer,26,m,West,Mumbai,Beauty,Shampoo,8,566.96,0.36,4268.95,2029.92,60.59,Debit Card,3,FALSE,Delivered,5
+ORD-03102,9/3/2023,CUST37184,Karan Verma,25,Male,Central,Raipur,Furniture,Bed Frame,1,11522.93,0.02,10840.71,3173.42,65.43,UPI,5,FALSE,Delivered,5
+ORD-02944,6/30/2023,CUST91370,Rahul Bhat,41,Other,North,Amritsar,Sports,Dumbbells,7,4046,0.11,44053.34,9372.63,42.33,Debit Card,2,FALSE,Delivered,6
+ORD-03085,8/25/2023,CUST66243,Karan Shah,31,Other,North,Ludhiana,Books,Fiction Novel,10,260.93,0.13,3566.39,1435.04,28.36,Cash on Delivery,3,FALSE,Delivered,1
+ORD-02593,2/1/2023,CUST54751,Vikram Sharma,40,Male,Central,Raipur,Beauty,Shampoo,3,2052.63,0.2,5621.99,2360.34,38.92,Cash on Delivery,5,FALSE,Delivered,8
+ORD-03379,12/31/2023,CUST97050,Nisha Iyer,47,Female,South,Kochi,Sports,Yoga Mat,3,2123.23,0.11,4790.25,1126.66,78.63,Net Banking,1,FALSE,delivered,10
+ORD-03261,11/9/2023,CUST80345,Pooja Verma,32,Male,South,Kochi,Electronics,Laptop,4,71997.6,0.08,238162.29,25389.57,76.9,Cash on Delivery,2,FALSE,Delivered,3
+ORD-03347,12/18/2023,CUST96482,Pooja Chatterjee,36,Other,East,Kolkata,Electronics,Headphones,,21214.09,0.05,18096.43,1927.45,99.77,Debit Card,2,FALSE,Cancelled,2
+ORD-03107,9/4/2023,CUST95163,Priya Pillai,28,Male,West,Mumbai,Furniture,Chair,,18140.26,0.03,21348.67,6686.71,61.79,UPI,4,FALSE,Shipped,10
+ORD-03010,7/27/2023,CUST41279,Amit Sharma,43,Other,South,Bangalore,Electronics,Smartwatch,4,14557.67,0.17,78608.45,9451.45,67.92,Debit Card,2,FALSE,Shipped,5
+ORD-03364,12/28/2023,CUST81812,Pooja Chatterjee,20,Female,North,Chandigarh,Clothing,T-Shirt,3,2696.4,0.19,5511.95,1848.17,57.33,Credit Card,5,FALSE,delivered,10
+ORD-03151,9/27/2023,CUST28094,Meera Shah,39,Male,East,Patna,Sports,Dumbbells,5,3167.34,0.17,17024.05,2543.83,66.83,UPI,4,FALSE,Delivered,10
+ORD-02669,2/28/2023,CUST70473,Nisha Gupta,,Male,Central,Nagpur,Electronics,Tablet,8,28881.53,0.38,145274.42,14990.91,36.68,Credit Card,,FALSE,Shipped,6
+ORD-02930,6/21/2023,CUST27302,Karan Verma,29,male,West,Ahmedabad,Beauty,Shampoo,10,325.56,0.29,3569.04,1816.65,46.14,Credit Card,1,FALSE,Cancelled,3
+ORD-03307,12/1/2023,CUST74033,Vikram Mehta,46,Male,North,Amritsar,Beauty,Shampoo,1,2427.7,0.11,1734.31,605.52,48.85,Credit Card,2,FALSE,Delivered,1
+ORD-03198,10/15/2023,CUST60856,Shreya Bhat,50,Female,South,Bangalore,Clothing,Dress,,2135.46,0.21,1723.9,368.18,84,UPI,4,FALSE,Delivered,5
+ORD-02637,2/16/2023,CUST01385,Nikhil Sharma,35,Male,South,Bangalore,Books,Textbook,6,893.91,0.15,5253.1,1937.64,87.48,Debit Card,4,FALSE,Shipped,4
+ORD-03080,8/22/2023,CUST34629,Aarav Singh,37,Other,Central,Nagpur,Groceries,Flour,9,460.52,0.37,3659.71,327.34,48.79,EMI,5,FALSE,Pending,7
+ORD-02720,3/26/2023,CUST36373,Aarav Kapoor,52,Other,South,Kochi,Groceries,Cooking Oil,7,448.17,0.11,3507.4,212.91,34.25,EMI,5,FALSE,Delivered,2
+ORD-03318,12/6/2023,CUST94948,Rohan Kapoor,40,Other,Central,Indore,Books,Fiction Novel,9,276.41,0.11,1896.15,853.77,46.35,UPI,2,FALSE,Delivered,
+ORD-02923,6/18/2023,CUST62956,Pooja Mishra,15,Male,North,Ludhiana,Books,Cook Book,9,916.14,0.36,8220.04,2666.27,63.91,Cash on Delivery,4,FALSE,Cancelled,7
+ORD-02884,6/3/2023,CUST30359,Nisha Patel,33,Female,West,Pune,Books,Textbook,1,1090.31,0.26,1249.54,613.99,61.28,Net Banking,3,FALSE,Delivered,9
+ORD-02970,7/9/2023,CUST03472,Meera Patel,35,Female,South,Bangalore,Books,Self-Help Book,7,900.55,0.37,6552.28,1538.11,67.3,Net Banking,5,FALSE,Delivered,3
+ORD-02646,2/17/2023,CUST26372,Pooja Pillai,25,Male,East,Kolkata,Books,Cook Book,8,935.46,0.12,6567.18,3099.56,73.18,Cash on Delivery,,FALSE,cancelled,8
+ORD-03331,12/12/2023,CUST97882,Aarav Singh,12,Other,West,Mumbai,Electronics,Smartwatch,5,67132.79,0.13,259751.74,31688.42,67.6,Cash on Delivery,5,FALSE,Delivered,3
+ORD-03250,11/4/2023,CUST90626,Aarav Joshi,42,Female,North,Ludhiana,Electronics,Laptop,10,33487.31,0.11,270538.05,34449.13,64.65,EMI,,FALSE,Delivered,9
+ORD-03263,11/10/2023,CUST94911,Rohan Gupta,23,Other,North,Chandigarh,Furniture,Wardrobe,7,31424.24,0.31,128843.9,46085.23,53.66,Debit Card,5,FALSE,delivered,8
+ORD-02674,3/2/2023,CUST43411,Ritu Shah,27,Male,North,Delhi,Beauty,Hair Oil,2,920.67,0.24,1821.82,918.21,61.3,Credit Card,4,FALSE,Delivered,3
+ORD-03181,10/7/2023,CUST05659,Priya Kumar,22,Male,North,Ludhiana,Groceries,Tea,2,216.82,0.28,255.27,22.97,53.52,Net Banking,5,TRUE,Returned,4
+ORD-02537,6-Jan-23,CUST57903,Aditya Shah,22,female,North,Delhi,Groceries,Flour,6,303.67,0.05,1631.61,129.1,66.2,Net Banking,1,FALSE,Pending,7
+ORD-02988,18-Jul-23,CUST14176,Kavya Reddy,27,Male,Central,Indore,Electronics,Smartwatch,2,30216.69,0.16,77559.67,9624.53,80.07,EMI,2,FALSE,Shipped,5
+ORD-02903,6/8/2023,CUST35531,Meera Iyer,39,Female,Central,Nagpur,Clothing,Jacket,7,983.45,0.03,11834.57,3889.86,67.48,Debit Card,4,TRUE,Returned,10
+ORD-03223,10/26/2023,CUST08748,Amit Sharma,44,Male,Central,Nagpur,Books,Fiction Novel,2,357.54,0.39,449.09,210.08,68.6,Net Banking,4,FALSE,Delivered,2
+ORD-02611,2/7/2023,CUST82751,Vikram Verma,24,FEMALE,North,Ludhiana,Books,Comic Book,9,1219.11,0.09,11967.15,4663.69,73.88,Debit Card,1,FALSE,Delivered,9
+ORD-02833,5/18/2023,CUST95416,Rahul Singh,51,Male,North,Chandigarh,Books,Textbook,6,473,0.16,4064.17,1153.73,55.81,Credit Card,1,TRUE,Returned,4
+ORD-03147,9/26/2023,CUST30274,Shreya Bhat,29,Other,South,Bangalore,Sports,Football,1,12275.23,0.09,12167.28,2949.77,58.94,Debit Card,3,TRUE,Returned,6
+ORD-02626,2/14/2023,CUST69406,Sunita Iyer,47,Other,North,Chandigarh,Electronics,Smartwatch,10,19057.82,0.26,148714.97,19803.29,66.52,Net Banking,1,TRUE,Returned,10
+ORD-02750,4/5/2023,CUST50334,Priya Singh,19,Male,West,Ahmedabad,Clothing,Kurta,2,3794.57,0.05,9475.19,3916.81,23.37,EMI,5,FALSE,Delivered,3
+ORD-02907,6/10/2023,CUST44256,Sanjay Iyer,46,Male,West,Ahmedabad,Electronics,Headphones,9,31196.73,0.12,368280.67,38060.11,59.85,UPI,1,FALSE,Delivered,1
+ORD-03119,9/9/2023,CUST59443,Karan Bose,42,FEMALE,North,Amritsar,Furniture,Bed Frame,5,12592.51,0.28,61837.22,19148.11,45.88,UPI,1,TRUE,Returned,5
+ORD-02767,4/13/2023,CUST75550,Deepa Rao,53,Other,South,Bangalore,Groceries,Cooking Oil,5,185.61,0.27,977.56,69.04,58.1,EMI,5,FALSE,Delivered,2
+ORD-03233,10/30/2023,CUST27413,Amit Gupta,23,Female,South,Hyderabad,Clothing,Jacket,8,1084.06,0.19,7119.27,2636.93,74.71,EMI,5,FALSE,Cancelled,3
+ORD-03213,10/21/2023,CUST91826,Sanjay Patel,40,Other,North,Delhi,Furniture,Sofa,10,6877.63,0.32,49127.13,15040.93,38.46,Credit Card,3,FALSE,Delivered,8
+ORD-02929,6/21/2023,CUST82307,Sanjay Kumar,28,Male,West,Mumbai,Electronics,Camera,8,11278.1,0.36,103626.93,9357.16,60.7,Net Banking,3,FALSE,Delivered,8
+ORD-02718,3/25/2023,CUST87274,Deepa Kumar,40,Male,South,Chennai,Beauty,Perfume,,1290.88,0.31,991.85,309.78,68.06,Cash on Delivery,1,TRUE,Returned,5
+ORD-02739,3/31/2023,CUST55589,Priya Mishra,36,Male,North,Amritsar,Sports,Tennis Racket,8,12824.11,0.11,124055.48,29606.32,76.78,Cash on Delivery,2,FALSE,Delivered,6
+ORD-02536,1/6/2023,CUST18948,Amit Shah,51,Male,West,Surat,Beauty,Perfume,3,1967.85,0.31,3268.13,1309.35,55,Cash on Delivery,3,FALSE,Delivered,2
+ORD-03097,8/30/2023,CUST96631,Ritu Mishra,26,Female,North,Amritsar,Beauty,Shampoo,6,398.85,0.17,2675.94,1500.2,56.56,Net Banking,2,FALSE,delivered,10
+ORD-03138,9/17/2023,CUST63631,Vikram Das,38,M,North,Amritsar,Sports,Dumbbells,4,3391.86,0.04,15450.95,3325.04,68.46,Credit Card,3,FALSE,Cancelled,2
+ORD-02654,2/23/2023,CUST39288,Shreya Reddy,25,Other,East,Bhubaneswar,Beauty,Shampoo,5,259.07,0.02,1306.86,672.76,91.02,UPI,5,FALSE,Delivered,9
+ORD-02687,3/12/2023,CUST74163,Sunita Gupta,24,Female,Central,Bhopal,Clothing,Saree,3,1200.51,0.4,2711.94,952.86,10.03,Debit Card,3,FALSE,Delivered,5
+ORD-02756,8/4/2023,CUST40199,Arjun Gupta,33,Male,West,Pune,Clothing,T-Shirt,3,2494.29,0.1,9558.85,3760.45,54.2,Cash on Delivery,3,FALSE,Delivered,8
+ORD-03060,8/17/2023,CUST71865,Amit Singh,19,Female,Central,Bhopal,Beauty,Shampoo,7,100.31,0.36,600.84,277.58,67.27,Debit Card,1,FALSE,Shipped,9
+ORD-02567,1/17/2023,CUST46311,Nisha Shah,21,Female,North,Delhi,Groceries,Tea,1,235.69,0.27,145.65,13.54,59.77,EMI,5,FALSE,Delivered,3
+ORD-02961,7/6/2023,CUST02626,Arjun Rao,58,Male,North,Ludhiana,Groceries,Tea,9,324.23,0.17,4033.84,456.69,63.2,EMI,,FALSE,Delivered,
+ORD-02934,6/27/2023,CUST34229,Rahul Gupta,50,Female,North,Chandigarh,Sports,Football,9,13111.09,0.29,128078.44,31164.9,62.85,Net Banking,3,FALSE,Delivered,9
+ORD-02631,2/15/2023,CUST32596,Rahul Iyer,27,Female,West,Surat,Clothing,Dress,7,668.17,0.09,4502.68,1133.27,38.59,UPI,5,FALSE,Delivered,8
+ORD-02703,3/16/2023,CUST53601,Rohan Iyer,35,Other,Central,Indore,Books,Cook Book,8,600.71,0.17,4278.59,1539.55,24.97,Debit Card,1,FALSE,Delivered,9
+ORD-03306,12/1/2023,CUST91195,Vikram Sharma,24,Male,East,Bhubaneswar,Groceries,Dal (1kg),4,206.91,0.2,574.2,59.02,52.38,Debit Card,,FALSE,Delivered,2
+ORD-03303,11/29/2023,CUST73772,Nisha Reddy,15,Male,East,Kolkata,Electronics,Tablet,1,19475.1,0.27,12588.84,1124.34,70.91,Net Banking,,FALSE,Delivered,100
+ORD-03192,10/14/2023,CUST23779,Priya Singh,39,m,North,Ludhiana,Sports,Football,9,9769.82,0.32,64012.37,13161.33,50.8,Net Banking,4,FALSE,Delivered,6
+ORD-03113,9/7/2023,CUST73185,Amit Mishra,29,Male,North,Ludhiana,Clothing,T-Shirt,3,3741.92,0.21,11519.71,2740.01,58.8,Cash on Delivery,4,FALSE,Cancelled,1
+ORD-02667,2/28/2023,CUST93637,Ananya Shah,31,F,North,Amritsar,Furniture,Bookshelf,3,4087.5,0.36,8585.93,2520.92,36.77,Cash on Delivery,,FALSE,Pending,9
+ORD-03286,11/19/2023,CUST81972,Aditya Das,32,Male,East,Bhubaneswar,Clothing,Jacket,8,2288.26,0.22,12023.58,4024.97,89.83,Debit Card,2,FALSE,Delivered,1
+ORD-02531,1/3/2023,CUST65173,Sunita Reddy,24,Male,North,Ludhiana,Beauty,Face Cream,9,2041.21,0.22,13435.71,8442.25,45.75,Net Banking,3,FALSE,Cancelled,1
+ORD-03137,9/17/2023,CUST53427,Aarav Das,26,Male,West,Mumbai,Sports,Yoga Mat,8,10683.75,0.04,113358.26,26416.64,59.9,Cash on Delivery,1,FALSE,Delivered,7
+ORD-02545,1/10/2023,CUST44757,Aditya Kumar,27,Male,South,Kochi,Books,Biography,5,1209.77,0.22,4481.56,1760.45,48.73,Debit Card,1,FALSE,Delivered,10
+ORD-03316,12/5/2023,CUST71283,Aditya Shah,12,Other,East,Patna,Sports,Football,3,2813.63,0.22,5526.04,1360.97,71.86,EMI,2,FALSE,delivered,9
+ORD-03150,9/27/2023,CUST68116,Ritu Rao,17,FEMALE,North,Ludhiana,Clothing,T-Shirt,9,1354.39,0.12,14092.58,4442.99,43.39,Credit Card,5,FALSE,Delivered,10
+ORD-02994,7/20/2023,CUST67685,Shreya Pillai,42,Male,South,Kochi,Clothing,Jeans,5,2755.15,0.35,12440.45,4470.63,73.32,UPI,5,FALSE,Delivered,7
+ORD-03069,8/19/2023,CUST13129,Nikhil Nair,36,Male,East,Kolkata,Groceries,Cooking Oil,9,461.84,0.06,5002.24,440.52,74.88,Cash on Delivery,2,FALSE,Delivered,5
+ORD-02668,2/28/2023,CUST00301,Shreya Mehta,19,m,West,Mumbai,Books,Textbook,9,1227.77,0.09,10383.44,4289.27,74.78,Cash on Delivery,2,TRUE,Returned,1
+ORD-02617,2/10/2023,CUST17877,Priya Iyer,44,Male,North,Chandigarh,Groceries,Dal (1kg),8,364.69,0.13,2876.59,173.21,36.26,Cash on Delivery,5,FALSE,Delivered,5
+ORD-02659,2/26/2023,CUST24774,Aditya Mehta,16,Female,Central,Raipur,Furniture,Desk,8,30273.47,0.35,154408.51,36948.63,62.8,Debit Card,2,FALSE,Delivered,9
+ORD-03153,9/29/2023,CUST93955,Aditya Rao,24,Female,North,Ludhiana,Electronics,Headphones,9,56863.21,0.23,470774.92,62906,36.46,Cash on Delivery,3,FALSE,Delivered,3
+ORD-02808,3-May-23,CUST74228,Kavya Reddy,48,Other,Central,Raipur,Books,Comic Book,1,769.04,0.13,1113.83,505.12,46.7,EMI,1,FALSE,Delivered,10
+ORD-02572,1/25/2023,CUST19082,Sanjay Joshi,38,Other,West,Pune,Clothing,Jeans,8,3747.11,0.15,25653.59,8023.16,35.73,Net Banking,5,FALSE,Cancelled,1
+ORD-02527,1/2/2023,CUST06675,Deepa Nair,20,Female,North,Amritsar,Books,Textbook,7,1431.35,0.2,8558.35,3547.79,60.84,UPI,1,TRUE,Returned,2
+ORD-03190,10/12/2023,CUST24234,Meera Verma,32,Other,East,Kolkata,Books,Cook Book,4,1290.01,0,6137.27,2840.6,68.69,Cash on Delivery,2,FALSE,Pending,6
+ORD-03341,12/16/2023,CUST62991,Meera Pillai,25,FEMALE,North,Chandigarh,Electronics,Smartwatch,3,32029.32,0.02,75119.27,11139.42,73.87,UPI,2,FALSE,Delivered,3
+ORD-03375,12/31/2023,CUST69853,Deepa Chatterjee,26,Other,East,Patna,Electronics,Camera,1,39921.4,0.23,29027.34,4657.8,79.95,Credit Card,5,FALSE,Delivered,1
+ORD-03285,11/19/2023,CUST64046,Shreya Mishra,15,Other,Central,Nagpur,Furniture,Chair,7,30237.39,0.15,155865.09,38187.73,68.65,Credit Card,5,FALSE,Cancelled,8
+ORD-03045,8/10/2023,CUST54485,Karan Kapoor,42,male,South,Bangalore,Groceries,Tea,4,474.68,0.3,1844.79,156.82,41.43,Credit Card,3,FALSE,Delivered,7
+ORD-03187,10/9/2023,CUST63003,Nisha Mehta,40,female,Central,Indore,Electronics,Smartphone,2,15759.44,0.15,30120.16,3914.94,66.72,Net Banking,5,FALSE,Delivered,10
+ORD-03170,10/4/2023,CUST69634,Nikhil Reddy,,Male,East,Patna,Books,Fiction Novel,8,344.93,0.06,2797.51,1292.82,61.8,Net Banking,3,FALSE,Delivered,3
+ORD-03344,12/18/2023,CUST66556,Ananya Nair,42,M,North,Chandigarh,Sports,Yoga Mat,0,935.36,0.06,727.57,161.08,50.09,UPI,1,TRUE,Returned,3
+ORD-02818,9/5/2023,CUST11582,Kavya Kumar,36,Female,Central,Raipur,Beauty,Shampoo,5,576.73,0.07,4465.04,1617.65,61.27,EMI,4,FALSE,Cancelled,2
+ORD-02653,2/22/2023,CUST19008,Karan Singh,46,Female,Central,Bhopal,Books,Cook Book,6,821.9,0.11,4718.43,1271.26,24.77,Debit Card,4,FALSE,Delivered,5
+ORD-02982,7/15/2023,CUST81628,Rahul Shah,33,Other,West,Surat,Beauty,Perfume,10,2340.48,,30857.19,16769.4,65.62,EMI,2,FALSE,Delivered,9
+ORD-02897,6-Jun-23,CUST64599,Priya Verma,60,Female,North,Amritsar,Electronics,Smartwatch,6,62456.65,0.02,593837.1,72763.11,30.38,Debit Card,4,FALSE,Cancelled,1
+ORD-02629,2/14/2023,CUST23638,Shreya Shah,57,Male,Central,Nagpur,Beauty,Shampoo,9,1014.1,0.17,7782.1,2587.13,50.45,Credit Card,1,FALSE,Delivered,10
+ORD-03043,8/9/2023,CUST77236,Shreya Mehta,53,Female,Central,Bhopal,Beauty,Lipstick,4,369.22,0.19,1495.87,791.13,38.15,Credit Card,5,FALSE,Delivered,9
+ORD-03361,12/25/2023,CUST86557,Rahul Patel,42,Male,South,Hyderabad,Clothing,Dress,9,498.04,0.17,3156.27,846.9,66.24,EMI,2,FALSE,Cancelled,9
+ORD-02544,9/1/2023,CUST94242,Kavya Gupta,46,Male,North,Chandigarh,Furniture,Bookshelf,7,14759.75,0.17,87388.37,15358.82,24.99,EMI,,FALSE,Delivered,4
+ORD-02917,6/16/2023,CUST53514,Karan Patel,25,Female,East,Kolkata,Groceries,Flour,9,374.09,0.17,4521.17,397.05,78.38,Debit Card,1,TRUE,Returned,8
+ORD-03254,11/5/2023,CUST62167,Aarav Nair,6,Other,North,Ludhiana,Groceries,Sugar,6,131.77,0.35,499.25,57.45,58.15,Debit Card,5,FALSE,Delivered,3
+ORD-03240,11/1/2023,CUST64411,Arjun Kapoor,,Other,South,Hyderabad,Groceries,Tea,6,160.41,0.3,586.06,63.9,77.63,Net Banking,1,FALSE,Delivered,3
+ORD-02683,3/9/2023,CUST18854,Pooja Nair,53,F,Central,Bhopal,Books,Fiction Novel,7,291.53,0.08,2565.08,571.02,71.31,Credit Card,1,FALSE,Delivered,3
+ORD-02561,1/14/2023,CUST34744,Meera Joshi,38,Male,North,Ludhiana,Electronics,Tablet,6,8947.94,0.18,39941.04,4114.43,67.17,Net Banking,4,FALSE,Cancelled,10
+ORD-03108,9/5/2023,CUST73404,Ritu Patel,36,Male,Central,Bhopal,Electronics,Smartphone,9,26560.24,0.2,238441.62,32963.32,47.86,Debit Card,2,FALSE,Delivered,10
+ORD-02642,17-Feb-23,CUST28950,Ritu Iyer,48,Male,East,Guwahati,Clothing,Jeans,9,3701.68,0.25,25508.14,10141.91,66.89,Credit Card,5,FALSE,Delivered,2
+ORD-02901,6/8/2023,CUST57226,Rahul Nair,21,Female,West,Ahmedabad,Books,Cook Book,6,471.17,0.18,3369.46,1337.48,88.71,Cash on Delivery,4,FALSE,Cancelled,1
+ORD-03098,9/1/2023,CUST98755,Arjun Chatterjee,39,Other,Central,Raipur,Electronics,Tablet,1,22693.39,0.08,27894.98,4153.76,48.31,Net Banking,5,FALSE,Delivered,9
+ORD-02762,4/10/2023,CUST36388,Aarav Gupta,44,Other,North,Chandigarh,Furniture,Chair,7,10222.85,0.32,83123.74,28655.62,44.75,UPI,,FALSE,Cancelled,10
+ORD-03227,10/28/2023,CUST26871,Nisha Bhat,26,Female,Central,Raipur,Books,Textbook,4,653.78,0.39,1691.13,702.11,57.6,Credit Card,3,FALSE,Cancelled,4
+ORD-02547,1/12/2023,CUST35370,Meera Iyer,13,Male,South,Hyderabad,Furniture,Desk,10,4609.6,0.39,22527.45,6267.09,72.79,Cash on Delivery,3,TRUE,Returned,4
+ORD-03009,7/26/2023,CUST37112,Rohan Pillai,35,Female,East,Guwahati,Books,Textbook,7,520.82,0.15,4550.23,1554.74,78.67,EMI,3,FALSE,Delivered,6
+ORD-03160,9/30/2023,CUST54899,Meera Chatterjee,12,M,North,Amritsar,Groceries,Sugar,1,89.43,0.2,83.75,6.58,37.63,Credit Card,1,FALSE,Delivered,5
+ORD-03304,11/29/2023,CUST38933,Sunita Reddy,45,Other,Central,Indore,Beauty,Hair Oil,7,2195.91,0.28,8503.47,3907.75,63.07,UPI,1,TRUE,Returned,6
+ORD-02928,6/20/2023,CUST17827,Sunita Bose,40,Other,Central,Indore,Clothing,Kurta,6,3464.49,0.3,23273.58,8946.26,68.97,Credit Card,4,FALSE,Cancelled,5
+ORD-02573,1/25/2023,CUST56165,Nikhil Patel,42,Other,East,Patna,Electronics,Tablet,6,59741.71,0.16,274146.04,37793.71,70.42,Net Banking,5,FALSE,Delivered,10
+ORD-02758,4/9/2023,CUST17548,Deepa Singh,38,Other,North,Ludhiana,Books,Comic Book,10,1140.33,0.27,11676.23,3683.76,52.27,EMI,,FALSE,Delivered,2
+ORD-02679,3/6/2023,CUST93760,Nikhil Kapoor,48,Male,East,Patna,Groceries,Cooking Oil,8,412.18,0.37,2510.56,237.24,74.88,Debit Card,2,FALSE,Cancelled,3
+ORD-03186,10/9/2023,CUST37684,Rohan Mishra,46,Other,North,Delhi,Books,Fiction Novel,4,1295.21,0.1,5174.52,2321.8,23.54,Credit Card,4,FALSE,Delivered,6
+ORD-03315,12/5/2023,CUST93902,Amit Sharma,27,Other,South,Chennai,Beauty,Hair Oil,3,752.34,0.25,1312.85,600.66,65.3,Net Banking,5,FALSE,Delivered,1
+ORD-02563,1/16/2023,CUST04574,Sunita Shah,11,Female,South,Chennai,Sports,Football,5,4093.28,0.23,14415.44,2444.13,77.13,Debit Card,2,FALSE,Cancelled,7
+ORD-03002,7/24/2023,CUST83812,Karan Chatterjee,40,Other,Central,Indore,Beauty,Hair Oil,3,2358.28,0.21,8273.92,4056.62,66.18,Credit Card,4,FALSE,Delivered,10
+ORD-03159,9/30/2023,CUST24304,Kavya Joshi,50,Male,North,Ludhiana,Clothing,Jacket,9,1332.1,0.24,12579.87,3205.48,79,Credit Card,2,FALSE,Delivered,3
+ORD-02992,7/20/2023,CUST09576,Aditya Gupta,49,Male,West,Surat,Sports,Yoga Mat,10,14494.42,0.17,166583.26,37373.97,63.48,UPI,2,FALSE,Delivered,9
+ORD-02912,6/11/2023,CUST85957,Arjun Rao,46,Other,West,Mumbai,Electronics,Tablet,8,74304.54,0.08,736732.69,73848.3,54.14,EMI,2,FALSE,Delivered,9
+ORD-02581,1/27/2023,CUST31891,Nikhil Kumar,55,Female,West,Mumbai,Books,Comic Book,10,262.24,0.25,1767.24,706.13,81.67,EMI,3,FALSE,Delivered,5
+ORD-03312,12/3/2023,CUST71934,Arjun Gupta,28,Male,West,Ahmedabad,Electronics,Tablet,4,61847.14,0.28,158246.41,21536.45,70.33,Debit Card,4,TRUE,Returned,5
+ORD-03075,8/20/2023,CUST66159,Shreya Shah,17,Female,East,Kolkata,Furniture,Bookshelf,8,11661.87,0.24,95197.56,28202.79,88.67,Net Banking,5,FALSE,Delivered,3
+ORD-03251,11/5/2023,CUST86211,Arjun Kumar,26,Male,West,Pune,Clothing,Dress,5,3838.12,0.33,12041.48,4808.14,32.22,UPI,3,FALSE,Delivered,1
+ORD-03311,12/2/2023,CUST69847,Nikhil Rao,53,Female,East,Guwahati,Furniture,Bookshelf,7,17240.23,0.18,93169.87,29154.44,70.02,UPI,2,FALSE,Delivered,10
+ORD-02860,5/29/2023,CUST89287,Amit Verma,43,Other,South,Hyderabad,Groceries,Tea,4,176.79,0.34,759.97,71.67,64.69,UPI,2,FALSE,Delivered,4
+ORD-03242,11/1/2023,CUST97241,Vikram Iyer,23,Female,North,Ludhiana,Electronics,Camera,2,5533.58,0.28,7936.89,1116.53,64.26,UPI,3,FALSE,Delivered,5
+ORD-03175,10/5/2023,CUST40113,Arjun Das,39,Other,South,Hyderabad,Electronics,Camera,5,11373.83,0.07,67236.76,8643.41,51.2,UPI,2,FALSE,Pending,7
+ORD-03061,8/17/2023,CUST33333,Meera Nair,43,Other,West,Surat,Sports,Tennis Racket,1,8555.4,0.13,9667.42,2139.78,51.56,Net Banking,4,FALSE,Delivered,5
+ORD-02881,6/3/2023,CUST20568,Sunita Pillai,30,Female,West,Pune,Clothing,Jeans,9,378.42,0,4977.33,1570.94,43.44,Cash on Delivery,4,FALSE,Delivered,8
+ORD-02822,5/11/2023,CUST92489,Vikram Kumar,29,FEMALE,North,Ludhiana,Sports,Cricket Bat,4,3625.13,0.28,14299.68,4907.54,52.29,Credit Card,1,FALSE,Delivered,8
+ORD-02666,27-Feb-23,CUST26826,Meera Patel,37,Female,East,Bhubaneswar,Beauty,Hair Oil,3,1235.94,0.23,3443.74,1621.5,77.11,EMI,2,FALSE,Delivered,2
+ORD-02924,6/19/2023,CUST46273,Sanjay Gupta,19,Male,North,Ludhiana,Electronics,Smartphone,2,20357.2,0.01,56864.2,6315.84,37.02,Credit Card,4,FALSE,Cancelled,5
+ORD-02574,1/26/2023,CUST72214,Nisha Nair,41,f,East,Kolkata,Groceries,Rice (5kg),,462.27,0.29,302.37,27.61,74.43,EMI,4,FALSE,Delivered,6
+ORD-03121,9/9/2023,CUST63009,Aarav Kapoor,26,FEMALE,East,Guwahati,Clothing,Jeans,3,2461.49,0.17,6972.95,2178.64,112.99,UPI,1,FALSE,Delivered,3
+ORD-02880,6/3/2023,CUST70204,Shreya Singh,55,Other,Central,Raipur,Clothing,Jeans,1,2361.96,0.23,2691.37,1189.62,62.61,Cash on Delivery,4,FALSE,Delivered,8
+ORD-03265,11/10/2023,CUST91791,Ananya Kapoor,51,Other,North,Chandigarh,Books,Textbook,5,731.88,,3284.38,1291.32,48.81,Net Banking,1,TRUE,Returned,10
+ORD-03368,12/29/2023,CUST21747,Kavya Shah,19,Female,South,Kochi,Books,Cook Book,8,221.14,0.38,1030.55,527.82,92,Net Banking,4,FALSE,delivered,8
+ORD-03216,10/22/2023,CUST32134,Kavya Chatterjee,33,Male,West,Pune,Beauty,Lipstick,5,313.72,0.26,1195.99,468.82,41.27,Net Banking,1,TRUE,Returned,8
+ORD-02551,1/12/2023,CUST18241,Nisha Kapoor,54,Female,Central,Bhopal,Sports,Yoga Mat,8,7866.66,0.28,36459.41,9536.21,48.3,Net Banking,4,FALSE,Cancelled,2
+ORD-02794,4/24/2023,CUST50448,Sanjay Joshi,40,Other,North,Chandigarh,Books,Cook Book,5,375.59,0.07,2462.15,759.54,86.48,Debit Card,4,FALSE,Delivered,6
+ORD-02789,4/21/2023,CUST60012,Shreya Gupta,20,Male,Central,Bhopal,Books,Textbook,7,714.91,0.34,5029.55,1690.54,56.73,Credit Card,3,FALSE,Delivered,8
+ORD-03019,7/31/2023,CUST46142,Nisha Mehta,30,Other,West,Pune,Clothing,Kurta,2,1744.92,0.39,3236.74,1198.84,44.94,Credit Card,3,TRUE,Returned,7
+ORD-02728,3/29/2023,CUST26931,Shreya Shah,22,Other,West,Pune,Sports,Dumbbells,5,9438.65,0.19,50601.3,10853.36,59.57,UPI,2,FALSE,Delivered,9
+ORD-02702,3/16/2023,CUST41199,Nikhil Chatterjee,34,Male,West,Ahmedabad,Books,Cook Book,6,942.74,0.28,4651.11,1628.44,67.17,UPI,3,FALSE,Delivered,9
+ORD-03056,8/16/2023,CUST57382,Pooja Iyer,45,female,Central,Raipur,Furniture,Bed Frame,7,21860.37,0.22,156258.37,37409.1,28.9,Credit Card,1,TRUE,Returned,7
+ORD-02716,3/23/2023,CUST34371,Deepa Singh,20,MALE,Central,Raipur,Groceries,Tea,7,258.92,0.28,1758.81,177.42,37.37,UPI,3,FALSE,Delivered,6
+ORD-03300,11/27/2023,CUST46539,Shreya Verma,29,Other,South,Bangalore,Groceries,Sugar,9,56.27,0.15,407.16,20.82,82.79,UPI,5,FALSE,Delivered,2
+ORD-02819,5/9/2023,CUST12681,Meera Joshi,49,Male,East,Bhubaneswar,Clothing,Saree,1,3976.86,0.21,4653,1981.56,86.05,Credit Card,2,FALSE,Delivered,4
+ORD-03025,8/3/2023,CUST12807,Pooja Das,34,Male,Central,Indore,Sports,Tennis Racket,5,8699.81,0.36,43806.61,9308.41,42.55,Debit Card,1,FALSE,Delivered,5
+ORD-03188,10/11/2023,CUST87675,Sunita Joshi,30,Other,North,Delhi,Groceries,Flour,2,312.71,0.16,580.22,45.18,67.16,Debit Card,2,FALSE,Delivered,6
+ORD-02786,4/20/2023,CUST59888,Amit Das,38,Male,North,Delhi,Electronics,Smartwatch,7,50711.3,0.14,442866.28,58822.76,44.77,EMI,3,FALSE,Delivered,10
+ORD-02562,1/15/2023,CUST95323,Amit Reddy,62,Male,South,Chennai,Books,Textbook,4,1045.52,0.19,3378.55,1234.47,69.47,Cash on Delivery,4,FALSE,Delivered,3
+ORD-02877,6/2/2023,CUST52099,Ritu Das,37,Female,West,Surat,Beauty,Face Cream,10,1285.07,0.28,15333.34,9585.03,77.58,Credit Card,2,FALSE,Delivered,9
+ORD-02645,2/17/2023,CUST11538,Sunita Nair,46,Other,West,Pune,Clothing,Jacket,6,2371.79,0.11,13350.85,4678.25,45.39,Cash on Delivery,4,FALSE,Delivered,6
+ORD-03024,8/3/2023,CUST08460,Sanjay Das,40,Female,South,Chennai,Groceries,Dal (1kg),2,188.62,0.32,395.46,23.93,82.57,Cash on Delivery,5,FALSE,Delivered,9
+ORD-02841,5/23/2023,CUST62482,Vikram Joshi,26,Male,East,Bhubaneswar,Beauty,Face Cream,8,317.17,0.06,3774.97,2233.34,81.48,UPI,3,FALSE,Pending,5
+ORD-03070,8/19/2023,CUST29394,Rohan Verma,35,Other,East,Kolkata,Electronics,Laptop,8,20964.05,0.29,174884.92,24207.47,77.54,UPI,2,FALSE,Delivered,5
+ORD-03037,8/5/2023,CUST23747,Nikhil Kapoor,25,Female,West,Ahmedabad,Beauty,Sunscreen,1,1196.94,0.09,1644.73,754.93,47.47,Cash on Delivery,3,FALSE,Delivered,1
+ORD-02761,4/10/2023,CUST40656,Shreya Patel,21,Other,West,Mumbai,Sports,Tennis Racket,10,12942.94,0.17,168816.96,44825.88,57.55,Cash on Delivery,3,FALSE,Shipped,6
+ORD-03277,11/16/2023,CUST00162,Sunita Kapoor,44,Male,East,Patna,Sports,Cricket Bat,9,6566.64,0.11,50681.89,12859.41,88.55,Debit Card,3,FALSE,Delivered,2
+ORD-02829,5/15/2023,CUST25805,Arjun Gupta,36,Male,South,Hyderabad,Groceries,Dal (1kg),2,399.16,0.34,850.9,55.39,50.2,UPI,5,FALSE,Shipped,1
+ORD-03239,11/1/2023,CUST65289,Ritu Chatterjee,38,Female,Central,Raipur,Furniture,Bed Frame,1,25780.61,,22272.46,8421.08,59.29,Net Banking,4,FALSE,Delivered,3
+ORD-02966,7/8/2023,CUST38879,Ananya Kapoor,36,Other,North,Amritsar,Clothing,Dress,1,1861.32,0.38,1580.05,590.29,55.74,UPI,4,FALSE,Delivered,1
+ORD-02763,4/10/2023,CUST85402,Aarav Mehta,32,Male,South,Kochi,Electronics,Laptop,5,79827.98,0.28,418460.95,34788.35,73.92,Cash on Delivery,2,FALSE,Delivered,2
+ORD-02887,6/4/2023,CUST19802,Karan Chatterjee,32,MALE,East,Patna,Books,Cook Book,2,200.96,0.25,458.12,104.93,75.89,Credit Card,1,TRUE,Returned,4
+ORD-02590,1/31/2023,CUST47612,Kavya Gupta,25,Other,South,Bangalore,Groceries,Rice (5kg),8,100.16,0.37,487.77,30.28,43.77,Credit Card,3,FALSE,Delivered,8
+ORD-03114,9/8/2023,CUST43839,Nisha Nair,29,Male,South,Kochi,Electronics,Camera,6,63434.95,0.24,350565.99,45365.64,76.62,Debit Card,1,FALSE,Delivered,
+ORD-02691,13-Mar-23,CUST42275,Aditya Patel,21,Female,South,Chennai,Electronics,Smartwatch,2,76616.83,0.1,186369.89,20529.28,55.12,UPI,4,FALSE,Delivered,5
+ORD-03337,12/14/2023,CUST12631,Aditya Bose,26,Other,West,Pune,Clothing,T-Shirt,9,3755.73,0.11,27923.07,12762.99,89.92,Debit Card,1,FALSE,Delivered,3
+ORD-02783,4/20/2023,CUST75727,Ananya Kapoor,45,Female,West,Ahmedabad,Sports,Yoga Mat,3,9606.06,0.27,22984.85,4327.42,50.91,Net Banking,5,FALSE,Delivered,4
+ORD-02714,3/23/2023,CUST62341,Aarav Pillai,35,MALE,North,Amritsar,Beauty,Lipstick,10,1251.33,0.24,11610.5,5273.78,55.63,Net Banking,,FALSE,Delivered,4
+ORD-02869,5/31/2023,CUST19907,Aditya Chatterjee,30,Male,West,Surat,Beauty,Hair Oil,10,1573.67,0.23,18377.46,7519.84,64.77,Cash on Delivery,5,FALSE,Delivered,7
+ORD-02664,2/27/2023,CUST91653,Karan Kumar,42,Male,West,Pune,Electronics,Smartwatch,8,63840.88,0.29,376670.08,52527.72,64.65,UPI,4,FALSE,Delivered,8
+ORD-03171,4/10/2023,CUST77683,Shreya Mehta,24,Other,West,Mumbai,Sports,Tennis Racket,3,8534.5,0.34,18094.21,4596.01,55.57,Cash on Delivery,4,FALSE,Delivered,4
+ORD-02579,1/27/2023,CUST31841,Kavya Joshi,57,m,East,Bhubaneswar,Sports,Dumbbells,2,4266.54,0.25,6436.16,1469.74,75.67,Net Banking,,FALSE,Delivered,2
+ORD-03264,11/10/2023,CUST84619,Karan Nair,25,Other,North,Delhi,Furniture,Bed Frame,2,30782.35,0.22,47340.73,11318.5,48.72,UPI,4,FALSE,Delivered,10
+ORD-02895,6/6/2023,CUST35710,Ritu Shah,32,Other,East,Kolkata,Furniture,Bed Frame,9,24542.85,0.3,291832.52,76203.02,95.21,Credit Card,2,FALSE,Delivered,6
+ORD-02625,2/13/2023,CUST78576,Arjun Chatterjee,34,Female,North,Amritsar,Electronics,Smartwatch,8,78209.24,0.1,571749.49,85521.04,51.05,Cash on Delivery,1,FALSE,Shipped,1
+ORD-02546,1/12/2023,CUST96368,Kavya Gupta,29,Female,Central,Raipur,Groceries,Rice (5kg),1,243.91,0.3,164.22,16.45,53.75,Cash on Delivery,5,FALSE,Shipped,3
+ORD-02830,5/15/2023,CUST23051,Rohan Iyer,35,Male,South,Bangalore,Sports,Tennis Racket,2,5536.92,0.07,16264.24,5022.79,86.81,UPI,5,FALSE,Cancelled,4
+ORD-03136,9/17/2023,CUST92424,Sanjay Nair,32,Other,North,Ludhiana,Beauty,Perfume,10,384.92,0.13,3802.28,1470.62,46.05,EMI,1,FALSE,Pending,9
+ORD-03197,10/15/2023,CUST33951,Deepa Mehta,18,Male,East,Bhubaneswar,Beauty,Lipstick,2,2007.33,0.17,3672.85,1779.77,78.53,UPI,5,FALSE,Delivered,2
+ORD-03158,9/29/2023,CUST54265,Sanjay Bhat,38,Female,North,Amritsar,Furniture,Bookshelf,8,24623.45,0.03,242532.88,63126.55,36.04,Credit Card,1,FALSE,Delivered,4
+ORD-02765,4/11/2023,CUST09924,Ritu Verma,36,Other,Central,Raipur,Electronics,Camera,5,18000.28,0.12,109973.4,11424.94,73.2,Debit Card,4,FALSE,Delivered,2
+ORD-03353,12/21/2023,CUST13354,Sanjay Nair,29,MALE,East,Patna,Groceries,Rice (5kg),9,344.79,0.33,2084.9,132.76,57.21,UPI,2,FALSE,Cancelled,10
+ORD-03096,8/30/2023,CUST81977,Sunita Verma,35,Female,East,Patna,Groceries,Dal (1kg),9,132.91,0.37,1379.32,95.16,84.31,Cash on Delivery,1,FALSE,Delivered,4
+ORD-02749,5/4/2023,CUST37997,Arjun Verma,51,M,West,Pune,Sports,Football,3,11418.23,0.01,43058.66,7315.08,41.92,Credit Card,2,FALSE,Delivered,3
+ORD-03314,4/12/2023,CUST74780,Rahul Bhat,13,m,West,Pune,Books,Comic Book,10,1096,0.31,6190.12,1824.11,82.85,Credit Card,5,FALSE,Delivered,7
+ORD-03021,8/1/2023,CUST66733,Priya Iyer,33,Female,West,Ahmedabad,Groceries,Tea,4,223.01,0.06,1169.61,100.59,66.9,Cash on Delivery,2,FALSE,Delivered,2
+ORD-03326,12/10/2023,CUST35382,Ritu Singh,46,Other,West,Surat,Clothing,Jeans,5,1679.82,0.29,5932.93,2439.71,61.89,Net Banking,2,FALSE,Cancelled,3
+ORD-02906,6/10/2023,CUST43728,Nisha Joshi,20,Male,Central,Raipur,Sports,Football,7,754.28,0.05,7778.83,2271.05,45.61,Net Banking,1,FALSE,Delivered,4
+ORD-02700,3/15/2023,CUST26383,Vikram Mehta,18,Other,East,Guwahati,Sports,Dumbbells,5,5610.04,0.21,27238.57,4096.24,84.23,UPI,2,FALSE,Delivered,2
+ORD-03182,10/7/2023,CUST49514,Shreya Verma,34,Male,West,Ahmedabad,Clothing,Saree,1,3669.1,0.23,2724.49,1136.46,66,EMI,5,FALSE,Delivered,9
+ORD-03340,12/16/2023,CUST00381,Pooja Kumar,15,Female,South,Chennai,Beauty,Perfume,8,1831.18,0.37,8593.6,2469.88,52.31,EMI,4,FALSE,Delivered,5
+ORD-02649,2/19/2023,CUST25132,Aditya Nair,36,Male,North,Chandigarh,Furniture,Bookshelf,6,3886.28,0.02,22799.71,4659.41,44.59,Cash on Delivery,1,FALSE,Delivered,6
+ORD-03156,9/29/2023,CUST34657,Ananya Mishra,31,Other,East,Guwahati,Groceries,Tea,7,72.5,0.28,449.07,36.76,80.15,UPI,4,FALSE,Cancelled,9
+ORD-02543,1/9/2023,CUST35512,Rohan Joshi,44,Other,Central,Indore,Sports,Dumbbells,6,14871.36,0.23,56010.61,9090.55,74.65,Cash on Delivery,2,FALSE,Delivered,8
+ORD-02557,1/14/2023,CUST61978,Amit Chatterjee,13,Female,South,Kochi,Clothing,T-Shirt,4,1975.84,0.38,3561.8,1285.63,69.35,Cash on Delivery,2,FALSE,Delivered,7
+ORD-03101,9/3/2023,CUST69379,Rohan Pillai,22,Other,North,Chandigarh,Furniture,Bookshelf,7,31725.3,0.37,162459.18,38520.59,64.24,EMI,3,FALSE,Delivered,3
+ORD-02839,5/21/2023,CUST65852,Kavya Patel,21,Other,South,Chennai,Sports,Yoga Mat,7,7147.56,0.25,64932.35,18485.24,94.91,Debit Card,5,FALSE,Delivered,5
+ORD-03269,11/12/2023,CUST63780,Vikram Iyer,49,Male,Central,Nagpur,Groceries,Dal (1kg),2,53.72,0.33,63.44,5.23,62.93,Credit Card,2,TRUE,Returned,9
+ORD-02591,1/31/2023,CUST31554,Aditya Kumar,28,Female,West,Surat,Electronics,Camera,7,67056.12,0.16,386566.32,40666.72,42.69,UPI,2,FALSE,Pending,7
+ORD-03363,12/26/2023,CUST98456,Nikhil Bose,40,Female,South,Chennai,Furniture,Desk,1,8061.02,0.24,5002.7,1155.06,108.12,Credit Card,4,FALSE,Cancelled,6
+ORD-03152,9/28/2023,CUST23783,Nikhil Kumar,29,Other,West,Surat,Books,Fiction Novel,7,606.81,0.04,4234.64,1593.45,88.92,EMI,4,FALSE,Shipped,3
+ORD-02848,5/26/2023,CUST09047,Ritu Sharma,,Male,West,Pune,Electronics,Headphones,9,53164.48,0.28,461808.2,47885.66,54.33,Cash on Delivery,2,FALSE,Delivered,10
+ORD-03082,8/24/2023,CUST93135,Karan Das,33,Male,South,Bangalore,Clothing,Dress,10,3548.29,0.33,32142.13,13918.96,75.2,Net Banking,3,FALSE,Pending,8
+ORD-02699,3/15/2023,CUST30292,Aarav Bose,45,Other,North,Amritsar,Sports,Tennis Racket,2,7389.74,0.4,13163.06,2642.15,49.76,Debit Card,4,TRUE,Returned,6
+ORD-03348,12/19/2023,CUST22988,Rahul Shah,55,Other,Central,Nagpur,Groceries,Rice (5kg),10,135.28,0.11,1099.56,117.16,52.31,Cash on Delivery,4,FALSE,Cancelled,8
+ORD-03335,12/13/2023,CUST09205,Aarav Singh,38,Other,South,Hyderabad,Groceries,Rice (5kg),8,117.19,0.18,525.6,50.27,74.25,EMI,5,FALSE,Delivered,8
+ORD-02698,3/15/2023,CUST60455,Meera Kumar,40,Male,North,Ludhiana,Books,Biography,10,1452.95,0.01,18658.74,5761.15,57.81,Net Banking,3,FALSE,Delivered,2
+ORD-03317,12/5/2023,CUST33429,Sunita Das,,Female,North,Chandigarh,Furniture,Desk,3,29726.23,0.07,67800.68,22599.39,72.07,Net Banking,,FALSE,Delivered,10
+ORD-03201,10/16/2023,CUST99262,Sanjay Joshi,19,Male,North,Chandigarh,Clothing,Kurta,7,1104.26,0.13,6551.79,2415.74,58.32,Debit Card,3,FALSE,Delivered,1
+ORD-03100,9/1/2023,CUST55749,Rahul Das,38,Other,West,Surat,Groceries,Rice (5kg),1,166.38,0.11,187.22,18.5,57.01,Debit Card,5,FALSE,Delivered,7
+ORD-03041,8/8/2023,CUST35537,Sunita Nair,24,Male,Central,Raipur,Furniture,Chair,4,33469.07,0.02,211554.01,60337.15,33.54,EMI,3,TRUE,Returned,8
+ORD-02615,2/10/2023,CUST36242,Shreya Iyer,38,Female,North,Chandigarh,Clothing,Jeans,9,924.21,0.25,6848.48,2169.66,33.88,Debit Card,4,FALSE,Delivered,6
+ORD-03058,8/17/2023,CUST75687,Priya Mehta,48,Other,South,Chennai,Clothing,Jacket,4,2277.17,0.19,10944.9,4259.56,68.14,Cash on Delivery,2,TRUE,Returned,3
+ORD-03266,11/10/2023,CUST94697,Karan Patel,50,Female,West,Pune,Furniture,Chair,6,34185.33,,176966.47,57877.84,63.45,Cash on Delivery,2,FALSE,Delivered,2
+ORD-02681,3/6/2023,CUST22232,Shreya Verma,43,Male,North,Ludhiana,Beauty,Shampoo,7,142.6,0.04,1268.77,481.8,55.31,Credit Card,2,FALSE,Pending,5
+ORD-03276,11/16/2023,CUST08733,Pooja Verma,35,Other,South,Kochi,Clothing,T-Shirt,5,2427.77,0.37,6775.69,2397.72,59.3,EMI,3,FALSE,Delivered,2
+ORD-03244,11/2/2023,CUST42835,Meera Rao,38,male,East,Guwahati,Beauty,Perfume,7,315.92,,1848.67,652.99,76.21,Cash on Delivery,3,FALSE,Delivered,4
+ORD-03015,7/29/2023,CUST53698,Meera Kapoor,-4,Male,East,Bhubaneswar,Sports,Cycle,8,4080.77,0.36,28369.38,7223.68,77.54,Cash on Delivery,2,FALSE,Delivered,10
+ORD-03302,11/29/2023,CUST00808,Arjun Reddy,31,Female,West,Mumbai,Electronics,Smartwatch,5,5934.23,0.35,18050.43,1851.85,76.64,UPI,3,FALSE,Shipped,2
+ORD-03325,12/10/2023,CUST66402,Sanjay Nair,11,Female,East,Bhubaneswar,Beauty,Sunscreen,8,1075.9,,8522.19,4754.61,89.59,Credit Card,3,FALSE,Delivered,6
+ORD-02651,2/21/2023,CUST11133,Nisha Shah,38,Female,Central,Bhopal,Furniture,Desk,9,14262.49,0.23,118898.21,41278.73,79.5,Cash on Delivery,1,TRUE,Returned,10
+ORD-03372,12/30/2023,CUST23507,Kavya Bhat,44,Female,Central,Bhopal,Books,Self-Help Book,4,746.29,0.3,1990.92,758.46,47.79,Credit Card,1,FALSE,Delivered,7
+ORD-03087,8/26/2023,CUST32672,Meera Patel,39,Female,West,Surat,Furniture,Desk,5,21847.95,0.29,103693.59,26491.84,67.66,UPI,2,FALSE,Delivered,9
+ORD-03355,12/22/2023,CUST79039,Nikhil Kumar,35,Male,West,Ahmedabad,Electronics,Tablet,5,28716,0.06,118670.05,13016.92,60.44,Net Banking,5,FALSE,Delivered,10
+ORD-02806,5/2/2023,CUST69501,Meera Joshi,29,Other,Central,Indore,Groceries,Tea,5,481.67,0.37,2050.95,141.47,41.15,EMI,,FALSE,Delivered,8
+ORD-03288,11/21/2023,CUST96629,Karan Gupta,14,Female,South,Chennai,Electronics,Headphones,8,24941.15,0.38,134271.79,19098.95,79.77,Debit Card,4,FALSE,Delivered,4
+ORD-02987,7/18/2023,CUST78771,Nikhil Gupta,39,Female,West,Surat,Groceries,Sugar,8,455.06,0.01,5619.54,561.84,83.7,Net Banking,3,FALSE,Delivered,10
+ORD-03234,10/30/2023,CUST23301,Sanjay Mishra,40,Male,North,Chandigarh,Groceries,Dal (1kg),7,230.21,0.35,1210,147.47,21.34,UPI,2,FALSE,Pending,4
+ORD-03203,10/17/2023,CUST79007,Rahul Chatterjee,47,Other,North,Amritsar,Furniture,Bookshelf,5,30014.4,0.11,131495.05,42093.32,-3.11,Credit Card,3,FALSE,Delivered,2
+ORD-03040,8/8/2023,CUST92392,Karan Mishra,39,Female,East,Patna,Beauty,Sunscreen,5,781.43,0.3,3859.69,2172.08,63.85,EMI,3,FALSE,Delivered,8
+ORD-03083,8/25/2023,CUST78430,Rahul Pillai,51,Male,West,Mumbai,Beauty,Face Cream,4,173.98,0.25,855.12,447.82,73.28,Cash on Delivery,1,FALSE,Delivered,7
+ORD-02864,30-May-23,CUST39044,Arjun Kapoor,42,Female,North,Chandigarh,Beauty,Face Cream,5,2006.42,0.04,17279.23,8223.67,34.08,Cash on Delivery,3,FALSE,Delivered,3
+ORD-02943,6/30/2023,CUST64972,Arjun Das,41,Male,North,Amritsar,Sports,Dumbbells,9,6912.54,0.01,98451.07,24585.48,74.65,Credit Card,5,FALSE,Delivered,6
+ORD-02596,2/1/2023,CUST81623,Nikhil Mehta,23,Other,Central,Raipur,Books,Fiction Novel,4,246.31,0.32,670.92,214.73,54.41,UPI,3,FALSE,Delivered,9
+ORD-02722,3/26/2023,CUST57029,Meera Reddy,28,Male,East,Patna,Groceries,Cooking Oil,10,241.98,0.28,2282.59,137.71,54.31,Credit Card,5,FALSE,Cancelled,4
+ORD-03284,11/18/2023,CUST26543,Nikhil Mishra,37,Male,South,Bangalore,Beauty,Lipstick,3,1910.31,0.38,3118.32,1686.07,72.57,Cash on Delivery,5,FALSE,Pending,8
+ORD-02889,6/4/2023,CUST93642,Karan Singh,33,Female,North,Chandigarh,Furniture,Sofa,,11967.38,0.07,17838.52,3429.62,76.83,Debit Card,1,FALSE,Cancelled,2
+ORD-02902,6/8/2023,CUST92378,Aarav Patel,37,Other,Central,Nagpur,Sports,Cycle,1,5089.72,0.06,8297.84,2163.06,48.55,Cash on Delivery,3,FALSE,Delivered,6
+ORD-02964,7/7/2023,CUST46382,Aarav Das,39,Male,West,Surat,Sports,Cycle,8,3387.86,0.24,29752.47,7208.56,47.15,Cash on Delivery,5,TRUE,Returned,7
+ORD-03219,10/24/2023,CUST75320,Ananya Bose,33,m,East,Patna,Beauty,Hair Oil,4,1214.7,0.35,3082.23,1134.31,101.88,EMI,4,FALSE,Delivered,4
+ORD-02558,1/14/2023,CUST46065,Ananya Rao,37,Other,West,Pune,Furniture,Desk,,9906.71,0.34,6687.73,1816.22,51.63,EMI,3,FALSE,Delivered,8
+ORD-03377,12/31/2023,CUST63612,Rohan Iyer,49,Male,South,Hyderabad,Electronics,Camera,9,15045.24,0.38,72139.33,9548.15,70.61,Debit Card,1,FALSE,Delivered,6
+ORD-02770,4/14/2023,CUST50030,Karan Patel,11,Male,North,Amritsar,Groceries,Cooking Oil,4,201.51,0.18,1001.11,75.38,28.85,EMI,2,FALSE,Cancelled,9
+ORD-02962,7/7/2023,CUST66452,Rohan Reddy,33,FEMALE,North,Chandigarh,Sports,Yoga Mat,7,8842.83,0.34,62506.61,13120.8,39.72,Credit Card,3,FALSE,Delivered,8
+ORD-02608,2/6/2023,CUST97191,Rahul Kapoor,27,Male,South,Chennai,Clothing,Saree,7,3168.59,0.27,16375.14,4441.73,88.78,UPI,3,FALSE,Delivered,9
+ORD-03162,10/1/2023,CUST64139,Aarav Reddy,45,Other,West,Ahmedabad,Clothing,Saree,4,3292.57,0.28,11158.23,3813.16,38.43,UPI,2,TRUE,Returned,2
+ORD-02583,1/28/2023,CUST12302,Ananya Bose,36,Other,East,Bhubaneswar,Clothing,Kurta,2,3753.91,0.2,5209.29,1157.2,78.02,UPI,5,FALSE,Delivered,4
+ORD-03195,10/14/2023,CUST34227,Karan Verma,31,Female,South,Hyderabad,Beauty,Sunscreen,10,1369.42,,14115.57,6057.11,77.84,Net Banking,1,FALSE,Cancelled,1
+ORD-03301,11/29/2023,CUST23165,Rohan Kumar,35,Female,West,Pune,Furniture,Chair,6,9674.09,0.13,45840.04,10521.95,82.91,Credit Card,5,FALSE,Delivered,4
+ORD-02652,2/21/2023,CUST68660,Nisha Kumar,33,Other,North,Chandigarh,Electronics,Headphones,1,23168.24,0.12,22315.35,1911.92,65.2,Credit Card,2,FALSE,Cancelled,2
+ORD-03334,12/13/2023,CUST68810,Karan Bose,37,Male,North,Ludhiana,Books,Comic Book,2,478.86,0.24,581.38,256.04,27.77,Credit Card,5,TRUE,Returned,2
+ORD-02953,7/3/2023,CUST69533,Amit Kumar,31,Other,Central,Raipur,Clothing,Jeans,1,362.3,0.37,319.67,152.66,52.96,Credit Card,4,FALSE,delivered,3
+ORD-02904,6/8/2023,CUST88828,Pooja Reddy,41,Female,North,Amritsar,Groceries,Sugar,9,193.51,0.35,2061,255.36,60.83,Debit Card,5,FALSE,Shipped,3
+ORD-02919,6/16/2023,CUST99491,Deepa Shah,48,Other,West,Ahmedabad,Beauty,Sunscreen,10,1834.25,0.11,24185.57,12598.93,80.64,UPI,1,FALSE,Delivered,8
+ORD-02612,2/8/2023,CUST04336,Vikram Rao,46,Other,East,Kolkata,Furniture,Desk,,25731.5,0.15,25153.93,6532.8,67.79,UPI,2,FALSE,Delivered,2
+ORD-03313,12/4/2023,CUST96995,Aarav Sharma,34,female,South,Kochi,Electronics,Laptop,5,9244.78,0.33,27641.06,3683.19,66.35,Credit Card,,FALSE,Delivered,7
+ORD-02965,7/7/2023,CUST90321,Karan Bose,23,Female,South,Kochi,Books,Biography,3,224.89,,1128.03,458.02,65.2,UPI,4,FALSE,Cancelled,6
+ORD-02954,7/3/2023,CUST48148,Sunita Joshi,37,Other,West,Ahmedabad,Books,Fiction Novel,4,258.16,0.2,1147.42,452.37,71.77,Net Banking,5,TRUE,Returned,7
+ORD-03180,10/7/2023,CUST65855,Deepa Sharma,28,Other,South,Chennai,Beauty,Hair Oil,8,1575.79,0.24,9914.18,4246.21,73.87,Cash on Delivery,4,FALSE,Delivered,4
+ORD-03016,7/30/2023,CUST64559,Kavya Joshi,25,Male,South,Hyderabad,Books,Textbook,7,654.28,0.3,4385.24,1478.39,57.8,EMI,,FALSE,Delivered,6
+ORD-03157,9/29/2023,CUST79492,Sanjay Bhat,24,male,North,Ludhiana,Sports,Tennis Racket,1,13020.42,0.2,14018.12,3020.91,61.72,EMI,2,FALSE,Delivered,1
+ORD-02810,5/3/2023,CUST60489,Karan Das,27,Other,South,Kochi,Clothing,T-Shirt,2,1416.76,0.08,3388.3,1544.37,52.35,Net Banking,4,FALSE,Delivered,6
+ORD-03359,12/24/2023,CUST32879,Deepa Shah,49,Male,East,Guwahati,Beauty,Face Cream,10,1236.98,0.08,8816.24,3251.41,62.69,UPI,2,FALSE,Cancelled,9
+ORD-02602,2/4/2023,CUST51085,Deepa Reddy,30,Male,South,Chennai,Sports,Cycle,8,11980.53,0.03,84384.27,25026.93,61.24,Credit Card,2,FALSE,Delivered,3
+ORD-03005,7/24/2023,CUST48500,Sunita Mehta,30,Other,East,Bhubaneswar,Books,Fiction Novel,7,748.66,0.03,7011.74,2220.64,86.38,UPI,4,FALSE,Delivered,7
+ORD-03328,12/11/2023,CUST92130,Nisha Pillai,19,Other,North,Ludhiana,Clothing,Jacket,2,350.76,0.26,437.15,113.04,72.77,Credit Card,2,FALSE,Cancelled,9
+ORD-02597,2/3/2023,CUST48131,Arjun Kumar,34,Other,Central,Nagpur,Clothing,Dress,5,3467.44,0.22,15431.87,4362.76,70.28,Credit Card,1,FALSE,Delivered,1
+ORD-02745,4/3/2023,CUST89552,Sanjay Mishra,51,Male,West,Ahmedabad,Furniture,Wardrobe,7,9306.42,0.37,66850.76,15497.67,63.06,Debit Card,4,TRUE,Returned,4
+ORD-03007,7/25/2023,CUST57212,Amit Sharma,51,MALE,West,Surat,Sports,Football,,590.97,0.32,599.05,132.99,70.58,Credit Card,3,FALSE,Delivered,4
+ORD-02587,1/30/2023,CUST42705,Rahul Das,39,Other,East,Guwahati,Groceries,Sugar,6,253.83,0.19,1077.34,92.56,70.48,UPI,2,FALSE,Shipped,1
+ORD-03161,9/30/2023,CUST77629,Shreya Iyer,36,Other,South,Kochi,Groceries,Sugar,2,384.04,0.03,819.11,70.23,67.84,UPI,2,FALSE,Delivered,5
+ORD-02875,6/1/2023,CUST97371,Sunita Chatterjee,50,Other,South,Bangalore,Books,Textbook,1,430.84,0.37,479.27,212.94,47.32,UPI,2,FALSE,Delivered,7
+ORD-02859,5/28/2023,CUST98103,Nisha Reddy,30,Female,Central,Nagpur,Sports,Cycle,7,5477.01,0.23,47648.68,10592.45,58.19,EMI,1,FALSE,delivered,1
+ORD-03258,11/6/2023,CUST96311,Ritu Chatterjee,35,Other,North,Chandigarh,Furniture,Desk,2,19200.92,0.3,29270.92,9828.67,57.73,Cash on Delivery,1,FALSE,Delivered,4
+ORD-02799,4/28/2023,CUST04344,Rahul Bose,35,Female,South,Hyderabad,Groceries,Flour,10,310.75,0.28,2966.57,220.38,68.83,EMI,3,FALSE,Delivered,7
+ORD-02840,5/21/2023,CUST58515,Sunita Chatterjee,56,F,North,Ludhiana,Beauty,Sunscreen,3,2042.61,0.3,6276.07,1964,43.44,Credit Card,4,TRUE,Returned,7
+ORD-03183,10/8/2023,CUST13349,Rohan Pillai,32,Other,South,Bangalore,Furniture,Bookshelf,5,12843.58,0.22,54184.88,11377.39,67.77,Debit Card,5,TRUE,Returned,4
+ORD-02855,5/28/2023,CUST40126,Vikram Bhat,35,Male,South,Hyderabad,Books,Comic Book,7,1017.23,0.04,11341.51,5245.65,86.02,Debit Card,5,FALSE,Delivered,3
+ORD-03256,11/6/2023,CUST28145,Kavya Nair,56,Other,East,Bhubaneswar,Groceries,Flour,10,220.19,0.34,1171.24,111.88,89.4,EMI,5,FALSE,Delivered,9
+ORD-02533,1/4/2023,CUST12043,Vikram Patel,35,Female,West,Mumbai,Beauty,Lipstick,6,2135.86,0.17,10370.78,5319.35,62.28,UPI,2,FALSE,Delivered,8
+ORD-03165,10/1/2023,CUST41533,Sunita Iyer,40,M,East,Guwahati,Clothing,Saree,9,2536.02,0.14,21413.39,5628.93,110.12,Net Banking,3,FALSE,Delivered,8
+ORD-02726,3/28/2023,CUST09504,Sunita Kumar,,Other,West,Mumbai,Groceries,Dal (1kg),6,66.94,0.24,432.75,44.13,58.7,Cash on Delivery,2,TRUE,Returned,8
+ORD-02717,3/23/2023,CUST63078,Arjun Mehta,43,Other,North,Delhi,Furniture,Sofa,10,19976.93,,225188.99,74873.4,56.52,UPI,4,FALSE,Delivered,
+ORD-03030,8/4/2023,CUST86844,Pooja Iyer,28,Male,Central,Indore,Clothing,Saree,9,3487.12,0.33,31127.41,10643.66,62.57,Cash on Delivery,4,FALSE,Delivered,7
+ORD-02632,2/15/2023,CUST24212,Nikhil Joshi,44,Male,Central,Indore,Books,Biography,,488.16,0.06,418.25,197.75,62.93,EMI,2,FALSE,Delivered,7
+ORD-03160,9/30/2023,CUST54899,Meera Chatterjee,12,M,North,Amritsar,Groceries,Sugar,1,89.43,0.2,83.75,6.58,37.63,Credit Card,1,FALSE,Delivered,5
+ORD-03215,10/22/2023,CUST12249,Vikram Bhat,21,Male,North,Delhi,Sports,Football,7,3704.66,0.33,18963.56,3880.05,61.03,EMI,3,FALSE,Delivered,10
+ORD-03132,9/15/2023,CUST70495,Rahul Reddy,40,Other,Central,Bhopal,Books,Self-Help Book,3,662.97,0.22,1602.1,682.08,60.4,UPI,3,FALSE,Delivered,8
+ORD-02586,1/29/2023,CUST42525,Kavya Patel,25,Female,West,Ahmedabad,Beauty,Shampoo,0,633.38,0.04,637.16,306.98,63.48,EMI,4,FALSE,Delivered,7
+ORD-03116,9/8/2023,CUST84463,Arjun Chatterjee,14,Male,Central,Raipur,Groceries,Sugar,2,120.67,,311.53,18.16,59.48,Cash on Delivery,5,FALSE,Delivered,10
+ORD-03105,9/4/2023,CUST41278,Amit Singh,4,Female,West,Surat,Clothing,T-Shirt,10,3436.98,0.13,36428.87,12821.7,64.09,Net Banking,4,FALSE,Delivered,8
+ORD-02816,5/8/2023,CUST17433,Aarav Reddy,32,Female,North,Chandigarh,Furniture,Desk,9,16799.04,0.32,158612.18,38942.27,38.06,Net Banking,1,TRUE,Returned,
+ORD-02927,6/20/2023,CUST53444,Nisha Mehta,38,Female,West,Mumbai,Sports,Tennis Racket,10,12849.18,0.17,162026.24,55613.66,50.59,UPI,1,TRUE,Returned,6
+ORD-02689,3/13/2023,CUST30478,Shreya Kapoor,39,Female,West,Ahmedabad,Sports,Dumbbells,5,7209.98,0.1,44585.53,6266.72,101.5,Net Banking,3,FALSE,Delivered,8
+ORD-03076,8/21/2023,CUST49954,Shreya Iyer,37,Other,West,Ahmedabad,Sports,Yoga Mat,8,11625.18,0.01,129797.26,30345.04,35.4,Cash on Delivery,1,TRUE,Returned,10
+ORD-02882,6/3/2023,CUST50309,Deepa Joshi,32,Male,Central,Indore,Beauty,Lipstick,6,458.32,0.39,2879.46,1655.48,66.8,UPI,5,FALSE,Delivered,4
+ORD-03045,8/10/2023,CUST54485,Karan Kapoor,42,male,South,Bangalore,Groceries,Tea,4,474.68,0.3,1844.79,156.82,41.43,Credit Card,3,FALSE,Delivered,7
+ORD-03255,11/6/2023,CUST68003,Pooja Nair,38,Other,North,Amritsar,Electronics,Smartphone,7,45852.67,0.17,273026.12,30112.39,26.23,EMI,3,FALSE,Delivered,6
+ORD-03287,11/19/2023,CUST45543,Arjun Gupta,5,Male,North,Amritsar,Groceries,Dal (1kg),1,430.64,0.35,270.6,25.24,54.23,Credit Card,2,FALSE,Delivered,4
+ORD-03127,9/11/2023,CUST95818,Meera Nair,37,Other,South,Hyderabad,Electronics,Tablet,2,73717.77,0.14,145540.46,16844.1,84.06,Credit Card,4,FALSE,Delivered,7
+ORD-03245,11/2/2023,CUST51623,Deepa Mehta,57,Male,West,Ahmedabad,Books,Textbook,8,784.92,0.2,4517.75,1812.28,66.51,Net Banking,2,FALSE,Shipped,5
+ORD-02724,3/27/2023,CUST36410,Deepa Rao,37,Male,South,Kochi,Electronics,Laptop,2,35502.95,0.33,63960.07,8566.02,90.85,Credit Card,,FALSE,Delivered,9
+ORD-03308,12/1/2023,CUST41593,Sanjay Bose,24,Other,Central,Raipur,Furniture,Chair,10,23621.89,0.03,192313.69,56375.97,73.91,UPI,2,FALSE,Delivered,2
+ORD-02627,2/14/2023,CUST23490,Meera Reddy,29,Male,North,Delhi,Sports,Dumbbells,5,11924.73,0.29,39073.02,7762.52,63.8,UPI,2,FALSE,delivered,9
+ORD-02553,1/12/2023,CUST10304,Pooja Reddy,53,Female,North,Amritsar,Groceries,Tea,1,114.17,0.1,90.79,8.1,44.85,EMI,4,FALSE,Delivered,9
+ORD-03247,11/4/2023,CUST92610,Rahul Chatterjee,36,Other,North,Delhi,Beauty,Perfume,7,2068.81,0.28,7932.49,3524.81,40.22,Credit Card,2,FALSE,Shipped,5
+ORD-03063,17-Aug-23,CUST46790,Nikhil Rao,14,Female,East,Kolkata,Furniture,Bookshelf,2,12069,0.33,20925.93,6044.5,67,Debit Card,5,FALSE,Pending,6
+ORD-02706,17-Mar-23,CUST55586,Karan Singh,25,Other,East,Kolkata,Clothing,T-Shirt,3,3828.11,0.2,10968.02,3716.33,90.35,Cash on Delivery,4,FALSE,Delivered,7
+ORD-03013,7/28/2023,CUST43350,Karan Bose,47,Male,North,Delhi,Books,Fiction Novel,1,657.4,,1050.25,432.13,66.82,UPI,5,FALSE,Delivered,8
+ORD-03000,7/23/2023,CUST14868,Shreya Joshi,32,Other,South,Chennai,Sports,Cycle,7,12914.01,0.22,122070.77,24152.84,53.5,EMI,4,FALSE,Delivered,7
+ORD-03090,8/28/2023,CUST80368,Sunita Das,63,Male,Central,Indore,Sports,Dumbbells,8,12368.25,0.22,109073.66,19645.66,21.52,Cash on Delivery,,FALSE,Delivered,1
+ORD-03148,9/27/2023,CUST35235,Meera Shah,39,Female,West,Surat,Sports,Cricket Bat,,5613.08,0.01,6520.08,1789.36,81.58,UPI,2,FALSE,Cancelled,3
+ORD-02673,3/2/2023,CUST85212,Ananya Bhat,36,FEMALE,South,Kochi,Furniture,Chair,7,4557.27,0.2,31187.49,9092.43,65.62,UPI,,FALSE,Delivered,10
+ORD-02549,1/12/2023,CUST27551,Deepa Chatterjee,48,FEMALE,South,Bangalore,Sports,Cycle,4,13669.75,0.17,43819.54,8792.51,72.71,Net Banking,3,TRUE,Returned,10
+ORD-02753,4/6/2023,CUST30170,Vikram Iyer,47,Other,North,Chandigarh,Furniture,Bookshelf,7,10705.21,0.35,75316.07,14354.3,39.52,UPI,,FALSE,Delivered,6
+ORD-02936,6/28/2023,CUST18941,Ananya Mishra,30,Female,South,Chennai,Groceries,Cooking Oil,9,452.13,0.25,4808.83,248.08,97.53,Debit Card,1,TRUE,Returned,9
+ORD-02967,7/8/2023,CUST52334,Nisha Patel,33,Male,South,Hyderabad,Electronics,Camera,2,56614.17,0.28,144440.74,23219.18,57.08,Credit Card,1,FALSE,Cancelled,10
+ORD-02790,4/22/2023,CUST65266,Arjun Mishra,54,Female,West,Mumbai,Clothing,T-Shirt,8,567.17,0.08,6261.36,1397.16,86.75,UPI,4,FALSE,Shipped,9
+ORD-03046,8/10/2023,CUST98613,Sanjay Mehta,23,Male,East,Guwahati,Furniture,Desk,7,15156.04,0.15,114775.93,33669.82,85.32,Debit Card,5,FALSE,Delivered,5
+ORD-03055,8/14/2023,CUST44516,Ananya Iyer,30,Male,East,Guwahati,Groceries,Rice (5kg),1,228.52,0.09,307.76,24.8,61.3,Cash on Delivery,1,FALSE,Delivered,6
+ORD-03051,8/12/2023,CUST77025,Pooja Chatterjee,18,Female,West,Mumbai,Sports,Football,9,10111.78,0.32,83964.06,20724.63,28.35,Credit Card,4,TRUE,Returned,1
+ORD-03120,9/9/2023,CUST93065,Rohan Bhat,42,Female,Central,Bhopal,Books,Textbook,8,919.94,0.39,5037.13,2359.89,74.61,Credit Card,,FALSE,Shipped,9
+ORD-03193,10/14/2023,CUST32406,Deepa Singh,,Other,West,Pune,Beauty,Perfume,7,2256.81,0.2,13177.14,8944.51,59.68,UPI,4,FALSE,Delivered,10
+ORD-03189,10/11/2023,CUST05334,Shreya Joshi,31,Male,North,Ludhiana,Books,Biography,9,991.57,0.36,6481.41,2354.05,85.05,Debit Card,1,FALSE,Delivered,4
+ORD-03003,7/24/2023,CUST08739,Meera Kapoor,,Other,South,Chennai,Electronics,Headphones,10,76450.07,0.02,1182709.24,198109.98,72.05,Net Banking,2,FALSE,Delivered,3
+ORD-03345,12/18/2023,CUST37057,Kavya Kapoor,53,Female,North,Amritsar,Electronics,Headphones,1,23254.63,0.01,20122.42,2165.17,35.38,Debit Card,5,FALSE,Delivered,7
+ORD-03173,10/4/2023,CUST89046,Shreya Mishra,44,Female,West,Pune,Sports,Football,4,12573.57,0.38,32140.85,8492.72,47,Credit Card,3,FALSE,Delivered,4
+ORD-03332,12/12/2023,CUST93234,Aditya Patel,20,Female,Central,Bhopal,Electronics,Laptop,9,19431.42,,144718.36,17340.49,58.66,UPI,2,FALSE,Shipped,9
+ORD-02787,4/21/2023,CUST78026,Amit Nair,31,Female,Central,Raipur,Electronics,Tablet,3,57936.22,0.01,270335.19,40002.8,70.99,Net Banking,1,TRUE,Returned,
+ORD-02623,2/12/2023,CUST26102,Vikram Rao,24,F,West,Surat,Groceries,Rice (5kg),9,278.27,0.36,1742.13,147.02,66.79,UPI,4,TRUE,Returned,3
+ORD-02675,3/2/2023,CUST02795,Karan Mehta,36,Other,South,Bangalore,Groceries,Cooking Oil,9,57.61,0.29,449.35,35.51,88.76,EMI,1,FALSE,Delivered,4
+ORD-02920,6/16/2023,CUST13418,Aarav Pillai,26,Other,South,Kochi,Books,Self-Help Book,6,254.61,0.35,1558.67,563.7,74.55,UPI,4,FALSE,Cancelled,7
+ORD-03057,8/16/2023,CUST99865,Nikhil Reddy,23,Other,East,Patna,Electronics,Laptop,10,67990.05,0.1,962865.37,103582.22,91.72,UPI,,FALSE,Delivered,8
+ORD-02708,3/20/2023,CUST34073,Amit Sharma,27,Male,South,Chennai,Books,Textbook,3,435.38,0.27,1015.42,374.01,46.53,Net Banking,1,FALSE,Delivered,10
+ORD-03282,11/18/2023,CUST30266,Deepa Bose,34,F,West,Surat,Sports,Yoga Mat,3,14108.02,0.12,36649.85,6203.2,56.58,EMI,2,FALSE,Delivered,10
+ORD-03273,11/15/2023,CUST10941,Karan Shah,38,Female,North,Delhi,Furniture,Wardrobe,5,10929.41,0.11,46559.15,13560.07,34.1,UPI,4,FALSE,Cancelled,10
+ORD-03199,10/16/2023,CUST93632,Rohan Bose,61,Female,West,Pune,Beauty,Shampoo,8,1354.9,0.31,8717.93,4918.95,41.01,UPI,3,FALSE,Delivered,1
+ORD-03026,8/4/2023,CUST65223,Karan Bose,52,Male,West,Mumbai,Clothing,Jacket,5,1505.76,0.17,9211.72,3763.52,52.62,Cash on Delivery,3,FALSE,Pending,6
+ORD-02957,7/4/2023,CUST77083,Priya Chatterjee,60,Female,East,Patna,Groceries,Tea,9,462.67,0.04,6520.25,574.64,60.51,Debit Card,2,FALSE,Delivered,8
+ORD-02824,5/12/2023,CUST94776,Ananya Mishra,41,Other,North,Delhi,Clothing,Jacket,6,1809.68,0.31,12448.65,4684.85,37.16,Cash on Delivery,1,FALSE,Delivered,4
+ORD-03338,12/14/2023,CUST84437,Karan Chatterjee,34,MALE,South,Bangalore,Clothing,T-Shirt,5,416.65,0.01,1999.94,825.09,59.89,EMI,5,FALSE,Delivered,5
+ORD-03188,10/11/2023,CUST87675,Sunita Joshi,30,Other,North,Delhi,Groceries,Flour,2,312.71,0.16,580.22,45.18,67.16,Debit Card,2,FALSE,Delivered,6
+ORD-02733,3/30/2023,CUST12771,Meera Singh,40,Female,West,Surat,Books,Textbook,5,971.23,0.35,3832.92,1442.59,59.73,Cash on Delivery,1,FALSE,Delivered,4
+ORD-03140,9/19/2023,CUST76392,Rohan Kapoor,14,Other,South,Bangalore,Furniture,Desk,9,18114.9,0.35,131109.37,44210.57,60.14,Debit Card,3,FALSE,Cancelled,10
+ORD-02960,7/6/2023,CUST73492,Ritu Patel,35,F,South,Chennai,Groceries,Dal (1kg),8,421.42,0.14,4774.27,467.76,84.51,Cash on Delivery,3,FALSE,Shipped,8
+ORD-03278,11/17/2023,CUST28845,Rohan Singh,36,Other,Central,Indore,Groceries,Cooking Oil,3,362.83,0.33,704.3,51.58,40.17,Credit Card,2,FALSE,Delivered,3
+ORD-02693,3/14/2023,CUST31367,Sunita Pillai,57,Female,East,Kolkata,Groceries,Sugar,3,451.94,0.07,1470.9,132.82,72.18,Debit Card,2,FALSE,Shipped,8
+ORD-02996,7/21/2023,CUST44301,Kavya Iyer,44,Other,Central,Raipur,Clothing,Kurta,6,2551.46,0.28,16184.75,5763.29,52.45,Credit Card,1,FALSE,delivered,8
+ORD-03204,10/18/2023,CUST20726,Pooja Rao,30,Male,West,Mumbai,Electronics,Laptop,1,48359.17,0.06,51500.8,6586.38,81.7,Net Banking,3,FALSE,Delivered,9
+ORD-02530,1/3/2023,CUST03671,Rohan Mehta,21,F,North,Chandigarh,Clothing,Jacket,8,3811.17,,25749.39,11463.62,63.21,Cash on Delivery,2,FALSE,Delivered,5
+ORD-02995,7/20/2023,CUST01120,Nikhil Sharma,19,Female,South,Hyderabad,Beauty,Shampoo,1,581.9,0.39,573.91,321.44,61.08,Cash on Delivery,5,FALSE,Delivered,2
+ORD-02893,6/6/2023,CUST15263,Arjun Mehta,36,Female,South,Hyderabad,Electronics,Tablet,9,39846.87,0.24,452014.92,43093.98,51.7,UPI,4,FALSE,Delivered,3
+ORD-02634,2/15/2023,CUST87463,Aditya Kapoor,18,Female,South,Kochi,Clothing,Kurta,9,630.67,0.34,4097.13,1593.87,69.77,EMI,3,FALSE,Delivered,6
+ORD-03154,9/29/2023,CUST59117,Nisha Joshi,42,F,West,Surat,Groceries,Cooking Oil,8,424.28,0.38,2407.56,178.57,64.6,UPI,3,FALSE,Delivered,4
+ORD-02898,6/6/2023,CUST27445,Rohan Joshi,26,Male,South,Kochi,Furniture,Desk,3,28004.75,0.31,94421.01,29532.44,43.07,Net Banking,2,FALSE,Delivered,6
+ORD-02815,5/8/2023,CUST75268,Karan Rao,30,Other,West,Pune,Sports,Yoga Mat,3,6620.8,0.27,22527.03,3790.08,89.03,EMI,4,FALSE,delivered,8
+ORD-02568,1/20/2023,CUST63565,Vikram Mehta,24,Other,Central,Nagpur,Books,Comic Book,9,493.03,0.21,3326.77,1860.71,83.24,Debit Card,,FALSE,Delivered,8
+ORD-03369,12/29/2023,CUST12624,Sunita Chatterjee,25,Male,North,Delhi,Furniture,Sofa,10,26482.96,0.39,159573.04,39420.71,31.73,Cash on Delivery,1,FALSE,Delivered,9
+ORD-02540,1/8/2023,CUST48928,Aditya Shah,14,Female,North,Amritsar,Books,Textbook,5,1137.99,0.18,3823.42,1103.46,47.49,Credit Card,3,FALSE,Delivered,6
+ORD-02827,5/14/2023,CUST71925,Deepa Shah,32,Female,West,Ahmedabad,Beauty,Perfume,3,975.85,0.14,3386.22,2179.66,87.45,Credit Card,2,FALSE,Shipped,10
+ORD-02671,3/1/2023,CUST19942,Deepa Joshi,29,Other,West,Mumbai,Books,Cook Book,7,286.55,0.19,1865.14,943.5,60.27,Cash on Delivery,1,FALSE,Shipped,1
+ORD-02688,12/3/2023,CUST01507,Ritu Kapoor,30,Female,West,Mumbai,Books,Comic Book,1,1377.62,0.12,1266.17,565.49,53.93,Credit Card,4,FALSE,Shipped,3
+ORD-02890,6/5/2023,CUST22330,Aarav Sharma,61,Female,East,Guwahati,Beauty,Face Cream,1,830.66,0.15,1004.6,465.76,56.2,Cash on Delivery,5,FALSE,Shipped,10
+ORD-03295,11/25/2023,CUST19218,Aditya Verma,41,Female,North,Amritsar,Sports,Cricket Bat,5,7855.23,0.26,24768.64,5747.72,37.97,Credit Card,1,TRUE,Returned,2
+ORD-02609,2/6/2023,CUST96498,Meera Kapoor,,Female,South,Chennai,Clothing,Kurta,1,398.12,0.2,370.05,160.84,61.44,Debit Card,5,FALSE,Delivered,
+ORD-02730,29-Mar-23,CUST20266,Sanjay Bose,11,Female,Central,Bhopal,Books,Biography,4,1044.75,0.05,6061.68,2610.28,55.23,Cash on Delivery,3,FALSE,Delivered,6
+ORD-03044,9/8/2023,CUST65535,Vikram Joshi,31,Other,South,Kochi,Groceries,Dal (1kg),6,180.04,0.37,955.97,84.65,65.57,EMI,2,FALSE,Cancelled,7
+ORD-02571,1/25/2023,CUST27786,Nikhil Shah,27,male,Central,Nagpur,Groceries,Tea,2,419.88,0.03,701.1,57.86,49.02,Cash on Delivery,2,FALSE,Shipped,7
+ORD-02525,1/1/2023,CUST46864,Aditya Patel,26,Female,Central,Raipur,Clothing,Jeans,8,2369.91,0.35,12912.46,4497.08,59.82,Debit Card,1,FALSE,Delivered,10
+ORD-02913,6/12/2023,CUST21693,Deepa Kumar,43,Other,North,Ludhiana,Beauty,Perfume,4,623.3,0.32,3062.97,1736.95,52.12,UPI,2,FALSE,Delivered,3
+ORD-02785,4/20/2023,CUST80688,Rahul Gupta,17,Female,North,Delhi,Sports,Dumbbells,4,14577.36,0.33,50624.06,7342.63,51.26,Credit Card,4,FALSE,Delivered,6
+ORD-02711,3/22/2023,CUST25704,Kavya Iyer,0,Female,South,Kochi,Beauty,Face Cream,10,1958.8,0.39,14393.92,7311.62,56.07,UPI,5,FALSE,Delivered,7
+ORD-02636,2/15/2023,CUST87391,Meera Das,26,Other,North,Ludhiana,Beauty,Hair Oil,3,1142.82,0.23,2958.07,1291.21,53.34,Cash on Delivery,5,TRUE,Returned,9
+ORD-03103,9/3/2023,CUST01278,Aarav Verma,18,Other,East,Patna,Beauty,Lipstick,6,993.05,0.01,7148.92,2268.41,82.4,UPI,5,FALSE,Delivered,1
+ORD-02696,3/14/2023,CUST64855,Sunita Shah,46,Other,West,Ahmedabad,Books,Comic Book,2,1077.11,0.3,1827.02,727.8,61.35,UPI,5,FALSE,Delivered,6
+ORD-03378,12/31/2023,CUST54270,Arjun Sharma,40,Male,South,Hyderabad,Furniture,Wardrobe,9,13849.98,0.25,72465.97,23060.68,47.19,UPI,2,FALSE,Delivered,5
+ORD-03270,11/14/2023,CUST56619,Rohan Sharma,32,Male,East,Bhubaneswar,Clothing,Dress,5,1851.88,0.29,6571.19,2703.37,85.66,Credit Card,,TRUE,Returned,2
+ORD-03134,9/16/2023,CUST94057,Kavya Bose,29,male,South,Bangalore,Sports,Cycle,5,11278.57,0.2,57170.08,13004.09,76.71,Debit Card,2,FALSE,Cancelled,4
+ORD-03343,12/17/2023,CUST67045,Amit Kapoor,54,Male,Central,Indore,Electronics,Tablet,5,39863.48,0.33,99121.04,11921.37,75.46,Cash on Delivery,4,FALSE,Cancelled,10
+ORD-02619,10-Feb-23,CUST88761,Meera Kumar,50,Female,Central,Raipur,Clothing,T-Shirt,6,1362.12,0.04,7638.08,3612.77,61.28,Credit Card,4,FALSE,Delivered,8
+ORD-02599,2/3/2023,CUST92468,Sunita Nair,39,Female,East,Kolkata,Furniture,Desk,7,12553.02,0.22,71332.69,19645.47,85.94,EMI,3,FALSE,Delivered,1
+ORD-02935,6/28/2023,CUST75718,Aarav Das,27,Female,North,Delhi,Sports,Dumbbells,1,8268.89,,14813.92,3926.85,52.82,EMI,3,FALSE,Delivered,7
+ORD-03305,11/30/2023,CUST44322,Rahul Joshi,59,Male,North,Amritsar,Electronics,Smartphone,9,45871.33,,349237.43,41287.55,42.69,EMI,1,FALSE,Shipped,9
+ORD-02968,8/7/2023,CUST30076,Priya Singh,21,Male,East,Guwahati,Clothing,Kurta,8,306.88,0.19,2993.13,1019.95,53.78,Credit Card,3,TRUE,Returned,8
+ORD-02939,6/28/2023,CUST99269,Ananya Mishra,42,Other,North,Chandigarh,Electronics,Headphones,3,28197.79,0.16,103938.59,17181.51,73.99,Credit Card,4,FALSE,Shipped,1
+ORD-02829,5/15/2023,CUST25805,Arjun Gupta,36,Male,South,Hyderabad,Groceries,Dal (1kg),2,399.16,0.34,850.9,55.39,50.2,UPI,5,FALSE,Shipped,1
+ORD-03139,9/18/2023,CUST16592,Sunita Iyer,22,Other,West,Surat,Furniture,Bed Frame,6,8704.76,0.23,52701.51,16266.5,67.26,Credit Card,1,FALSE,Pending,9
+ORD-03115,9/8/2023,CUST63946,Amit Sharma,45,Other,North,Ludhiana,Clothing,Kurta,6,828.79,0.19,4849.25,1887.14,32.64,EMI,5,FALSE,Cancelled,6
+ORD-03370,30-Dec-23,CUST29187,Vikram Bhat,38,Female,South,Kochi,Groceries,Sugar,4,447.49,0.26,1195.23,126.56,87.92,Credit Card,5,FALSE,Shipped,3
+ORD-03176,10/5/2023,CUST24094,Amit Bose,42,Other,Central,Indore,Sports,Dumbbells,5,10121.78,0.14,46514.29,14209.66,67.27,Net Banking,1,FALSE,Delivered,6
+ORD-03206,10/19/2023,CUST74267,Deepa Bhat,29,Male,Central,Raipur,Electronics,Tablet,1,75894.5,0.12,69743.96,8164.31,36.14,UPI,1,FALSE,Delivered,5
+ORD-03072,8/19/2023,CUST71775,Aditya Joshi,25,Male,South,Hyderabad,Beauty,Hair Oil,6,1067.32,0.1,9986.14,3581.4,84.82,EMI,4,TRUE,Returned,9
+ORD-02845,24-May-23,CUST08284,Rohan Mishra,19,Male,West,Mumbai,Books,Comic Book,9,1391.1,0.09,19579.44,8225.45,57.35,Debit Card,5,FALSE,Shipped,5
+ORD-02524,1-Jan-23,CUST02441,Sunita Bhat,54,m,South,Bangalore,Sports,Cycle,3,6013.86,0.01,16119.22,3536.03,79.16,EMI,3,FALSE,Shipped,
+ORD-02802,4/30/2023,CUST45496,Shreya Pillai,38,Other,South,Chennai,Beauty,Sunscreen,1,2094.7,0.36,1650.79,699.91,51.65,Credit Card,2,TRUE,Returned,10
+ORD-03202,10/16/2023,CUST22113,Sunita Chatterjee,44,Other,North,Chandigarh,Electronics,Smartphone,6,44612.23,0.05,267791.02,30140.48,34,Cash on Delivery,3,FALSE,Delivered,8
+ORD-02729,3/29/2023,CUST02485,Ananya Bhat,45,Female,South,Hyderabad,Groceries,Sugar,8,85.59,0.25,545.76,41.46,75.34,Net Banking,4,FALSE,Delivered,9
+ORD-02955,7/4/2023,CUST34816,Arjun Bhat,41,Other,East,Guwahati,Clothing,Saree,6,1234.86,0.13,10211.19,4328.1,63.86,EMI,2,FALSE,Delivered,
+ORD-03032,8/5/2023,CUST90825,Rahul Gupta,30,Other,South,Chennai,Groceries,Dal (1kg),3,394.17,0.1,1466.75,91.2,58.94,Net Banking,5,FALSE,Delivered,1
+ORD-03074,8/20/2023,CUST55244,Ananya Bose,24,M,North,Ludhiana,Clothing,T-Shirt,7,3670.29,0.27,26206.04,9315.22,40.44,UPI,1,FALSE,Cancelled,9
+ORD-02979,7/14/2023,CUST09411,Arjun Singh,39,Female,South,Chennai,Sports,Tennis Racket,4,1405.49,0.31,5675.34,1445.6,69.73,EMI,3,FALSE,Delivered,6
+ORD-03129,9/12/2023,CUST31428,Karan Chatterjee,29,Other,West,Pune,Furniture,Bed Frame,6,5060.62,0.26,28677.01,10234.55,79.73,Cash on Delivery,3,TRUE,Returned,8
+ORD-02713,3/22/2023,CUST44605,Rohan Gupta,30,f,West,Surat,Furniture,Bed Frame,4,23122.77,0.34,75992.62,25870.08,83.74,EMI,4,FALSE,Delivered,1
+ORD-02539,1/7/2023,CUST20162,Deepa Nair,32,female,South,Bangalore,Groceries,Sugar,9,314.07,0.33,1512.76,125.71,61.79,UPI,1,FALSE,Delivered,2
+ORD-03225,10/26/2023,CUST29656,Amit Bhat,30,Female,West,Mumbai,Clothing,Saree,8,763.91,0.37,4285.91,1673.43,53.43,UPI,,FALSE,Delivered,6
+ORD-02946,6/30/2023,CUST34949,Sunita Sharma,29,Other,East,Bhubaneswar,Books,Comic Book,,1028.79,0.32,1058.82,441.92,77.01,Credit Card,3,TRUE,Returned,3
+ORD-02692,3/13/2023,CUST16083,Aditya Singh,40,Female,East,Patna,Groceries,Dal (1kg),5,83.39,0.13,507.85,48.88,72.28,Cash on Delivery,5,FALSE,Delivered,8
+ORD-02820,5/9/2023,CUST01567,Priya Verma,34,Male,East,Bhubaneswar,Sports,Football,5,635.13,0.28,3458.05,756.53,93.5,Debit Card,,FALSE,Delivered,8
+ORD-02595,2/1/2023,CUST96722,Pooja Iyer,47,Other,West,Mumbai,Furniture,Sofa,4,23419.55,0.31,74390.92,24893.16,60.16,Cash on Delivery,3,FALSE,Shipped,10
+ORD-03047,8/11/2023,CUST16193,Kavya Kapoor,34,Other,North,Chandigarh,Sports,Tennis Racket,10,12222.2,0.28,131369.75,28537.32,26.86,Debit Card,5,FALSE,Delivered,8
+ORD-02998,7/21/2023,CUST44251,Amit Bose,38,Female,North,Delhi,Sports,Cycle,7,14576.84,0.04,162740.76,34015.33,54.66,Credit Card,3,FALSE,Shipped,4
+ORD-02582,1/27/2023,CUST82185,Ananya Shah,5,male,North,Ludhiana,Groceries,Dal (1kg),7,339.27,0.26,1329.9,86.12,73.68,Credit Card,1,FALSE,Delivered,4
+ORD-02775,4/16/2023,CUST34245,Kavya Singh,24,Other,Central,Raipur,Groceries,Rice (5kg),9,116.77,0.32,1063.93,79.45,52.95,Debit Card,,FALSE,delivered,1
+ORD-02788,4/21/2023,CUST95526,Karan Sharma,43,Male,North,Ludhiana,Sports,Yoga Mat,1,3242.71,0.34,3023,605.12,37.04,Cash on Delivery,3,FALSE,Delivered,2
+ORD-03227,10/28/2023,CUST26871,Nisha Bhat,26,Female,Central,Raipur,Books,Textbook,4,653.78,0.39,1691.13,702.11,57.6,Credit Card,3,FALSE,Cancelled,4
+ORD-03360,12/25/2023,CUST69375,Pooja Verma,37,MALE,East,Kolkata,Electronics,Headphones,3,24262.65,0.02,65587.56,9960.87,61.25,Net Banking,2,FALSE,Delivered,10
+ORD-02865,5/30/2023,CUST23967,Kavya Shah,19,Male,East,Patna,Electronics,Smartphone,1,11340.22,0.33,11399.21,1893.42,112.08,Credit Card,3,FALSE,Shipped,5
+ORD-02981,7/15/2023,CUST16972,Amit Singh,59,Other,East,Kolkata,Groceries,Dal (1kg),1,420.19,0.04,592.96,70.71,40.34,Cash on Delivery,3,FALSE,Delivered,4
+ORD-02677,3/4/2023,CUST29585,Kavya Singh,28,Female,Central,Indore,Groceries,Tea,7,493.14,0.07,4089.53,366.06,60.87,Net Banking,3,FALSE,Shipped,2
+ORD-03011,7/27/2023,CUST93010,Deepa Singh,35,f,South,Hyderabad,Sports,Dumbbells,10,14369.58,0.19,155449.27,43778.31,70.01,UPI,2,FALSE,delivered,3
+ORD-03226,10/27/2023,CUST57729,Pooja Bhat,47,Male,Central,Bhopal,Sports,Dumbbells,10,4956.92,0.26,37464.05,10028.06,55.21,EMI,2,FALSE,Delivered,6
+ORD-02640,2/16/2023,CUST79657,Vikram Nair,8,Male,South,Chennai,Clothing,Jeans,10,1075.33,0.06,10581.42,3323.08,58.54,EMI,2,FALSE,Delivered,1
+ORD-02969,7/8/2023,CUST90919,Meera Pillai,39,Male,South,Chennai,Electronics,Tablet,10,75218.46,0.11,1071676.26,126516.22,87.54,Credit Card,5,FALSE,Delivered,6
+ORD-02738,3/31/2023,CUST25037,Shreya Joshi,40,Other,North,Chandigarh,Electronics,Tablet,6,51056.11,0.12,301146.22,46670.71,55.16,UPI,3,TRUE,Returned,6
+ORD-02685,3/10/2023,CUST44671,Aditya Pillai,22,Female,North,Delhi,Clothing,Kurta,9,2747.04,0.29,21056.46,7428.62,39.99,Net Banking,3,FALSE,Cancelled,7
+ORD-02578,1/27/2023,CUST92230,Pooja Kapoor,40,male,South,Bangalore,Clothing,Dress,8,3588.97,,25017.3,6791.82,59.97,Net Banking,5,FALSE,Delivered,10
+ORD-03095,8/30/2023,CUST91267,Ritu Patel,27,FEMALE,Central,Nagpur,Beauty,Perfume,10,427.76,0.04,4968.59,1801.67,67.38,UPI,5,FALSE,Delivered,1
+ORD-02886,4-Jun-23,CUST25210,Sanjay Kumar,38,Female,Central,Raipur,Groceries,Dal (1kg),9,458.95,0.24,5524.99,539.3,58.47,UPI,2,TRUE,Returned,9
+ORD-02628,2/14/2023,CUST48700,Meera Bose,30,Male,Central,Nagpur,Electronics,Smartwatch,9,65519.43,0.23,483891.6,51648.1,68.64,Credit Card,1,TRUE,Returned,9
+ORD-02585,1/29/2023,CUST32210,Meera Das,33,Male,South,Bangalore,Groceries,Cooking Oil,3,443.89,0.01,1152.72,75.7,66.88,Cash on Delivery,4,FALSE,Delivered,9
+ORD-02534,1/4/2023,CUST25928,Karan Sharma,36,Male,Central,Nagpur,Sports,Dumbbells,8,6382.18,0.37,26872.75,3931.39,52.42,UPI,1,TRUE,Returned,8
+ORD-02905,6/10/2023,CUST02847,Sunita Pillai,3,F,Central,Bhopal,Clothing,Jeans,5,3673.58,0.01,28371.45,10857.99,74.84,UPI,3,TRUE,Returned,9
+ORD-03292,11/24/2023,CUST35522,Pooja Gupta,19,Other,North,Amritsar,Beauty,Lipstick,7,1961.36,0.27,8020.15,4122.3,73.28,EMI,5,FALSE,Delivered,3
+ORD-02577,1/27/2023,CUST41943,Sunita Nair,47,Male,North,Delhi,Books,Textbook,9,1160.6,0.2,8089.96,3888.59,70.91,Net Banking,,FALSE,Delivered,6
+ORD-03128,9/12/2023,CUST69119,Rahul Gupta,39,m,East,Kolkata,Sports,Cycle,5,1183.87,0.04,7684.63,1285.86,76.95,Debit Card,1,FALSE,Delivered,5
+ORD-02614,2/9/2023,CUST00081,Karan Kumar,49,Female,West,Pune,Beauty,Hair Oil,1,1738.61,0.33,1259.18,545.39,66.25,Cash on Delivery,5,FALSE,Delivered,10
+ORD-03031,8/4/2023,CUST74610,Ananya Pillai,12,Other,South,Bangalore,Electronics,Headphones,9,25108.78,,361494.08,8115.37,102.24,Credit Card,1,FALSE,Delivered,7
+ORD-02885,6/4/2023,CUST41002,Sanjay Pillai,18,Female,North,Amritsar,Furniture,Bed Frame,,31009.31,0.12,41352.35,16597.68,47.32,Cash on Delivery,4,FALSE,Delivered,1
+ORD-03065,8/18/2023,CUST41118,Rohan Bhat,47,Female,South,Kochi,Sports,Tennis Racket,8,11184.95,0.39,84179.79,26658.84,58.07,Net Banking,4,FALSE,Shipped,8
+ORD-02598,2/3/2023,CUST07029,Sanjay Kumar,45,Other,North,Chandigarh,Clothing,Kurta,8,772.69,0.15,5307.05,1907.75,77.11,Cash on Delivery,4,FALSE,Shipped,1
+ORD-03064,8/18/2023,CUST50295,Meera Verma,38,Female,North,Ludhiana,Beauty,Sunscreen,8,1422.11,0.13,14282.97,5448.38,38.61,UPI,,TRUE,Returned,8
+ORD-02896,6/6/2023,CUST37393,Shreya Mishra,24,Other,North,Amritsar,Beauty,Sunscreen,2,1742.14,0.33,4112.89,1802.05,68.9,Net Banking,1,FALSE,Delivered,3
+ORD-02715,3/23/2023,CUST14346,Rahul Mishra,54,Female,West,Surat,Books,Fiction Novel,2,200.55,0.2,357.47,109.45,52.35,Credit Card,,TRUE,Returned,2
+ORD-03062,8/17/2023,CUST25706,Arjun Bose,32,Female,Central,Indore,Beauty,Hair Oil,7,2030.6,0.32,15087.35,5363.62,45.14,Net Banking,4,FALSE,Cancelled,4
+ORD-02665,2/27/2023,CUST20671,Priya Mishra,10,Male,East,Guwahati,Books,Comic Book,1,497.24,0.07,536.5,255,86.11,Cash on Delivery,4,FALSE,Cancelled,8
+ORD-03093,8/29/2023,CUST63058,Deepa Pillai,36,Male,South,Hyderabad,Beauty,Shampoo,6,379.51,0.02,3520.77,1945.96,53.34,Debit Card,3,FALSE,Delivered,8
+ORD-02704,3/17/2023,CUST96458,Rohan Mehta,29,Other,East,Kolkata,Electronics,Smartwatch,1,11877.16,0.37,9956.83,1549.61,72.81,Credit Card,4,FALSE,Delivered,8
+ORD-02952,7/2/2023,CUST41320,Aarav Kumar,35,female,Central,Nagpur,Groceries,Dal (1kg),3,130.57,0.23,529.3,61.59,41.29,Net Banking,1,FALSE,Cancelled,8
+ORD-03246,11/3/2023,CUST96426,Sunita Patel,46,Male,South,Chennai,Clothing,T-Shirt,3,2706.45,0.39,4498.23,1415.33,73.84,EMI,4,TRUE,Returned,8
+ORD-02832,5/17/2023,CUST08322,Nisha Nair,33,Female,North,Amritsar,Books,Fiction Novel,10,424.8,0.11,4940.07,2103.38,31.8,UPI,3,FALSE,Delivered,6
+ORD-02842,5/23/2023,CUST23282,Vikram Sharma,26,Other,West,Mumbai,Books,Self-Help Book,5,1444.85,0.05,10528.1,3958.13,62.54,UPI,3,FALSE,Delivered,7
+ORD-02809,5/3/2023,CUST04249,Pooja Bose,31,Other,South,Kochi,Furniture,Chair,10,17371.93,0.37,172582.04,55972.36,71.63,Net Banking,3,FALSE,Delivered,9
+ORD-02866,5/31/2023,CUST40473,Nikhil Das,31,Other,West,Pune,Electronics,Laptop,2,44818.69,0.19,105441.04,12774.35,73.43,UPI,1,TRUE,Returned,7
+ORD-02862,5/29/2023,CUST00967,Sanjay Gupta,18,Other,North,Amritsar,Clothing,Jeans,4,2095.23,0.14,10189.48,2714.35,59.7,Credit Card,,TRUE,Returned,7
+ORD-03022,8/1/2023,CUST98870,Ananya Bose,9,Other,North,Chandigarh,Clothing,Saree,3,3517.55,0.39,8958.7,4213.2,33.93,Cash on Delivery,,FALSE,Delivered,1
+ORD-03249,11/4/2023,CUST78428,Nikhil Iyer,71,Female,North,Ludhiana,Clothing,Jacket,5,1581.85,0.31,5298.79,1912.12,37.37,Cash on Delivery,3,FALSE,Delivered,3
+ORD-03320,12/8/2023,CUST53965,Sanjay Mehta,32,Female,North,Amritsar,Electronics,Camera,1,74269.77,0.15,58489.45,8517.07,41.46,Net Banking,5,FALSE,Pending,1
+ORD-02878,6/2/2023,CUST98432,Karan Kapoor,68,Female,Central,Indore,Clothing,Jeans,4,824.79,0.09,4781.35,1402.58,62.47,Credit Card,1,FALSE,Cancelled,4
+ORD-03131,9/15/2023,CUST60904,Aditya Shah,29,Female,North,Chandigarh,Groceries,Dal (1kg),1,394.11,0.22,414.31,32.52,55.15,UPI,3,FALSE,Delivered,2
+ORD-02993,7/20/2023,CUST83973,Nikhil Mishra,27,Female,South,Hyderabad,Electronics,Laptop,8,77986.06,,991905.81,116835.79,63.75,UPI,4,FALSE,Pending,2
+ORD-02791,4/22/2023,CUST40335,Meera Bhat,15,Female,East,Guwahati,Sports,Tennis Racket,7,5879.31,0.05,56376.87,7011.74,84.67,Cash on Delivery,1,FALSE,Cancelled,7
+ORD-02817,5/9/2023,CUST83459,Shreya Chatterjee,43,Other,Central,Bhopal,Furniture,Wardrobe,4,30780.64,0.36,99202.31,39133.54,66.36,Net Banking,,FALSE,Delivered,7
+ORD-02678,3/5/2023,CUST87936,Aarav Kapoor,46,Female,West,Pune,Sports,Yoga Mat,8,7037.46,0.21,66204.63,8522.63,63.69,UPI,4,FALSE,Delivered,2
+ORD-02766,4/12/2023,CUST55726,Nisha Iyer,36,Male,South,Hyderabad,Beauty,Perfume,1,1927.8,0.25,2039.37,829.68,81.77,Debit Card,2,FALSE,Delivered,8
+ORD-03218,10/22/2023,CUST17834,Nisha Mehta,-5,Male,North,Chandigarh,Sports,Tennis Racket,5,11387.44,0.31,45950.26,9024.25,51.52,UPI,3,FALSE,Delivered,3
+ORD-02661,2/26/2023,CUST93326,Kavya Iyer,16,Male,East,Kolkata,Furniture,Desk,3,2447.22,0.39,4781.36,589.21,62.13,Cash on Delivery,2,TRUE,Returned,1
+ORD-02526,1/1/2023,CUST11998,Rahul Singh,27,Male,South,Hyderabad,Beauty,Shampoo,3,2229.56,0.04,6482.2,3230.67,58.93,Credit Card,4,FALSE,Shipped,3
+ORD-02768,4/13/2023,CUST12098,Nisha Nair,18,Female,Central,Bhopal,Beauty,Sunscreen,9,933.94,0.02,12188.95,5789.44,38.04,EMI,5,FALSE,Shipped,5
+ORD-02852,5/28/2023,CUST37103,Shreya Kapoor,20,Male,North,Amritsar,Clothing,Jacket,3,484.17,0.23,1691.99,426.78,63.91,UPI,4,FALSE,Delivered,9
+ORD-02660,2/26/2023,CUST97483,Vikram Singh,38,Female,North,Delhi,Furniture,Chair,1,23555.64,0.09,22617.77,5562.38,65.5,UPI,1,FALSE,Delivered,10
+ORD-03319,12/8/2023,CUST70804,Ritu Singh,44,Other,East,Guwahati,Groceries,Flour,7,327.26,0.09,1655.16,157.97,83.19,Net Banking,1,FALSE,Delivered,2
+ORD-02874,6/1/2023,CUST62622,Priya Kapoor,17,Male,North,Amritsar,Sports,Tennis Racket,10,9450.13,0.12,148205.85,22767.2,65.88,EMI,1,TRUE,Returned,6
+ORD-03123,9/10/2023,CUST24025,Rohan Joshi,40,Male,North,Delhi,Furniture,Desk,10,25522.49,,360814.67,112620.79,24.03,Cash on Delivery,1,FALSE,Delivered,10
+ORD-02932,6/25/2023,CUST49455,Nisha Iyer,17,Other,North,Amritsar,Furniture,Wardrobe,8,11770.39,0.15,137222.95,30354.4,52.08,Net Banking,,FALSE,Shipped,10
+ORD-03077,8/21/2023,CUST23896,Ananya Kumar,54,Male,North,Delhi,Clothing,Dress,5,3920.37,0.09,25064.55,10054.85,17.84,Debit Card,,FALSE,Delivered,6
+ORD-03291,11/24/2023,CUST41602,Arjun Bose,35,Other,North,Ludhiana,Electronics,Laptop,4,61816.92,0,227231.35,30169.32,42.89,EMI,1,FALSE,Delivered,10
+ORD-02743,4/1/2023,CUST97838,Ritu Mehta,28,Other,East,Bhubaneswar,Clothing,Jacket,1,3896.79,0.36,3471.12,1531.25,72.56,Cash on Delivery,5,FALSE,Delivered,5
+ORD-03067,8/18/2023,CUST47125,Rohan Kumar,,Male,Central,Nagpur,Sports,Yoga Mat,4,6531.91,0.18,33411.39,7449.38,78.26,Net Banking,1,FALSE,Delivered,8
+ORD-03272,11/15/2023,CUST57589,Meera Chatterjee,35,Other,West,Mumbai,Sports,Cricket Bat,10,4317.81,0.2,32059.7,7938.01,65.95,Cash on Delivery,3,FALSE,Shipped,3
+ORD-03235,31-Oct-23,CUST84105,Shreya Gupta,8,Female,West,Mumbai,Furniture,Wardrobe,10,28237.47,0.29,201146.39,39521.26,54.08,Cash on Delivery,5,FALSE,Delivered,2
+ORD-03362,12/26/2023,CUST63701,Aditya Kumar,31,Female,North,Amritsar,Clothing,Jeans,8,3109.43,0.34,13768.79,4682.29,78.43,UPI,2,FALSE,Delivered,1
+ORD-02764,11-Apr-23,CUST82237,Arjun Bose,36,Other,Central,Nagpur,Beauty,Sunscreen,9,1168.75,0.22,10719.06,3312.86,24.91,Credit Card,1,FALSE,Delivered,6
+ORD-02655,2/24/2023,CUST25325,Amit Joshi,34,Male,Central,Nagpur,Books,Fiction Novel,10,890.58,0.05,9308.37,3442.31,77.84,UPI,1,FALSE,Delivered,4
+ORD-02555,1/13/2023,CUST46238,Nisha Singh,13,Other,South,Chennai,Groceries,Cooking Oil,6,429.91,0.36,1429.71,163.29,71.98,Cash on Delivery,3,FALSE,Delivered,3
+ORD-03125,9/11/2023,CUST63392,Pooja Nair,49,Other,Central,Raipur,Sports,Yoga Mat,8,7594.18,0.06,73152.9,14737.07,75.23,Net Banking,3,FALSE,Delivered,10
+ORD-02541,1/9/2023,CUST26316,Ananya Gupta,24,Other,South,Chennai,Books,Textbook,2,1431.03,0.24,1789.46,945.9,64.39,Debit Card,2,FALSE,Pending,1
+ORD-02857,5/28/2023,CUST81300,Ananya Mishra,27,Other,Central,Bhopal,Electronics,Smartphone,2,16666.39,0.04,45521.34,6476.79,54.21,UPI,1,FALSE,Delivered,8
+ORD-02849,5/26/2023,CUST49953,Aditya Kapoor,47,Other,South,Hyderabad,Books,Comic Book,1,616.77,0.26,805.88,253.49,67.82,Net Banking,,TRUE,Returned,5
+ORD-03168,10/3/2023,CUST99426,Sunita Shah,39,Female,East,Patna,Furniture,Chair,3,22116.52,0.14,56634.24,15322.58,80.03,EMI,2,TRUE,Returned,6
+ORD-03279,11/17/2023,CUST55124,Arjun Nair,35,F,South,Hyderabad,Beauty,Hair Oil,5,2164.5,0.36,6849.69,3108.13,89.26,EMI,1,FALSE,Delivered,5
+ORD-02835,5/18/2023,CUST93185,Sunita Verma,46,Male,North,Ludhiana,Books,Biography,2,922.52,0.02,2948.11,1106.75,61.06,Debit Card,3,FALSE,Delivered,9
+ORD-03293,11/24/2023,CUST17652,Arjun Rao,40,Male,East,Guwahati,Beauty,Face Cream,7,586.63,0.04,3416.93,1208.13,90.59,Net Banking,2,FALSE,Pending,8
+ORD-02752,4/6/2023,CUST77977,Priya Verma,39,Other,North,Chandigarh,Furniture,Desk,4,20972.36,0.23,101498.2,40455.26,43.34,UPI,1,FALSE,Delivered,4
+ORD-02639,16-Feb-23,CUST43114,Deepa Sharma,37,Male,South,Kochi,Furniture,Bookshelf,5,26873.8,0.3,107825.45,33382.41,80.54,Net Banking,2,FALSE,Cancelled,9
+ORD-03262,11/9/2023,CUST82303,Arjun Patel,18,Male,Central,Bhopal,Sports,Cycle,4,7196.49,0.2,23291.68,4701.83,62.08,Net Banking,1,TRUE,Returned,10
+ORD-02601,2/4/2023,CUST02447,Sunita Singh,48,Other,East,Guwahati,Electronics,Smartwatch,6,27584.29,0.04,154093.5,18519.24,82.16,Cash on Delivery,,TRUE,Returned,1
+ORD-02854,5/28/2023,CUST77130,Vikram Chatterjee,32,m,Central,Bhopal,Sports,Dumbbells,,2734.25,0.28,2776.37,628.32,40.14,Credit Card,2,FALSE,Delivered,5
+ORD-03145,9/25/2023,CUST35682,Ananya Chatterjee,49,Female,North,Chandigarh,Sports,Football,1,6693.3,0.11,7001.71,1485.2,49.16,Credit Card,1,FALSE,Cancelled,7
+ORD-02620,2/10/2023,CUST23456,Sunita Mishra,50,Male,South,Bangalore,Beauty,Perfume,6,1758.55,0.29,8300.79,4314.02,64.46,Net Banking,4,FALSE,Delivered,1
+ORD-02725,3/28/2023,CUST39987,Aarav Shah,34,Male,North,Amritsar,Furniture,Sofa,2,25068.04,0.07,60153.24,15753.38,16.5,Debit Card,1,FALSE,Delivered,2
+ORD-03164,10/1/2023,CUST04219,Aarav Sharma,21,Male,East,Bhubaneswar,Clothing,Jeans,8,3309.44,0.08,24146.23,7317.58,108.32,Net Banking,2,FALSE,Shipped,8
+ORD-02883,6/3/2023,CUST72686,Meera Bose,66,Male,East,Kolkata,Electronics,Headphones,7,18211.07,0.04,212071.33,30254.35,85.57,Credit Card,1,FALSE,Delivered,10
+ORD-02676,3/3/2023,CUST24131,Deepa Verma,27,Male,South,Bangalore,Books,Fiction Novel,1,948.68,0.05,1052.63,436.63,60.66,Net Banking,3,FALSE,Delivered,4
+ORD-02769,4/14/2023,CUST48124,Ritu Reddy,14,male,East,Patna,Furniture,Wardrobe,1,25421.93,0.02,36558.25,12519.52,64.85,Cash on Delivery,4,FALSE,Cancelled,8
+ORD-03289,11/21/2023,CUST55307,Kavya Chatterjee,13,Other,South,Kochi,Clothing,T-Shirt,9,2673.67,0.23,16249.74,5950.65,80.51,EMI,3,FALSE,Delivered,8
+ORD-03253,11/5/2023,CUST40202,Priya Das,24,Female,Central,Nagpur,Beauty,Sunscreen,3,2286.34,0.34,4041.13,2413.02,61.28,UPI,2,TRUE,Returned,1
+ORD-02741,4/1/2023,CUST45274,Sanjay Patel,23,Male,East,Guwahati,Sports,Dumbbells,6,5555.87,0.31,34653.36,9878.4,74.61,Debit Card,5,FALSE,Delivered,4
+ORD-02872,5/31/2023,CUST44303,Nisha Joshi,17,Female,South,Bangalore,Electronics,Camera,8,74939.93,0.31,626506.16,78957.96,82.61,Cash on Delivery,2,FALSE,Pending,
+ORD-03179,10/6/2023,CUST04408,Sanjay Chatterjee,24,Female,North,Chandigarh,Sports,Tennis Racket,6,4814.34,0.11,27501.28,3795.89,44.25,Cash on Delivery,3,FALSE,Delivered,6
+ORD-03099,9/1/2023,CUST54403,Priya Rao,31,f,Central,Nagpur,Books,Cook Book,7,1057.54,0.2,6459.84,2620.05,60.64,Debit Card,2,TRUE,Returned,2
+ORD-02910,10/6/2023,CUST60967,Nisha Chatterjee,19,Male,West,Surat,Sports,Cycle,5,13947.97,0.29,76540.79,25167.53,78.24,EMI,1,FALSE,Cancelled,7
+ORD-02744,4/1/2023,CUST66758,Rahul Patel,31,Female,North,Delhi,Beauty,Lipstick,8,2199.06,0.31,19643.63,6740.03,50.62,Cash on Delivery,1,FALSE,delivered,8
+ORD-03356,12/22/2023,CUST10273,Nisha Bose,26,Male,South,Chennai,Books,Textbook,4,1166.27,0.32,2541.06,740.36,75.02,Cash on Delivery,5,FALSE,Delivered,
+ORD-02576,1/27/2023,CUST12074,Shreya Kapoor,38,Other,East,Patna,Clothing,Jacket,1,3316.89,0.02,2808.53,1124.49,73.41,UPI,5,FALSE,Cancelled,10
+ORD-02548,1/12/2023,CUST41169,Aditya Iyer,46,Male,East,Guwahati,Furniture,Sofa,10,14207.99,0.06,135263.66,39842.93,65.88,Cash on Delivery,4,FALSE,Delivered,3
+ORD-03110,9/5/2023,CUST38634,Sanjay Reddy,50,Male,South,Hyderabad,Clothing,Kurta,7,3365.93,0.11,25929.31,13312.04,74.84,Debit Card,3,FALSE,Cancelled,4
+ORD-02755,4/6/2023,CUST20559,Karan Mishra,46,Male,North,Chandigarh,Books,Biography,9,421.91,0.16,4945.52,2326.52,51.34,EMI,5,FALSE,Delivered,1
+ORD-03252,11/5/2023,CUST39721,Sunita Kapoor,32,F,West,Surat,Sports,Cricket Bat,3,10070.36,0.29,20450.62,4777.96,40.78,UPI,4,FALSE,Delivered,3
+ORD-02695,3/14/2023,CUST36599,Kavya Bhat,43,Female,West,Ahmedabad,Beauty,Shampoo,9,415.58,0.35,3291.09,1457.49,93.37,Debit Card,4,FALSE,Pending,3
+ORD-03178,10/5/2023,CUST71971,Rohan Nair,34,Female,North,Delhi,Furniture,Bookshelf,6,11138.87,0.18,60174.08,14000.74,42.92,EMI,,FALSE,Delivered,5
+ORD-03336,12/14/2023,CUST95363,Aditya Gupta,35,Other,East,Patna,Groceries,Sugar,3,362.51,0.05,803.64,58,84.62,Debit Card,3,FALSE,Cancelled,10
+ORD-02782,4/20/2023,CUST50156,Rahul Kumar,23,Other,West,Ahmedabad,Sports,Dumbbells,6,3259.56,0.28,20331.59,3788.35,62.56,Cash on Delivery,2,FALSE,Delivered,9
+ORD-03133,9/15/2023,CUST10354,Sunita Reddy,37,Male,Central,Bhopal,Clothing,Jacket,9,1920.93,0.04,18611.05,7106.9,65.71,EMI,4,TRUE,Returned,9
+ORD-02908,6/10/2023,CUST54563,Rahul Gupta,23,Other,East,Bhubaneswar,Electronics,Smartphone,2,65714.09,0.32,147617.58,16129.94,76.71,Net Banking,5,FALSE,Delivered,7
+ORD-02538,1/6/2023,CUST35874,Ananya Bose,30,Other,North,Delhi,Furniture,Bookshelf,,12917.23,0.13,10872.27,2985.89,68.67,Cash on Delivery,2,FALSE,Delivered,10
+ORD-03059,8/17/2023,CUST05600,Aarav Sharma,34,Male,Central,Indore,Furniture,Sofa,9,19162.75,0.32,178414.75,35608.13,38.92,Cash on Delivery,4,FALSE,Delivered,5
+ORD-03283,11/18/2023,CUST59848,Rohan Gupta,29,MALE,East,Kolkata,Sports,Dumbbells,4,11596.28,0.22,32114.67,7605.77,87.57,Cash on Delivery,1,FALSE,Shipped,-1
+ORD-02772,4/16/2023,CUST77009,Shreya Kapoor,25,f,West,Surat,Beauty,Shampoo,3,188.54,0.35,430.94,225.45,38.36,EMI,1,FALSE,Delivered,10
+ORD-02938,6/28/2023,CUST95887,Priya Sharma,33,Male,South,Bangalore,Furniture,Sofa,7,20356.98,0.35,152291.21,54665.64,53.58,Net Banking,,TRUE,Returned,3
+ORD-02853,5/28/2023,CUST40777,Deepa Bose,62,Male,East,Guwahati,Furniture,Wardrobe,5,19873.59,0.26,109991.48,39055.48,94.68,Net Banking,1,FALSE,Delivered,5
+ORD-02997,7/21/2023,CUST61924,Amit Reddy,23,Male,Central,Raipur,Electronics,Camera,4,45542.32,0.34,140619.38,17512.78,87.15,Credit Card,4,FALSE,Delivered,6
+ORD-02918,6/16/2023,CUST30053,Rohan Gupta,45,Female,Central,Bhopal,Clothing,Kurta,6,1810.84,0.19,14264.78,6053.77,49.04,EMI,4,FALSE,Delivered,8
+ORD-03324,12/10/2023,CUST12209,Aditya Rao,36,Male,Central,Indore,Books,Comic Book,5,1477.84,0.14,6011.52,2592.23,63.2,Net Banking,3,FALSE,Delivered,1
+ORD-02621,2/10/2023,CUST65834,Shreya Bose,39,Female,West,Pune,Beauty,Shampoo,5,1976.24,0.28,7356.77,2566.15,88.96,Net Banking,4,FALSE,shipped,9
+ORD-02721,3/26/2023,CUST62341,Nisha Joshi,41,male,East,Kolkata,Electronics,Headphones,10,66216.18,0.12,680923.78,34980.09,97.06,Cash on Delivery,4,FALSE,Delivered,5
+ORD-02600,2/3/2023,CUST31208,Nikhil Gupta,40,Female,South,Chennai,Books,Self-Help Book,1,355.01,0.23,284.02,130.5,51.82,EMI,1,FALSE,Delivered,7
+ORD-02592,1/31/2023,CUST27366,Sunita Kumar,,Male,Central,Raipur,Beauty,Hair Oil,9,1780.34,0.22,11475.64,5187.94,61.88,Net Banking,4,TRUE,Returned,1
+ORD-03048,8/11/2023,CUST48774,Karan Mehta,30,Male,Central,Raipur,Electronics,Headphones,,26972.55,0.09,38990.55,5130.8,54.1,Debit Card,3,FALSE,Shipped,2
+ORD-03124,9/10/2023,CUST75413,Arjun Mishra,25,Male,South,Bangalore,Furniture,Chair,6,15400.65,0.09,99452.17,26834.22,79.25,Debit Card,1,FALSE,Cancelled,7
+ORD-02915,6/14/2023,CUST11665,Vikram Gupta,53,Other,Central,Raipur,Beauty,Hair Oil,4,1782.42,0.24,8996.6,3871.86,64.18,Credit Card,1,TRUE,Returned,7
+ORD-03086,8/26/2023,CUST94691,Aarav Singh,38,Other,East,Bhubaneswar,Furniture,Sofa,4,11999.53,0.22,53880.45,15284.4,99.04,Cash on Delivery,2,TRUE,Returned,1
+ORD-02892,6/6/2023,CUST72155,Shreya Pillai,22,Male,South,Chennai,Sports,Tennis Racket,2,13875.51,0.32,30649.3,5955.69,81.72,UPI,3,FALSE,Delivered,4
+ORD-02575,1/27/2023,CUST52736,Deepa Nair,30,Male,East,Guwahati,Sports,Yoga Mat,3,5115.87,0.03,15447.04,2902.6,93.03,Net Banking,1,FALSE,Delivered,6
+ORD-02731,3/30/2023,CUST76690,Ananya Patel,38,female,Central,Raipur,Clothing,Saree,2,2874,0.01,7504.43,2617.18,34.9,UPI,1,FALSE,Delivered,8
+ORD-02984,7/15/2023,CUST26170,Nikhil Reddy,,MALE,North,Delhi,Sports,Football,2,13289.2,0.35,30542.1,7213.39,70.83,EMI,1,FALSE,Shipped,5
+ORD-03106,9/4/2023,CUST23467,Shreya Patel,31,Other,West,Surat,Beauty,Shampoo,6,1382.04,0.27,7652.12,2282.97,63.64,Cash on Delivery,3,FALSE,Delivered,10
+ORD-03039,8/7/2023,CUST18530,Pooja Verma,33,Male,North,Amritsar,Sports,Yoga Mat,5,10440.97,0.03,76880.87,13536.66,49.52,Debit Card,3,FALSE,delivered,10
+ORD-03228,10/28/2023,CUST27405,Meera Kumar,26,Male,East,Kolkata,Clothing,Kurta,9,1877.39,0.13,17278.52,3585.58,87.95,UPI,3,FALSE,Delivered,5
+ORD-02759,4/9/2023,CUST42106,Arjun Kumar,48,Female,East,Kolkata,Clothing,Saree,4,2774.33,0.19,11734.39,5152.2,71.4,Cash on Delivery,2,FALSE,Shipped,6
+ORD-02909,6/10/2023,CUST79344,Rohan Bose,37,Female,South,Chennai,Clothing,T-Shirt,5,2719.24,0.37,14617.3,4858.06,78.07,UPI,5,FALSE,Delivered,6
+ORD-02999,7/22/2023,CUST67583,Rohan Nair,47,Other,South,Chennai,Furniture,Desk,4,17215.86,0.38,69333.08,21312.1,63.55,EMI,1,FALSE,Delivered,2
+ORD-02584,1/28/2023,CUST37196,Ritu Verma,31,Female,North,Amritsar,Books,Fiction Novel,,1098.64,0.36,770.95,261.79,27.79,EMI,4,FALSE,Delivered,9
+ORD-02648,2/18/2023,CUST20141,Nikhil Reddy,31,Female,East,Patna,Books,Self-Help Book,10,431.41,0.34,2656.58,1442.99,89.87,Credit Card,4,FALSE,Delivered,10
+ORD-02604,2/5/2023,CUST18095,Arjun Bhat,41,Other,East,Bhubaneswar,Sports,Cycle,6,10564.85,0.34,41618.68,10694.73,90.4,Net Banking,,TRUE,Returned,4
+ORD-03371,12/30/2023,CUST02058,Rohan Bose,36,Other,Central,Bhopal,Groceries,Tea,8,60.17,0.13,389.42,26.13,33.6,Debit Card,2,FALSE,Delivered,6
+ORD-03185,10/9/2023,CUST29728,Shreya Das,45,male,West,Surat,Sports,Football,2,14208.99,0.13,26208.02,7074.23,73.52,EMI,3,FALSE,Delivered,7
+ORD-02585,1/29/2023,CUST32210,Meera Das,33,Male,South,Bangalore,Groceries,Cooking Oil,3,443.89,0.01,1152.72,75.7,66.88,Cash on Delivery,4,FALSE,Delivered,9
+ORD-02899,6/7/2023,CUST41852,Priya Rao,43,Male,Central,Indore,Groceries,Sugar,8,165.82,0.26,1805.69,135.43,36.72,Debit Card,5,FALSE,Delivered,2
+ORD-03144,9/22/2023,CUST69784,Amit Bhat,23,Male,West,Pune,Clothing,Kurta,2,2227.31,0.04,5919.86,2748,71.3,UPI,1,FALSE,Delivered,10
+ORD-03290,11/23/2023,CUST79601,Aarav Mishra,47,Other,West,Mumbai,Groceries,Tea,6,481.93,0.39,1558.52,135.01,54.04,EMI,2,FALSE,Delivered,2
+ORD-03109,9/5/2023,CUST93512,Priya Sharma,35,Other,West,Mumbai,Books,Textbook,3,482.83,0.14,1565.69,752.92,50.18,Cash on Delivery,4,FALSE,Pending,4
+ORD-02937,6/28/2023,CUST46894,Nisha Iyer,49,Female,East,Guwahati,Electronics,Smartwatch,10,13230.15,0.38,122855.89,16653.59,74.38,EMI,5,FALSE,Delivered,10
+ORD-02975,7/11/2023,CUST47576,Sunita Rao,27,Male,West,Pune,Sports,Football,1,8472.58,0.37,7626.2,1056.58,42.85,UPI,5,FALSE,Delivered,10
+ORD-03071,8/19/2023,CUST66429,Arjun Bose,52,Other,West,Mumbai,Books,Textbook,8,1135.99,0.33,8820.52,3707.82,66.97,Cash on Delivery,4,TRUE,Returned,6
+ORD-03236,10/31/2023,CUST98300,Arjun Das,28,Male,Central,Bhopal,Sports,Dumbbells,3,3481.8,0.38,7463.99,1681.91,55.2,UPI,5,FALSE,Delivered,8
+ORD-02976,7/11/2023,CUST38282,Arjun Reddy,-2,Male,East,Kolkata,Electronics,Tablet,10,46486.3,0.35,435101.24,46106.98,68.33,EMI,2,FALSE,Delivered,10
+ORD-02747,4/4/2023,CUST34843,Sanjay Verma,21,m,South,Hyderabad,Beauty,Lipstick,9,1568.38,0.02,21256.5,9913.18,96.17,Debit Card,5,FALSE,Delivered,7
+ORD-02751,4/6/2023,CUST41956,Ritu Gupta,58,Male,Central,Raipur,Furniture,Sofa,7,21084.54,0.39,140156.32,29805.11,42.37,EMI,5,TRUE,Returned,8
+ORD-03004,7/24/2023,CUST37873,Karan Shah,24,Female,Central,Bhopal,Groceries,Sugar,7,223.54,0.05,2428.43,183.01,54.19,Debit Card,1,FALSE,Delivered,10
+ORD-02633,2/15/2023,CUST27793,Nikhil Kumar,34,Male,Central,Indore,Sports,Cycle,7,8623.2,,64006.89,15740.76,32.22,Cash on Delivery,1,TRUE,Returned,1
+ORD-03028,8/4/2023,CUST60297,Arjun Gupta,31,Female,West,Mumbai,Books,Cook Book,6,210.75,0.19,1487.4,408.37,45.71,Cash on Delivery,4,FALSE,Delivered,2
+ORD-02741,4/1/2023,CUST45274,Sanjay Patel,23,Male,East,Guwahati,Sports,Dumbbells,6,5555.87,0.31,34653.36,9878.4,74.61,Debit Card,5,FALSE,Delivered,4
+ORD-03184,8/10/2023,CUST43954,Nikhil Joshi,60,Other,North,Chandigarh,Books,Biography,5,652.44,0.01,2663.55,1220.85,35.83,Debit Card,1,FALSE,Delivered,9
+ORD-02644,2/17/2023,CUST02050,Deepa Pillai,23,Male,North,Amritsar,Beauty,Sunscreen,4,800.18,0.19,2969.81,1136.84,57.24,Net Banking,5,FALSE,Pending,10
+ORD-03299,27-Nov-23,CUST51100,Ananya Bose,45,Other,West,Mumbai,Clothing,Dress,10,1349.67,0.11,12320.37,4637.25,55.35,Debit Card,,FALSE,Delivered,10
+ORD-03268,11/11/2023,CUST08884,Meera Chatterjee,,Other,East,Patna,Sports,Tennis Racket,8,517.73,0.16,3181.45,738.99,109.47,Net Banking,3,FALSE,Delivered,7
+ORD-02926,6/20/2023,CUST07282,Nisha Nair,31,Female,East,Patna,Beauty,Face Cream,8,203.71,0.16,2533.79,1078.45,40.28,Debit Card,3,FALSE,Delivered,9
+ORD-03210,10/20/2023,CUST36370,Deepa Chatterjee,43,Female,East,Bhubaneswar,Beauty,Hair Oil,3,1474.43,0.4,2579.45,1120.36,85.55,UPI,1,FALSE,Delivered,3
+ORD-03038,8/7/2023,CUST42431,Vikram Iyer,10,Female,East,Guwahati,Books,Cook Book,4,846.94,0.1,4126.13,1830.29,103.8,Credit Card,3,FALSE,Delivered,10
+ORD-02556,1/13/2023,CUST44541,Priya Iyer,45,Other,South,Chennai,Clothing,T-Shirt,7,3456.76,0.34,15504.08,3634.35,86.38,Credit Card,1,FALSE,Delivered,3
+ORD-03214,10/21/2023,CUST26653,Priya Verma,34,Female,South,Hyderabad,Beauty,Perfume,2,2318.99,0.34,3235.02,1825.36,54.61,UPI,1,FALSE,Pending,6
+ORD-03294,11/25/2023,CUST10406,Shreya Sharma,46,Female,East,Kolkata,Clothing,Saree,8,2163.34,0.09,14389.27,6967.35,86.07,Debit Card,4,TRUE,Returned,2
+ORD-03001,7/23/2023,CUST72975,Deepa Singh,22,Female,North,Delhi,Sports,Dumbbells,7,5217.82,0.38,29460.53,4891.91,48.5,Cash on Delivery,2,FALSE,Delivered,4
+ORD-03267,11/11/2023,CUST39102,Meera Kapoor,31,Other,East,Kolkata,Electronics,Laptop,10,19168.2,0.09,157139.2,15931.28,92.38,UPI,1,TRUE,Returned,10
+ORD-03238,11/1/2023,CUST14045,Sunita Kumar,59,Other,West,Mumbai,Groceries,Rice (5kg),8,147.66,0.12,936.68,78.45,58.97,Debit Card,1,TRUE,Returned,10
+ORD-02709,3/21/2023,CUST89135,Vikram Gupta,45,Other,South,Chennai,Electronics,Smartphone,5,8426.05,0.4,28260.49,5271.23,43.17,Net Banking,3,TRUE,Returned,
+ORD-02616,2/10/2023,CUST89095,Karan Kumar,33,Male,East,Bhubaneswar,Books,Cook Book,2,1201.89,,2704.17,1451.59,59.47,Net Banking,4,FALSE,Delivered,5
+ORD-03117,9/8/2023,CUST41510,Arjun Rao,31,female,North,Delhi,Beauty,Lipstick,8,1386.11,0.36,8949.36,3833.84,80.48,UPI,,FALSE,Delivered,7
+ORD-03354,12/21/2023,CUST67353,Sunita Nair,40,Other,West,Mumbai,Groceries,Dal (1kg),8,133.54,0.25,700.62,48.03,54.62,Cash on Delivery,2,FALSE,Delivered,7
+ORD-02940,6/29/2023,CUST98397,Priya Patel,33,Male,East,Kolkata,Furniture,Desk,7,29626.67,0.25,260198.32,54990.37,89.07,Credit Card,3,FALSE,Delivered,2
+ORD-02863,5/30/2023,CUST63160,Meera Mehta,39,Other,South,Bangalore,Books,Self-Help Book,8,786.23,0.23,7962.8,2889.1,89.79,Cash on Delivery,4,TRUE,Returned,3
+ORD-03230,10/29/2023,CUST12331,Nikhil Singh,28,Other,West,Ahmedabad,Furniture,Bed Frame,2,28320.84,0.09,52512.57,12726.17,51.84,EMI,2,FALSE,Delivered,4
+ORD-02792,4/23/2023,CUST84330,Kavya Verma,32,Female,South,Bangalore,Clothing,Jacket,6,3592.92,,32152.59,12889.05,58.05,Cash on Delivery,4,TRUE,Returned,3
+ORD-02732,3/30/2023,CUST23366,Priya Kumar,32,Male,North,Amritsar,Clothing,Jacket,8,1060.79,0.16,8629.82,2159.2,51.46,UPI,4,FALSE,Pending,7
+ORD-03346,12/18/2023,CUST20166,Sunita Das,,Other,East,Kolkata,Furniture,Bed Frame,9,33868,0.31,167839.68,31658.39,110.02,EMI,2,FALSE,Delivered,7
+ORD-03049,8/12/2023,CUST94965,Amit Joshi,26,Other,East,Bhubaneswar,Sports,Tennis Racket,9,905.34,0.05,10046.96,2301.49,59.24,Net Banking,1,FALSE,Delivered,6
+ORD-02958,7/5/2023,CUST02784,Sunita Gupta,25,Male,North,Amritsar,Sports,Cycle,3,13054.7,0.2,50129.67,9740.83,41.44,UPI,2,TRUE,Returned,9
+ORD-02605,2/5/2023,CUST70348,Sanjay Chatterjee,33,Other,East,Guwahati,Groceries,Dal (1kg),2,458.79,0.24,719.16,59.83,86.04,EMI,3,FALSE,Cancelled,6
+ORD-02589,1/30/2023,CUST13119,Priya Bose,39,Other,West,Ahmedabad,Furniture,Bookshelf,8,8213.91,,64071.92,12928.63,87.38,Net Banking,,FALSE,Delivered,9
+ORD-02793,4/24/2023,CUST32818,Kavya Kumar,,Other,West,Surat,Clothing,Dress,4,882.01,0.05,4873.47,1032.3,65.21,Credit Card,2,FALSE,Delivered,3
+ORD-03322,12/9/2023,CUST90480,Nisha Patel,31,Other,East,Kolkata,Groceries,Rice (5kg),8,314.32,0.03,2055.55,180.84,99.45,Debit Card,1,FALSE,Cancelled,2
+ORD-03068,8/18/2023,CUST89345,Deepa Iyer,30,Other,East,Guwahati,Beauty,Shampoo,1,133.98,0.16,157,64.55,59.05,Credit Card,5,FALSE,Delivered,4
+ORD-03146,9/25/2023,CUST78079,Meera Gupta,27,Male,South,Bangalore,Electronics,Smartwatch,3,40582.57,0.22,118400.61,13936.96,91.9,Debit Card,3,FALSE,Cancelled,4
+ORD-02560,1/14/2023,CUST90788,Kavya Kapoor,999,Female,South,Kochi,Electronics,Tablet,999,18619.45,0,17360314.17,2445648.43,82.19,EMI,1,FALSE,Delivered,5
+ORD-02657,2/24/2023,CUST66904,Kavya Chatterjee,41,Other,East,Kolkata,Groceries,Cooking Oil,5,97.04,0.07,446.89,48.71,82.24,Net Banking,1,FALSE,delivered,3
+ORD-02656,2/24/2023,CUST34846,Vikram Singh,46,Female,North,Chandigarh,Furniture,Bookshelf,8,24561.25,0.33,140193.36,31348.77,47.2,Credit Card,2,FALSE,Delivered,1
+ORD-03221,10/24/2023,CUST96034,Rohan Singh,30,M,North,Chandigarh,Books,Textbook,6,452.9,0.01,2766.66,1043.1,58.82,Net Banking,1,FALSE,Delivered,3
+ORD-02941,6/29/2023,CUST16576,Aditya Mehta,53,Female,North,Amritsar,Books,Fiction Novel,4,254.4,0.04,1971.55,765.6,70.91,Cash on Delivery,4,FALSE,Delivered,7
+ORD-03052,8/13/2023,CUST62695,Vikram Bhat,38,Other,East,Guwahati,Sports,Dumbbells,7,13199.66,0.23,101253.81,23525.51,75.76,Cash on Delivery,4,FALSE,Delivered,9
+ORD-03078,8/21/2023,CUST46478,Aarav Nair,32,Female,East,Bhubaneswar,Books,Textbook,3,761.02,0.23,2331.91,1183.07,118.86,Credit Card,3,FALSE,Delivered,7
+ORD-02776,4/16/2023,CUST86061,Kavya Rao,45,Male,Central,Indore,Sports,Football,8,8715.32,,96549.16,22685.06,74.22,Cash on Delivery,1,FALSE,Delivered,8
+ORD-02942,6/30/2023,CUST41370,Amit Verma,40,Male,North,Delhi,Groceries,Dal (1kg),5,306.51,0.18,2204.96,174.67,63.22,Cash on Delivery,3,FALSE,Delivered,3
+ORD-02950,7/1/2023,CUST02564,Nisha Gupta,57,Other,Central,Raipur,Furniture,Wardrobe,7,7949.66,0.29,60207.42,13411.24,66.87,Credit Card,4,FALSE,Delivered,2
+ORD-02796,4/27/2023,CUST56780,Arjun Chatterjee,24,Other,East,Guwahati,Groceries,Cooking Oil,8,132.4,0.32,1145.95,93.32,91.9,Debit Card,2,FALSE,Delivered,2
+ORD-03321,12/9/2023,CUST48101,Sanjay Kumar,38,Male,East,Patna,Clothing,Jacket,7,2311.75,0.14,11373.42,4064.18,93.86,Net Banking,4,FALSE,Delivered,10
+ORD-03166,10/3/2023,CUST06674,Sanjay Pillai,47,female,Central,Bhopal,Furniture,Bookshelf,9,22760.46,0.37,145109.61,39767.62,72.02,EMI,1,FALSE,Shipped,3
+ORD-02800,4/29/2023,CUST56256,Ananya Patel,45,F,East,Patna,Sports,Cycle,4,10550.62,0.36,42878.34,7286.48,64.73,Net Banking,,TRUE,Returned,3
+ORD-03036,8/5/2023,CUST13591,Nikhil Reddy,57,Female,Central,Indore,Electronics,Smartwatch,4,5288.54,0.19,27570.77,3492.82,95.83,Debit Card,3,FALSE,delivered,5
+ORD-02781,4/18/2023,CUST33751,Nikhil Singh,43,Other,Central,Raipur,Groceries,Cooking Oil,7,287.94,0.34,1907.63,168.82,48.27,Credit Card,4,FALSE,Delivered,5
+ORD-02740,3/31/2023,CUST90154,Arjun Rao,39,Female,West,Mumbai,Beauty,Sunscreen,3,1932.05,0.12,6749.05,2983.29,47.16,UPI,1,FALSE,Pending,5
+ORD-02658,2/25/2023,CUST50190,Aarav Mehta,29,Female,Central,Bhopal,Clothing,T-Shirt,4,2095.6,0.36,5514.66,1469.25,50.22,Net Banking,4,FALSE,Delivered,6
+ORD-02650,2/21/2023,CUST24055,Ananya Mehta,47,Female,East,Bhubaneswar,Clothing,Saree,6,3972.74,0.19,21803.58,9997.37,46.75,Debit Card,2,FALSE,Delivered,1
+ORD-02606,2/5/2023,CUST20519,Aarav Rao,48,Other,South,Kochi,Clothing,T-Shirt,9,1032.03,0.33,6175.76,1554.99,79.74,UPI,4,TRUE,Returned,7
+ORD-03323,12/9/2023,CUST01601,Sanjay Singh,43,Other,North,Amritsar,Books,Biography,6,816.54,0.12,3736.19,1793.27,39.88,Net Banking,2,FALSE,Pending,7
+ORD-02580,1/27/2023,CUST20280,Priya Patel,46,Other,West,Surat,Beauty,Hair Oil,4,1660.82,0.21,5505.54,2444.92,41.4,Debit Card,3,FALSE,Delivered,7
+ORD-03118,9/9/2023,CUST99970,Meera Kumar,32,Female,North,Amritsar,Sports,Cycle,4,4072.52,0.37,12014.98,2649.18,60.13,Net Banking,3,FALSE,Delivered,4
+ORD-02624,2/12/2023,CUST85938,Aarav Reddy,28,Female,East,Guwahati,Electronics,Headphones,1,34782.2,0.31,23810.12,2943.23,73.54,UPI,5,FALSE,Delivered,4
+ORD-02622,2/11/2023,CUST47032,Deepa Rao,,Male,Central,Indore,Clothing,Jeans,9,1137.56,0.16,7041.76,1704.37,70.39,Cash on Delivery,1,FALSE,Delivered,3
+ORD-03351,12/20/2023,CUST68480,Rahul Pillai,37,Male,North,Delhi,Clothing,Saree,6,3307.09,0.32,13005.72,4025.44,56.56,Net Banking,,FALSE,Delivered,1
+ORD-02784,4/20/2023,CUST25444,Priya Mehta,52,Male,Central,Bhopal,Beauty,Perfume,8,2413.19,0.25,18757.8,6413.01,55.59,EMI,3,FALSE,Delivered,10
+ORD-03169,10/4/2023,CUST57585,Karan Kapoor,36,Male,West,Pune,Sports,Tennis Racket,7,11959.3,0.06,80013.65,18319.5,55.16,Cash on Delivery,1,FALSE,Shipped,1
+ORD-03194,10/14/2023,CUST46133,Sunita Patel,35,Female,Central,Nagpur,Groceries,Rice (5kg),1,466.8,0.37,312.81,17.47,67.52,EMI,4,FALSE,Delivered,7
+ORD-03229,10/28/2023,CUST44015,Nisha Shah,1,Other,North,Amritsar,Sports,Cricket Bat,4,10506.22,0.26,31932.89,4266.19,51.99,Credit Card,1,TRUE,Returned,10
+ORD-02594,2/1/2023,CUST20482,Karan Das,35,Female,Central,Nagpur,Sports,Cricket Bat,10,856.51,0.39,5930.43,1385.75,57.74,Net Banking,3,FALSE,Delivered,4
+ORD-02524,1-Jan-23,CUST02441,Sunita Bhat,54,m,South,Bangalore,Sports,Cycle,3,6013.86,0.01,16119.22,3536.03,79.16,EMI,3,FALSE,Shipped,
+ORD-02682,3/8/2023,CUST50033,Ritu Joshi,51,Other,South,Bangalore,Clothing,Dress,8,3911.66,0.3,25920.44,11329.49,76.96,Debit Card,3,FALSE,Cancelled,3
+ORD-02821,5/10/2023,CUST76939,Ananya Bose,56,Other,North,Delhi,Electronics,Smartphone,8,29764.18,0.21,268708.58,24851.54,45.84,Cash on Delivery,2,FALSE,delivered,2
+ORD-03237,10/31/2023,CUST62193,Ananya Rao,48,Other,East,Kolkata,Beauty,Perfume,3,434.81,0.39,892.79,365.96,77.89,Debit Card,2,FALSE,Delivered,5
+ORD-02559,1/14/2023,CUST02955,Aarav Sharma,46,F,East,Patna,Beauty,Hair Oil,1,1511.99,0.39,914.13,402.56,88.69,UPI,1,FALSE,Cancelled,7
+ORD-03232,10/29/2023,CUST26327,Arjun Mishra,10,F,North,Chandigarh,Electronics,Tablet,5,29580.52,0.4,105263.11,15663.51,86.48,Cash on Delivery,4,FALSE,Delivered,2
+ORD-03112,9/5/2023,CUST75819,Aarav Gupta,48,Other,South,Hyderabad,Clothing,Dress,8,771.59,0.37,4477.38,1547,66.22,Net Banking,5,FALSE,Delivered,2
+ORD-03220,10/24/2023,CUST05571,Vikram Mehta,44,Other,West,Ahmedabad,Books,Fiction Novel,6,1199.21,0.09,7876.86,3776.83,61.99,EMI,5,FALSE,Shipped,3
+ORD-02535,1/5/2023,CUST40704,Karan Singh,36,Female,North,Delhi,Furniture,Wardrobe,1,10813.51,0.12,8770.86,1573.05,58.09,UPI,1,TRUE,Returned,1
+ORD-02989,7/18/2023,CUST00835,Kavya Patel,38,Other,North,Ludhiana,Electronics,Camera,2,77260.63,0.28,179057.38,27038.61,72.59,UPI,4,FALSE,Delivered,4
+ORD-03333,12/12/2023,CUST27128,Karan Verma,36,Other,East,Patna,Groceries,Tea,8,244.23,0.21,1268.84,127.92,76.52,Debit Card,3,FALSE,Delivered,6
+ORD-03012,7/28/2023,CUST28387,Aditya Bose,42,Male,East,Patna,Electronics,Headphones,3,73866.57,0.26,269224.59,33151.92,88.4,Cash on Delivery,4,FALSE,Delivered,5
+ORD-02980,7/15/2023,CUST27360,Pooja Mishra,58,Other,West,Pune,Groceries,Sugar,6,290.29,0.28,2095.81,197.15,73.31,Cash on Delivery,3,FALSE,Delivered,8
+ORD-02798,4/28/2023,CUST05716,Arjun Nair,35,male,North,Amritsar,Electronics,Tablet,4,22399.3,0.34,85795.74,10309.74,54.13,EMI,4,FALSE,Cancelled,8
+ORD-02804,4/30/2023,CUST37928,Arjun Chatterjee,24,Female,North,Delhi,Books,Textbook,8,1123.69,0.12,10485.92,3534.73,78.68,EMI,,FALSE,Delivered,2
+ORD-02710,3/22/2023,CUST02291,Sanjay Mehta,34,Male,East,Guwahati,Electronics,Smartwatch,2,10193.98,0.38,14993.54,1174.9,86.74,EMI,4,FALSE,Pending,5
+ORD-03155,9/29/2023,CUST59557,Meera Chatterjee,25,Other,South,Chennai,Clothing,Jacket,6,2996.07,0.39,13261.21,6275.03,75.18,Cash on Delivery,2,FALSE,Delivered,1
+ORD-02983,7/15/2023,CUST47590,Aarav Kumar,25,Male,East,Patna,Beauty,Shampoo,8,524.72,0.11,6161.59,3302.07,74.59,Net Banking,,FALSE,Delivered,9
+ORD-02922,6/18/2023,CUST45653,Aditya Reddy,27,Male,East,Kolkata,Furniture,Bed Frame,6,18974.28,0.32,137423.69,7548.58,78.91,Net Banking,,FALSE,Delivered,6
+ORD-02985,7/15/2023,CUST52758,Meera Pillai,42,Male,East,Guwahati,Sports,Tennis Racket,3,13447.87,0.03,63861.69,14051.98,89.88,Credit Card,1,TRUE,Returned,1
+ORD-03104,3-Sep-23,CUST21518,Karan Pillai,26,Male,West,Ahmedabad,Clothing,Saree,1,1916.17,0.22,1845.9,598.99,47.98,Net Banking,4,FALSE,Delivered,10
+ORD-03274,11/16/2023,CUST59021,Nisha Iyer,,Other,East,Bhubaneswar,Electronics,Smartwatch,10,61623.34,0.1,514325.26,41031.36,69,UPI,4,FALSE,Delivered,5
+ORD-02528,1/2/2023,CUST85727,Nisha Pillai,38,Female,South,Bangalore,Clothing,Jacket,9,2765.83,0.09,21588.14,7174.59,83.41,Cash on Delivery,5,FALSE,Cancelled,4
+ORD-03141,9/20/2023,CUST51444,Rohan Kapoor,34,Female,Central,Indore,Sports,Cricket Bat,9,3722.56,0.09,35748.44,8661.64,41.2,UPI,4,FALSE,Cancelled,2
+ORD-02951,7/1/2023,CUST74188,Aarav Singh,46,Male,West,Mumbai,Sports,Football,2,10865.46,0.25,25165.9,6993.08,49.79,Cash on Delivery,1,TRUE,Returned,7
+ORD-03222,10/25/2023,CUST90239,Pooja Patel,31,Female,East,Kolkata,Books,Comic Book,9,224.99,0.21,1955.07,489.85,81.53,EMI,3,FALSE,Shipped,1
+ORD-03358,12/23/2023,CUST82460,Nikhil Pillai,,Other,East,Guwahati,Electronics,Smartwatch,9,17538.79,0.28,86347.39,9279.29,93.75,EMI,1,FALSE,Delivered,9
+ORD-02894,6/6/2023,CUST87652,Nikhil Patel,25,Other,East,Bhubaneswar,Beauty,Shampoo,1,123.79,0.17,167.72,67.47,49.95,Credit Card,3,FALSE,Delivered,3
+ORD-02603,2/4/2023,CUST47968,Vikram Pillai,27,Female,North,Amritsar,Beauty,Shampoo,5,1931.12,0.02,10949.84,3362.6,79.88,Net Banking,1,FALSE,Delivered,9
+ORD-03089,8/28/2023,CUST94322,Shreya Kapoor,19,Other,East,Patna,Books,Textbook,7,1441.05,0.29,9079.99,2820.94,86.34,Debit Card,3,TRUE,Returned,10
+ORD-02570,1/24/2023,CUST14169,Deepa Gupta,33,Male,Central,Indore,Books,Cook Book,6,1149.86,0.21,5203.29,2215.79,26.1,Debit Card,4,TRUE,Returned,8
+ORD-03023,8/1/2023,CUST97888,Deepa Gupta,16,Female,East,Kolkata,Sports,Cricket Bat,4,2506.3,0.16,11720.71,3383.09,80.27,Net Banking,3,FALSE,Delivered,2
+ORD-03224,10/26/2023,CUST38211,Ananya Pillai,37,Male,Central,Indore,Clothing,Saree,4,594.33,0.07,2462.17,786.24,84.06,UPI,1,FALSE,Delivered,8
+ORD-03329,12/11/2023,CUST84812,Amit Singh,29,Male,North,Amritsar,Beauty,Hair Oil,7,1649.29,0.18,7846.93,3544.75,37.21,Net Banking,2,FALSE,delivered,2
+ORD-02891,6/5/2023,CUST13778,Amit Pillai,41,Female,South,Hyderabad,Beauty,Sunscreen,2,1297.33,0.22,3312.56,1518.57,46.51,Debit Card,1,FALSE,Delivered,9
+ORD-03321,12/9/2023,CUST48101,Sanjay Kumar,38,Male,East,Patna,Clothing,Jacket,7,2311.75,0.14,11373.42,4064.18,93.86,Net Banking,4,FALSE,Delivered,10
+ORD-02554,1/12/2023,CUST72987,Sanjay Verma,32,male,North,Ludhiana,Beauty,Lipstick,5,1481.3,0.31,4531.15,1360.74,44.59,Cash on Delivery,2,FALSE,Pending,2
+ORD-03280,11/17/2023,CUST58917,Rohan Joshi,40,Other,East,Kolkata,Books,Cook Book,6,1395.75,0.22,5091,2066.28,73.1,Debit Card,2,FALSE,Delivered,7
+ORD-02949,7/1/2023,CUST29456,Priya Sharma,20,Other,East,Bhubaneswar,Groceries,Flour,3,108.19,0.4,272.74,18.29,82.45,Cash on Delivery,2,FALSE,Cancelled,5
+ORD-03143,9/21/2023,CUST43908,Nisha Iyer,31,Male,Central,Bhopal,Electronics,Laptop,3,56628.56,0.32,145921.2,15624.65,47.88,Credit Card,1,FALSE,Shipped,8
+ORD-02754,4/6/2023,CUST60353,Aarav Kumar,52,Female,East,Patna,Sports,Cycle,5,12633.19,0.18,75906,19171.82,62.92,Cash on Delivery,2,TRUE,Returned,8
+ORD-02566,1/17/2023,CUST73248,Sunita Nair,18,Other,North,Amritsar,Clothing,Kurta,5,3294.49,0.36,11296.68,4457.73,69.79,Cash on Delivery,,FALSE,Delivered,3
+ORD-02888,6/4/2023,CUST23652,Kavya Mehta,39,Male,West,Mumbai,Sports,Football,9,3434.17,0.08,46040.29,10782.3,55.14,UPI,2,FALSE,Delivered,5
+ORD-03271,11/14/2023,CUST54392,Aarav Mishra,31,Male,Central,Raipur,Groceries,Dal (1kg),6,470.13,0.34,1607.31,145.53,73.23,Debit Card,4,FALSE,Delivered,2
+ORD-03167,10/3/2023,CUST14358,Arjun Singh,45,Female,South,Bangalore,Groceries,Cooking Oil,2,487.25,0.31,715.47,59.76,64.43,Debit Card,1,FALSE,Delivered,6
+ORD-03111,9/5/2023,CUST09406,Meera Nair,66,Other,South,Hyderabad,Sports,Cricket Bat,2,548.2,0.12,1180.05,281.25,57.13,Net Banking,,FALSE,Delivered,9
+ORD-02552,1/12/2023,CUST30853,Ritu Singh,40,Female,North,Delhi,Beauty,Lipstick,10,544.06,0.02,4863.92,2369.17,69.04,Cash on Delivery,3,FALSE,Shipped,6
+ORD-02971,7/9/2023,CUST11958,Rahul Bose,41,Female,East,Guwahati,Clothing,Saree,2,1764.31,0.05,4950.24,1681.63,91.22,EMI,5,FALSE,Delivered,7
+ORD-02977,7/13/2023,CUST30941,Amit Rao,36,Male,South,Kochi,Clothing,Dress,3,3416.07,0.14,15099.86,6787.12,56.49,Cash on Delivery,4,FALSE,shipped,8
+ORD-02844,5/24/2023,CUST72283,Aarav Reddy,48,Male,West,Mumbai,Furniture,Chair,2,16498.44,0.32,35854.5,11294.07,57.11,Credit Card,4,FALSE,Delivered,5
+ORD-02737,3/30/2023,CUST77328,Meera Pillai,34,Other,East,Bhubaneswar,Clothing,Dress,4,1407.93,0.05,6398.88,2389.35,107.41,Debit Card,5,FALSE,Delivered,2
+ORD-02990,7/18/2023,CUST58369,Aditya Kumar,25,Other,East,Patna,Beauty,Perfume,2,524.06,0.35,992.13,703.91,91.44,Cash on Delivery,5,FALSE,Delivered,3
+ORD-03050,8/12/2023,CUST75754,Karan Das,48,Other,North,Chandigarh,Furniture,Sofa,5,2325.92,0.02,17516.82,4426.97,68.39,Cash on Delivery,1,FALSE,Delivered,5
+ORD-02948,7/1/2023,CUST47347,Deepa Mishra,36,Male,North,Chandigarh,Beauty,Hair Oil,9,384.12,0.06,5112.14,2559.12,26.49,UPI,3,FALSE,Delivered,8
+ORD-02797,4/28/2023,CUST19934,Vikram Shah,37,Female,West,Surat,Groceries,Dal (1kg),7,345.21,0.31,2467.58,210.23,60.08,EMI,4,FALSE,Delivered,10
+ORD-02670,2/28/2023,CUST97284,Priya Bose,39,Female,North,Ludhiana,Sports,Cricket Bat,3,12089.59,0.15,27702.22,5345.08,42.62,UPI,5,FALSE,Shipped,5
+ORD-02828,5/15/2023,CUST68781,Rahul Pillai,27,Male,South,Bangalore,Beauty,Face Cream,7,1149.53,0.19,11894.14,7264.17,62.38,Cash on Delivery,4,FALSE,pending,2
+ORD-02978,7/14/2023,CUST72850,Nikhil Kapoor,28,Male,North,Delhi,Sports,Football,4,10069.78,0.33,43500.13,6733.75,81.56,UPI,2,FALSE,Delivered,9
+ORD-03196,10/14/2023,CUST46008,Sunita Shah,27,Other,West,Surat,Furniture,Sofa,6,28759.21,0.28,142656.4,33781.29,54.72,Debit Card,1,FALSE,Cancelled,5
+ORD-02822,5/11/2023,CUST92489,Vikram Kumar,29,FEMALE,North,Ludhiana,Sports,Cricket Bat,4,3625.13,0.28,14299.68,4907.54,52.29,Credit Card,1,FALSE,Delivered,8
+ORD-02701,3/16/2023,CUST61925,Rohan Rao,37,Other,West,Pune,Beauty,Hair Oil,3,2346.26,0.36,6011.01,2771.99,60.72,Credit Card,1,FALSE,Delivered,6
+ORD-02916,6/14/2023,CUST68649,Rahul Patel,20,Other,South,Chennai,Groceries,Dal (1kg),8,246.15,0.21,2555.54,179.49,95.73,Net Banking,1,FALSE,Delivered,2
+ORD-03350,12/20/2023,CUST53832,Rahul Mehta,14,Female,North,Ludhiana,Clothing,Jeans,5,645.04,0.13,2174.45,643.44,51.85,Credit Card,5,FALSE,Delivered,8
+ORD-02879,6/2/2023,CUST55177,Ananya Reddy,27,Other,East,Kolkata,Groceries,Sugar,6,386.8,0.21,3078.58,318.39,79.26,EMI,1,FALSE,Shipped,5
+ORD-02811,5/4/2023,CUST06279,Amit Joshi,35,Female,North,Ludhiana,Beauty,Lipstick,10,239.33,0.23,2481.93,780.04,61.7,Net Banking,4,FALSE,Delivered,10
+ORD-03241,11/1/2023,CUST36164,Nikhil Rao,23,Other,North,Delhi,Furniture,Desk,10,28349.81,0.14,211857.48,59966.21,53.88,Debit Card,2,FALSE,Delivered,2
