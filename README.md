@@ -20,8 +20,8 @@ An in-depth, end-to-end analysis of the Superstore dataset, focusing on profitab
 - **Version Control & Collaboration:** GitHub
 
 ## 👥 Meet Team 1
-- **Aya Hisham:** Team Leader 
+- **Aya Hisham:** Team Leader
+- **Ahmed Maher:** Data Analyst 
 - **Rayan Mohamed:** Data Analyst
-- **Ahmed Maher:** Data Analyst
 - **Shorouk Soliman:** Data Analyst
 - **Aya Anwar:** Data Analyst
