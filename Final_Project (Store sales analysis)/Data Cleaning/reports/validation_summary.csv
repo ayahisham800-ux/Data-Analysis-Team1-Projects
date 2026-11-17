@@ -1,0 +1,10 @@
+Check,Result
+Train row count preserved,True
+Test row count preserved,True
+Store row count preserved,True
+Train Store-Date duplicates,0
+Test Store-Date duplicates,0
+Duplicate Store IDs,0
+Unmatched Train Store IDs,0
+Unmatched Test Store IDs,0
+Missing Test Open values,11
