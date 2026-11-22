@@ -14,7 +14,7 @@ This folder documents the Data Engineering track of the final project: building 
 ## Source Data (cleaned files received from the Data Prep track)
 | File | Rows | Notes |
 |---|---|---|
-| `store_cleaned_1.csv` | 1,115 | One row per store, 14 columns |
+| `store_cleaned.csv` | 1,115 | One row per store, 14 columns |
 | `train_cleaned.csv` | 1,017,209 | Contains `Sales` and `Customers`, dates from 2013-01-01 to 2015-07-31 |
 | `test_cleaned.csv` | 41,088 | No `Sales` column, dates from 2015-08-01 to 2015-09-17 |
 
