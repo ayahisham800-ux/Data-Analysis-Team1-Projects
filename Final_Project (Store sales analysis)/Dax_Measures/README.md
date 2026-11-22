@@ -1,16 +1,47 @@
 # DAX Measures & Analytics — Rossmann Store Sales
 
-## Summary of Work Done
-Completed the DAX measures, sales visualization/forecasting inside the Power BI file (`Data Modeling....pbix`), and executive analytics AI infographic for the Rossmann Store Sales project:
+## Project Overview
+This section documents the DAX measures, sales forecasting, and executive analytics AI infographic prepared for the **Rossmann Store Sales** analysis project under `Final_Project (Store sales analysis) / Dax_Measures`.
 
-- **DAX Measures Table (`Dax Measures`):** Built measures inside the `Dax Measures` table covering sales tracking, year-over-year performance, promotions, holidays, stores, and customers:
-  - **Sales & Growth Measures:** `Total Sales`, `Sales PY`, `YoY Sales Growth %`, and `Avg Sales per ...` (average sales measures).
-  - **Promotions & Holiday Measures:** `Promo Sales`, `Non Promo S...`, `Promo Lift %`, `School Holida...`, and `Non School H...`.
-  - **Store & Customer Measures:** `Total Stores`, `Total Customers`, and `Open Store Days`.
-- **Visualization & Forecasting:** Created sales trend visualization and forecasting within `Data Modeling....pbix`.
-- **Executive Analytics AI Infographic:** Prepared an executive summary infographic covering Data Architecture (Star Schema), DAX Measures & KPIs, Sales Trend & Forecast, and Strategic Takeaways.
+---
+
+## Detailed DAX Measures Breakdown (`Dax Measures` Table)
+All analytical measures are organized inside the `Dax Measures` table to support performance tracking across sales growth, promotional impact, holidays, and store/customer activity:
+
+### 1. Sales & Growth Measures
+- **`Total Sales`**: Tracks overall store sales performance.
+- **`Sales PY`**: Captures prior-year sales for period-over-period comparison.
+- **`YoY Sales Growth %`**: Measures year-over-year percentage sales growth.
+- **`Avg Sales per ...`**: Tracks average sales metrics.
+
+### 2. Promotions & Holiday Measures
+- **`Promo Sales`**: Tracks sales generated during promotional periods.
+- **`Non Promo S...`**: Tracks sales during non-promotional periods.
+- **`Promo Lift %`**: Measures the percentage lift/impact resulting from promotions.
+- **`School Holida...`**: Tracks sales metrics related to school holiday periods.
+- **`Non School H...`**: Tracks sales metrics related to non-school holiday periods.
+
+### 3. Store & Customer Measures
+- **`Total Stores`**: Tracks total store count included in the analysis.
+- **`Total Customers`**: Tracks customer count across the dataset.
+- **`Open Store Days`**: Tracks active days when stores were open.
+
+---
+
+## Forecasting
+- **Sales Forecasting:** Configured sales forecasting within the Power BI file to project future sales performance.
+
+---
+
+## Executive Analytics AI Infographic
+Prepared an **Executive Analytics AI Infographic** summarizing the key analytical highlights for the project, covering:
+- **Data Architecture (Snowflake Schema)**
+- **DAX Measures & KPIs**
+- **Sales Trend & Forecast**
+- **Strategic Takeaways**
+
+---
 
 ## Deliverables
-- `Data Modeling....pbix`: Power BI file containing the `Dax Measures` table, visual, and forecast.
-- `README.md`: Summary and documentation of the completed work.
--
+- **`DAX Measures.pbix`**: Power BI file containing the `Dax Measures` table and forecasting setup.
+- **`README.md`**: Documentation of the DAX measures, forecasting, and executive AI infographic.
