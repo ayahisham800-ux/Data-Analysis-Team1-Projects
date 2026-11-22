@@ -47,5 +47,3 @@ Prepared an **Executive Analytics AI Infographic** summarizing the key analytica
 - **`DAX Measures.pbix`**: Power BI file containing the `Dax Measures` table, forecasting setup, and updated Python visual page.
 - **AI Infographic Screenshot**: Screenshot of the executive analytics AI infographic.
 - **Python Visual Page**: Updated Python visual page included in the deliverables.
-- **`README.md`**: Documentation of the DAX measures, forecasting, Python visual updates, and executive AI infographic.
-- measures, forecasting, and executive AI infographic.
